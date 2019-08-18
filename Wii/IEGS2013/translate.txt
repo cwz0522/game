@@ -1,0 +1,451 @@
+/Kidou/鬼道有人/
+/Gouenji/豪炎寺修也/
+/Masato/豪炎寺真人/
+/Ogre/王牙/
+/Otonashi Haruna/音無春奈/
+/Otonashi/音無春奈/
+/Canon/圓堂加儂/
+/Natsumi/雷門夏未/
+/Endou/圓堂守/
+/Tsurugi Kyousuke/劍城京介/
+/Tsurugi Yuuichi/劍城優一/
+/Tsurugi/劍城京介/
+/Yuuichi/劍城優一/
+/Fubuki/吹雪士郎/
+/Kogure/木暮夕彌/
+/Nagumo/南雲晴矢/
+/Burn/炎/
+/Gazelle/翔/
+/Suzuno/涼野風介/
+/Midorikawa/綠川龍二/     Midorikawa Ryuuji
+/Reize/雷傑/
+/Ichinose/一之瀨一哉/
+/Kazemaru/風丸一郎太/
+/Sakuma/佐久間次郎/
+/Fudou/不動明王/
+/Hamano/濱野海士/
+/Kabeyama/壁山塀吾郎/
+/Shindou/神童拓人/
+/Aphrodi/亞風爐照美/
+/Someoka/染岡龍吾/
+/Shinsuke/西園信助/
+/Tenma/松風天馬/
+/Sangoku/三國太一/
+/Kurumada/車田剛一/
+/Kirino/霧野蘭丸/
+/Amagi/天城大地/
+/Kariya/狩屋正樹/
+/Hayami/速水鶴正/
+/Aoyama/青山俊介/
+/Ichino/一乃七助/
+/Nishiki/錦龍馬/
+/Kurama/倉間典人/
+/Kageyama/影山輝/
+/Jin/影野仁/
+/Kurimatsu/栗松鐵平/
+/Domon/土門飛鳥/
+/Handa/半田真一/
+/Shourin/少林寺步/
+/Shishido/宍戶佐吉/ 宍: 古肉字
+/Tamagorou/多摩野五郎/
+/Otomura/音村樂也/
+/Miyasaka/宮坂了/
+/Max/松野空介/
+/Megane/目金欠流/
+/Genda/源田幸次郎/
+/Genou/源田幸次郎/
+/Daiden/大野傳助/
+/Poseidon/步星吞一/
+/Banjou/萬丈一道/
+/Gojou/五條勝/
+/Narukami/成神健也/
+/Henmi/邊見渡/
+/Sakiyama/咲山修二/
+/Doumen/洞面秀一郎/
+/Jimon/寺門大貴/
+/Apollo/阿保露光/    世宇子: 常用神名
+/Hephestus/部灰炎/
+/Ares/荒須亂/
+/Dionysus/手魚激/
+/Artemis/在手實弓/
+/Hermes/經目須商/
+/Athena/明天名智/
+/Hera/平良貞/
+/Demeter/出右手豊/   豊: 音禮
+/Tachimukai/立向居勇氣/
+/Tsunami/綱海條介/
+/Grent/大岩藏人/      混沌紀元: GK 1 防毒面具
+/Barra/薔薇園華/
+/Clara/倉掛可拉拉/
+/Gokka/極川寒太郎/
+/Bomber/本場激/
+/Heat/厚石茂人/
+/Droll/角路徹/
+/Rhine/栗尾根由紀/
+/Rhionne/栗尾根由紀/
+/Nepper/熱波夏彥/
+/Saginuma/砂木沼治/
+/Nero/根室君之/
+/Ganymede/蟹目出郎/
+/IQ/凍地修兒/
+/Keeve/紀伊布美子/
+/Pandora/近畿希望/
+/Crypto/九里風子/
+/IC/凍地愛/
+/kiwill/久井RuRu/
+/Quill/久井RuRu/
+/Ulvida/八神玲名/
+/Diam/三浦大夢/
+/Maquia/皇マキ/
+/Metron/武藤論/
+/Takeshi/杉森威/
+/Nishigaki/西垣守/
+/Shadow/闇野 カゲト/               Yamino Kageto
+/Rihm/七風理夢/
+/Zohan/石平半蔵/
+/Gouin/郷院猛/
+/Makiya/牧谷寛/
+/Arata/下鶴改/
+/Kirigakure/霧隠才次/
+/Wittz/伊豆野由宇/
+/Yuukoku/幽谷博之/
+/Zell/瀬方隆一郎/           ゼル
+/Zel/瀬方隆一郎/           ゼル
+/Tsutomu/武方努/
+/Raiden/土方雷電/
+/Tobitaka/飛鷹征矢/ 
+/Toramaru/宇都宮虎丸/
+/Kappa/龜崎河童/
+
+Astaroth (アスタロス)	黑暗天使: GK  1
+Hebimoth (ヘビーモス)  	黑暗天使: DF  2
+Belzebu (ベルゼブ)     	黑暗天使: DF  3
+Nenel (ネネル)         	黑暗天使: DF  4
+Elfel (エルフェル)     	黑暗天使: DF  3
+Mephisto (メフィスト)   黑暗天使: MF  6
+Winel (ウイネル)        黑暗天使: MF  9
+Satanathos (サタナトス) 黑暗天使: FW  7
+Guel (ギュエール)       黑暗天使: FW  8
+Desuta (デスタ)         黑暗天使: FW 10
+Sein (セイン)           黑暗天使: FW 11
+
+/Baddap/巴特寶斯列特/ 王牙: FW 10
+/Zagomel/扎高美坦迪/  王牙: GK 1
+/Bubo/普波托蘭卡斯/   王牙: DF 3 負極 
+/Geibo/凱波托蘭卡斯/  王牙: DF 2 正極 
+/Gebo/凱波托蘭卡斯/   王牙: DF 2 正極 
+/Daikko/達伊戈普卡/   王牙: DF 4
+/Ginis/傑尼斯金基斯/  王牙: DF 5
+/Jinkins/傑尼斯金基斯/王牙: DF 5
+/Drache/多拉黑丘塔/   王牙: MF 7
+/Ikkas/伊卡史塔克斯/  王牙: MF 8
+/Sandayuu/三島三太夫/ 王牙: MF 6
+/Eskaba/艾斯卡帕梅魯/ 王牙: FW 9
+/Mistre/米斯托雷涅卡魯斯/ 王牙: FW 11 像女生的男生
+
+Fideo Ardena (フィディオ・アルデナ)                                    吟遊詩人: FW 10
+Raffaele Generani (ラファエレ・ジェネラーニ) /Raffaele/拉斐葉傑涅拉尼/ 吟遊詩人: FW 11
+Daniele Sanctis (ダニエレ・サンクティス) /Daniele/達尼艾列桑古迪斯/    吟遊詩人: GK 12
+Dante Diavolo (ダンテ・ディアブロ        /Dante/丹提迪亞普羅/          吟遊詩人: MF  9
+Vento Gagliano (ベント・ガリアーノ)      /Vento/班特卡利亞諾/          吟遊詩人: DF  2
+Gigi Blasi (ジジ・ブラージ)  					       吟遊詩人: GK  1
+Ottorino Nobili (オットリーノ・ノビリ)                                 吟遊詩人: DF  3
+Anton Gattuso (アントン・ガッツーゾ)				       吟遊詩人: DF  4
+Marco Maseratti (マルコ・マセラッティ)				       吟遊詩人: DF  5
+Giuseppe Cannavaro (ジュゼッペ・カンナバロ)			       吟遊詩人: DF 15
+Angelo Gabrini (アンジェロ・ガブリーニ)    			       吟遊詩人: MF  6
+Giorgio Giannini (ジョルジョ・ジャンニーニ) 			       吟遊詩人: MF  8
+Enrico Olivier (エンリコ・オリビエ)          			       吟遊詩人: MF 13
+Alessandro Rossa (アレサンドロ・ロッサ)      			       吟遊詩人: MF 14
+Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: MF 16
+
+/Hiroto/基山廣/        Gran グラン
+/Hakuryuu/白龍/
+/Fei/菲魯恩/
+/Saru/薩魯艾凡/
+/Seto Midori/瀨戶水鳥/
+/Midori/瀨戶水鳥/
+/Yamana Akane/山菜茜/
+/Akane/山菜茜/
+/Kibayama Douzan/牙山道三/
+/Rei Rukh/雷伊路克/
+/Taiyou/雨宮太陽/
+/Shokatsu Koumei/諸葛孔明/
+/Okita Souji/沖田總司/
+/Sakamoto Ryouma/坂本龍馬/
+/Ryuu Gentoku/劉玄徳/
+/Jeanne d'Arc/聖女貞德/
+/Oda Nobunaga/織田信長/
+/Sousou/曹操/
+/King Arthur/亞瑟王/
+/Shuu/修/
+/Master Dragon/天王巨龍/
+/Torb/托普/
+/Tochan/風神翼龍老爸/
+/Inaba Taian/稲葉大安/
+/Sorano Aoi/空野葵/
+/Miyabino Reiichi/雅野麗一/   https://inazuma-eleven.fandom.com/wiki/Miyabino_Reiichi       TP: 190    Kick: A    Guard: A    Body: A    Speed: A    Control: A    Catch: S 
+/Senguuji/千宮路大和/
+/Ide/井出乗数/
+/Gomaki/護巻徹郎/
+/Wanda/湾田七雄人/
+/Ryuuzaki/龍崎皇児/
+/Hayabusa/隼総英聖/
+/Mitsuyoshi/光良夜桜/
+/Isozaki/磯崎研磨/
+/Kita/喜多一番/
+/Namikawa/浪川蓮助/
+/Mikado/御門春馬/
+/Tasuke/太助/
+
+
+/Kinako/菜花黄名子/
+
+王牙
+	巴特寶・斯列特(バダップ・スリード)
+
+
+
+
+
+
+
+
+
+/Katsuyo/串田香津世/
+/Koi/土洲戀/
+/Kouko/虎濱甲子/
+/Reika/御堂玲華/
+/Rika/浦部莉香/
+/Touko/財前塔子/
+/Hiromi/萬博美/
+/Fuyuka/久遠冬花/
+/Aki Kino/木野秋/
+			革命選抜
+			革命選拔
+/Hyoudou/兵頭司/
+/Kishibe/貴志部大河/
+/Kitaki/木瀧常緒/
+/Kurosaki/黒裂真命/
+/Mahoro/真帆路正/
+/Makari/真狩銀次郎/
+/Minamisawa/南澤篤志/		南沢篤志
+/Sousuke/瀧總介/ 	Taki Sousuke (滝 総介)   滝 -> 古同瀧(音同龍) 総 -> 總
+/Yoshihiko/瀧快彥/ 	Taki Yoshihiko (滝 快彦)
+/Yukimura/雪村豹牙/
+
+
+			世界選抜改	 世界選抜‧ 改
+Fox			フォクス
+Teres Tolue		テレス・トルーエ
+Bjorn Kyle		ビヨン・カイル
+Choi Chang Soo		チェ・チャンスウ
+Mark Kruger		マーク・クルーガー
+Edgar Valtinas		エドガー・バルチナス
+Mac Roniejo		マック・ロニージョ
+Coyote			コヨーテ
+Lubbock Henktacker	ヘンク/ラボック・ヘンクタッカー
+Demonio Strada		デモーニオ・ストラーダ  長得像 鬼道有人
+Lagarto Carlos		ラガルート・カルロス
+Nice Dolphin		ニース・ドルフィン
+Dylan Keith		ディラン・キース
+
+
+
+/1st Raimon/第一雷門/
+/2nd Raimon/第二雷門/
+/Shinsei Raimon/新生雷門/
+/(Fire Dragon)/(火焰神龍隊)/
+/(Tenmas)/(天馬隊)/
+/(Inazuma Japan)/(閃電日本隊)/
+/(Neo Japan)/(新日本隊)/
+/(Teikoku Gakuen)/(帝國學園)/
+/Shin Teikoku/真帝國學園/
+/(Girls Team)/(女生隊)/  ==> 大阪嬌嬌女CCC
+/(Little Gigant)/(小巨人隊)/
+/(Zeus)/(世宇子)/        ==> 宙斯
+/(Orpheus)/(吟遊詩人)	 ==> 義大利代表隊
+/(Dark Emperors)/暗黑帝王隊/
+/Kakumei Senbatsu/革命選抜/
+/Kakumei Senbatsu/革命選拔/
+/Sekai Senbatsu Kai/世界選抜改/		International Allstars 2
+/(Dark Angels)/(黑暗天使隊)/
+/(Dark Angel)/(黑暗天使隊)/
+/()/(第五院)/
+
+/(Fifth Sectors)/(第五院)/     (フィフスセクターズ)
+
+https://inazuma-eleven.fandom.com/wiki/Fifth_Sectors
+
+
+
+
+
+大篷車 -> 時光機器
+    進部室選單: 左上角 (即大會之上)
+
+
+https://inazuma-eleven.fandom.com/wiki/Rasetsu
+https://inazuma-eleven.fandom.com/wiki/Mahoro_Tadashi   真帆路 正
+
+
+
+
+
+
+
+閃電十一人go時空之石所有化身
+
+雷門中學
+
+松風 天馬
+魔神 佩加薩斯（魔神ペガサス）
+進化的化身
+魔神 亞克佩加薩斯（魔神ペガサスアーク）
+
+劍城 京介
+劍聖 蘭斯洛特（剣聖ランスロット）
+
+神童 拓人
+奏者 瑪耶斯特羅（奏者マエストロ）
+
+由「魔神 亞克佩加薩斯」、「劍聖 蘭斯洛特」和「奏者 瑪耶思特羅」合體而成的最強化身。
+魔帝 葛利芬（魔帝グリフォン）
+
+西園 信助
+護星神 泰坦尼斯(護星神タイタニアス)
+
+霧野 蘭丸
+戰旗士 布倫希爾德（戰旗士ブリュンヒルデ）
+
+錦 龍馬
+戰國武神 武藏(戦國武神ムサシ)
+
+花菜黃名子
+曉之巫女 天照大御神（暁の巫女アマテラス）
+
+菲・魯恩
+光速鬥士 羅賓（光速鬪士ロビン）
+
+雨宮 太陽
+太陽神 阿波羅（太陽神アポロ）
+
+托普
+太古戰士 獵豹戰神(太古の戦士ジャガウォック)
+
+圓堂 守
+魔神 葛雷特（魔神グレイト）
+
+機器圓堂
+英知之王 文具王（英知の王ブングオー）
+
+
+神之伊甸
+
+小愁
+暗黑神 黑暗艾克索達斯（暗黑神ダークエクソダス）
+
+奧美迦協定隊
+
+阿爾法
+天空的支配者 鳳凰（天空の支配者 鳳凰）
+
+紮諾
+重機兵 巴隆（機械兵ガレウス）
+
+奧美迦協定隊2.0
+
+貝塔
+虛空的女神 雅典娜（虛空の女神 アテナ）
+
+奧美迦協定隊3.0
+
+伽瑪
+迅狼 呂卡翁（迅狼リュカオン）
+
+扎納克領域
+
+扎納克‧阿巴洛尼庫
+魔界王 佐狄亞克（魔界王ゾディアク）
+
+完美病毒
+全員皆會使用化身人工化身 電漿暗影（人工化身プラズマシャドウ）及化身武裝。
+
+雷伊・路克、艾咪・烏魯、華・尼爾、凱・洛、戴・洛德
+人工化身 電漿暗影OF（人工化身プラズマシャドウOF）
+
+拉烏・瑟姆
+人工化身 電漿暗影GK（人工化身プラズマシャドウGK）
+
+馬多・阿多、林・庫魯、馬・多尼爾
+人工化身 電漿暗影DF（人工化身プラズマシャドウDF）
+
+布魯・雷克斯、古拉・霍姆
+人工化身 電漿暗影SH（人工化身プラズマシャドウSH）
+
+次世代少年
+
+扎隊
+
+法達姆
+深淵的阿基拉烏斯（深淵のアギラウス）
+
+羅帝歐
+海王 波塞頓（海王ポセイドン）
+
+加羅
+黑色之翼 雷文（黒��翼レイブン）
+
+基爾隊
+
+梅伊亞
+情熱戀人♀（情熱のラヴァーズ♀）
+
+奇利斯
+情熱戀人♂（情熱のラヴァーズ）
+
+拉魯隊
+
+切特
+白尾神 塔曼莎莎（白尾神タマズサ）
+
+優奇
+豪雪的賽亞（豪雪のサイア）
+
+礁湖隊
+
+薩魯・伊凡
+超魔神 艾瓦斯（超魔神エヴァース）
+
+過去時空的人物
+
+諸葛孔明
+蒼天的霸者 玉龍（蒼天の霸者 玉龍）
+
+曹操
+剛力的玄武（剛力の玄武）
+
+白鹿組
+
+稲葉 大安
+妖鬼 鐮鼬（妖鬼カマイタチ）
+
+
+
+必殺技全中文翻譯(CN版) @巴哈姆特
+https://forum.gamer.com.tw/Co.php?bsn=11607&sn=8300
+
+
+todo: 
+	女子隊
+	リトルギガント Little Gigant 小巨人
+
+	革命選拔				(已譯，未選)
+	フィフスセクターズ (第五院)		(已譯，未選)
+
+	Zero
+	Tenmas
+	Protocol Omega
+
+https://ja.wikipedia.org/wiki/イナズマイレブンGOの登場人物
+https://ja.wikipedia.org/wiki/イナズマイレブン_ストライカーズ
