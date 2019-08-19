@@ -1,51 +1,34 @@
-<p><a href="http://watashiwa7.altervista.org/ie/index.html"><img src="ieguideslogo.jpg" /></a></p>
+[![](ieguideslogo.jpg)](http://watashiwa7.altervista.org/ie/index.html)
+
 <div style="margin-top: 50px;">
 
-<table>
-<tbody>
-<tr class="odd">
-<td><img src="AirJ.png" /></td>
-<td><img src="WoodJ.png" /></td>
-<td><img src="FireJ.png" /></td>
-<td><img src="EarthJ.png" /></td>
-<td><img src="VoidJ.png" /></td>
-</tr>
-<tr class="even">
-<td><a href="#airshots">Air Shots</a></td>
-<td><a href="#woodshots">Wood Shots</a></td>
-<td><a href="#fireshots">Fire Shots</a></td>
-<td><a href="#earthshots">Earth Shots</a></td>
-<td><a href="#voidshots">Void Shots</a></td>
-</tr>
-<tr class="odd">
-<td><a href="#airdribbles">Air Dribbles</a></td>
-<td><a href="#wooddribbles">Wood Dribbles</a></td>
-<td><a href="#firedribbles">Fire Dribbles</a></td>
-<td><a href="#earthdribbles">Earth Dribbles</a></td>
-<td><a href="#voiddribbles">Void Dribbles</a></td>
-</tr>
-<tr class="even">
-<td><a href="#airblocks">Air Blocks</a></td>
-<td><a href="#woodblocks">Wood Blocks</a></td>
-<td><a href="#fireblocks">Fire Blocks</a></td>
-<td><a href="#earthblocks">Earth Blocks</a></td>
-<td><a href="#voidblocks">Void Blocks</a></td>
-</tr>
-<tr class="odd">
-<td><a href="#aircatches">Air Catches</a></td>
-<td><a href="#woodcatches">Wood Catches</a></td>
-<td><a href="#firecatches">Fire Catches</a></td>
-<td><a href="#earthcatches">Earth Catches</a></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|                              |                                |                                |                                  |                                |
+| ---------------------------- | ------------------------------ | ------------------------------ | -------------------------------- | ------------------------------ |
+| ![](AirJ.png)                | ![](WoodJ.png)                 | ![](FireJ.png)                 | ![](EarthJ.png)                  | ![](VoidJ.png)                 |
+| [Air Shots](#airshots)       | [Wood Shots](#woodshots)       | [Fire Shots](#fireshots)       | [Earth Shots](#earthshots)       | [Void Shots](#voidshots)       |
+| [Air Dribbles](#airdribbles) | [Wood Dribbles](#wooddribbles) | [Fire Dribbles](#firedribbles) | [Earth Dribbles](#earthdribbles) | [Void Dribbles](#voiddribbles) |
+| [Air Blocks](#airblocks)     | [Wood Blocks](#woodblocks)     | [Fire Blocks](#fireblocks)     | [Earth Blocks](#earthblocks)     | [Void Blocks](#voidblocks)     |
+| [Air Catches](#aircatches)   | [Wood Catches](#woodcatches)   | [Fire Catches](#firecatches)   | [Earth Catches](#earthcatches)   |                                |
+
+  
+  
+
 </div>
 
-<p>This is the complete list of special moves in Inazuma Eleven Go Strikers 2013, sorted by element, level and power.<br />
-If you want to know how to unlock coop moves you can use <a href="inazuma-eleven-go-strikers-2013-guide.htm"><span class="underline">this guide</span></a>.</p>
-<h1 id="shots">Shots</h1>
-<p><span id="airshots"></span></p>
+This is the complete list of special moves in Inazuma Eleven Go Strikers
+2013, sorted by element, level and power.  
+If you want to know how to unlock coop moves you can use
+[<span class="underline">this
+guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).  
+  
+  
+
+# Shots
+
+  
+  
+<span id="airshots"></span>
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -515,7 +498,10 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<p><span id="woodshots"></span></p>
+  
+  
+<span id="woodshots"></span>
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -941,7 +927,9 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<p><span id="fireshots"></span></p>
+<span id="fireshots"></span>  
+  
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -1357,7 +1345,10 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<p><span id="earthshots"></span></p>
+  
+  
+<span id="earthshots"></span>
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -1717,7 +1708,10 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<p><span id="voidshots"></span></p>
+  
+  
+<span id="voidshots"></span>
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -1825,9 +1819,19 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<hr />
-<h1 id="dribbles">Dribbles</h1>
-<p><span id="airdribbles"></span></p>
+  
+
+-----
+
+  
+  
+
+# Dribbles
+
+  
+  
+<span id="airdribbles"></span>
+
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -1982,7 +1986,10 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<p><span id="wooddribbles"></span></p>
+  
+  
+<span id="wooddribbles"></span>
+
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -2108,7 +2115,10 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<p><span id="firedribbles"></span></p>
+  
+  
+<span id="firedribbles"></span>
+
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -2269,103 +2279,30 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<p><span id="earthdribbles"></span></p>
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>盤球技</strong></td>
-<td><strong>元素</strong></td>
-<td><strong>TP</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
-</tr>
-<tr class="even">
-<td>ダッシュアクセル (Dash Accel <em>Dash Accelerator</em>)</td>
-<td>山</td>
-<td>20</td>
-<td>1</td>
-<td>栗松鐵平, 西垣守</td>
-</tr>
-<tr class="odd">
-<td>ブーメランフェイント (Boomerang Feint)</td>
-<td>山</td>
-<td>20</td>
-<td>1</td>
-<td>光良夜桜, 磯崎研磨</td>
-</tr>
-<tr class="even">
-<td>クレイモア (Claymore)</td>
-<td>山</td>
-<td>30</td>
-<td>1</td>
-<td>狩屋正樹, 南澤篤志, 瀧總介, Alpha, Chiuri, Ejima, Kiya, Yuuki</td>
-</tr>
-<tr class="odd">
-<td>プリマドンナ (Prima Donna)</td>
-<td>山</td>
-<td>30</td>
-<td>1</td>
-<td>御堂玲華 (女生隊)</td>
-</tr>
-<tr class="even">
-<td>シザース・ボム (Scissors Bomb)</td>
-<td>山</td>
-<td>30</td>
-<td>1</td>
-<td>艾斯卡帕梅魯, 多拉黑丘塔, 伊卡史塔克斯</td>
-</tr>
-<tr class="odd">
-<td>アクロバットキープ (Acrobat Keep)</td>
-<td>山</td>
-<td>30</td>
-<td>2</td>
-<td>倉間典人, 錦龍馬, 托普, 貴志部大河, 御門春馬</td>
-</tr>
-<tr class="even">
-<td>クロシオライド (Kuroshio Ride)</td>
-<td>山</td>
-<td>20</td>
-<td>2 (MIX)</td>
-<td>錦龍馬 (Mixi Max Form)</td>
-</tr>
-<tr class="odd">
-<td>スーパーエラシコ (Super Elastico)</td>
-<td>山</td>
-<td>40</td>
-<td>3</td>
-<td>Roniejo(世界選拔改)</td>
-</tr>
-<tr class="even">
-<td>スカイウォーク (Sky Walk)</td>
-<td>山</td>
-<td>50</td>
-<td>3</td>
-<td>菲魯恩, 西園信助</td>
-</tr>
-<tr class="odd">
-<td>昇り龍 (Noboriryuu)</td>
-<td>山</td>
-<td>50</td>
-<td>3</td>
-<td>錦龍馬, 染岡龍吾, 瀧快彥, 牙山道三, Gouzu</td>
-</tr>
-<tr class="even">
-<td>王の剣 (Ou no 劍城京介)</td>
-<td>山</td>
-<td>20</td>
-<td>3 (MIX)</td>
-<td>松風天馬 (與 亞瑟王 極限融合)</td>
-</tr>
-<tr class="odd">
-<td>スクラッチレイド (Scratch Raid)</td>
-<td>山</td>
-<td>60</td>
-<td>化身 (Keshin)</td>
-<td>貴志部大河</td>
-</tr>
-</tbody>
-</table>
-<p><span id="voiddribbles"></span></p>
+  
+  
+<span id="earthdribbles"></span>
+
+|                                          |        |        |             |                                                    |
+| ---------------------------------------- | ------ | ------ | ----------- | -------------------------------------------------- |
+| **盤球技**                                  | **元素** | **TP** | **Level**   | **Who can shoot it**                               |
+| ダッシュアクセル (Dash Accel *Dash Accelerator*) | 山      | 20     | 1           | 栗松鐵平, 西垣守                                          |
+| ブーメランフェイント (Boomerang Feint)             | 山      | 20     | 1           | 光良夜桜, 磯崎研磨                                         |
+| クレイモア (Claymore)                         | 山      | 30     | 1           | 狩屋正樹, 南澤篤志, 瀧總介, Alpha, Chiuri, Ejima, Kiya, Yuuki |
+| プリマドンナ (Prima Donna)                     | 山      | 30     | 1           | 御堂玲華 (女生隊)                                         |
+| シザース・ボム (Scissors Bomb)                  | 山      | 30     | 1           | 艾斯卡帕梅魯, 多拉黑丘塔, 伊卡史塔克斯                              |
+| アクロバットキープ (Acrobat Keep)                 | 山      | 30     | 2           | 倉間典人, 錦龍馬, 托普, 貴志部大河, 御門春馬                         |
+| クロシオライド (Kuroshio Ride)                  | 山      | 20     | 2 (MIX)     | 錦龍馬 (Mixi Max Form)                                |
+| スーパーエラシコ (Super Elastico)                | 山      | 40     | 3           | Roniejo(世界選拔改)                                     |
+| スカイウォーク (Sky Walk)                       | 山      | 50     | 3           | 菲魯恩, 西園信助                                          |
+| 昇り龍 (Noboriryuu)                         | 山      | 50     | 3           | 錦龍馬, 染岡龍吾, 瀧快彥, 牙山道三, Gouzu                        |
+| 王の剣 (Ou no 劍城京介)                         | 山      | 20     | 3 (MIX)     | 松風天馬 (與 亞瑟王 極限融合)                                  |
+| スクラッチレイド (Scratch Raid)                  | 山      | 60     | 化身 (Keshin) | 貴志部大河                                              |
+
+  
+  
+<span id="voiddribbles"></span>
+
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -2414,198 +2351,49 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<hr />
-<h1 id="blocks">Blocks</h1>
-<p><span id="airblocks"></span></p>
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>阻截技</strong></td>
-<td><strong>元素</strong></td>
-<td><strong>TP</strong></td>
-<td><strong>Type</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
-</tr>
-<tr class="even">
-<td>コイルターン (Coil Turn)</td>
-<td>風</td>
-<td>30</td>
-<td></td>
-<td>1</td>
-<td>影野仁</td>
-</tr>
-<tr class="odd">
-<td>ブレードアタック (Blade Attack)</td>
-<td>風</td>
-<td>30</td>
-<td></td>
-<td>1</td>
-<td>Giorgio(吟遊詩人)</td>
-</tr>
-<tr class="even">
-<td>アイスグランド (Ice Ground <em>Land of Ice</em>)</td>
-<td>風</td>
-<td>30</td>
-<td></td>
-<td>1</td>
-<td>吹雪士郎, Matoro, 木瀧常緒, 真狩銀次郎</td>
-</tr>
-<tr class="odd">
-<td>キラーホエール (Killer Whale)</td>
-<td>風</td>
-<td>30</td>
-<td></td>
-<td>1</td>
-<td>濱野海士, 井出乗数, 湾田七雄人</td>
-</tr>
-<tr class="even">
-<td>サイクロン (Cyclone)</td>
-<td>風</td>
-<td>30</td>
-<td></td>
-<td>1</td>
-<td>萬丈一道 (帝國學園)</td>
-</tr>
-<tr class="odd">
-<td>スパイラルドロー (Spiral Draw)</td>
-<td>風</td>
-<td>30</td>
-<td></td>
-<td>1</td>
-<td>松風天馬</td>
-</tr>
-<tr class="even">
-<td>デザートストーム (Desert Storm)</td>
-<td>風</td>
-<td>40</td>
-<td></td>
-<td>1</td>
-<td>Bjorn(世界選拔改)</td>
-</tr>
-<tr class="odd">
-<td>スピニングカット (Spinning Cut)</td>
-<td>風</td>
-<td>50</td>
-<td>Block</td>
-<td>1</td>
-<td>栗松鐵平, 西垣守, 明天名智 (世宇子)</td>
-</tr>
-<tr class="even">
-<td>ワンダートラップ (Wonder Trap)</td>
-<td>風</td>
-<td>40</td>
-<td></td>
-<td>2</td>
-<td>松風天馬</td>
-</tr>
-<tr class="odd">
-<td>フローズンスティール (Frozen Steal)</td>
-<td>風</td>
-<td>40</td>
-<td></td>
-<td>2</td>
-<td>極川寒太郎, 倉掛可拉拉, 角路徹, 凍地愛, 凍地修兒, Araya</td>
-</tr>
-<tr class="even">
-<td>ザ・タワー (The Tower)</td>
-<td>風</td>
-<td>50</td>
-<td>Block</td>
-<td>2</td>
-<td>財前塔子</td>
-</tr>
-<tr class="odd">
-<td>真空魔 (Shinkuuma <em>Vac Attack</em>)</td>
-<td>風</td>
-<td>50</td>
-<td>Block</td>
-<td>2</td>
-<td>速水鶴正, 飛鷹征矢, Shura, Okiddo</td>
-</tr>
-<tr class="even">
-<td>スノーエンジェル (Snow Angel)</td>
-<td>風</td>
-<td>50</td>
-<td></td>
-<td>2</td>
-<td>吹雪士郎, Winel(黑暗天使隊), 久遠冬花</td>
-</tr>
-<tr class="odd">
-<td>旋風陣 (Senpuujin <em>Whirlwind Force</em>)</td>
-<td>風</td>
-<td>50</td>
-<td>Block</td>
-<td>2</td>
-<td>木暮夕彌, 稲葉大安, McCall, Manto, Shinjami</td>
-</tr>
-<tr class="even">
-<td>サルガッソー (Sargasso)</td>
-<td>風</td>
-<td>40</td>
-<td></td>
-<td>2 [合體(2人)]</td>
-<td>Einam, 龍崎皇児, 井出乗数, Drill, Straw, Dorim</td>
-</tr>
-<tr class="odd">
-<td>ゴー・トゥ・ヘブン (Go to Heaven <em>Heaven's Ascent</em>)</td>
-<td>風</td>
-<td>60</td>
-<td></td>
-<td>3</td>
-<td>Nenel(黑暗天使隊), Elfel(黑暗天使隊)</td>
-</tr>
-<tr class="even">
-<td>エアーバレット (Air Bullet)</td>
-<td>風</td>
-<td>60</td>
-<td>Block</td>
-<td>3</td>
-<td>風丸一郎太, 一乃七助, 菲魯恩, 黒裂真命, 浪川蓮助, 隼総英聖, Onizuka, 護巻徹郎</td>
-</tr>
-<tr class="odd">
-<td>真空魔 (Shinkuuma)</td>
-<td>風</td>
-<td>20</td>
-<td>Block</td>
-<td>3 (MIX)</td>
-<td>Zanark (極限融合與 曹操)</td>
-</tr>
-<tr class="even">
-<td>古代の翼 (Kodai no Tsubasa)</td>
-<td>風</td>
-<td>20</td>
-<td></td>
-<td>3 (MIX)</td>
-<td>托普 (Mixi Max Form)</td>
-</tr>
-<tr class="odd">
-<td>パーフェクト・タワー (Perfect Tower)</td>
-<td>風</td>
-<td>40</td>
-<td></td>
-<td>3 [合體(3人)]</td>
-<td>財前塔子</td>
-</tr>
-<tr class="even">
-<td>ドラゴンストーム (Dragon Storm)</td>
-<td>風</td>
-<td>70</td>
-<td></td>
-<td>化身 (Keshin)</td>
-<td>龍崎皇児, 真狩銀次郎</td>
-</tr>
-<tr class="odd">
-<td>ハンティングランス (Hunting Lance)</td>
-<td>風</td>
-<td>70</td>
-<td></td>
-<td>化身 (Keshin)</td>
-<td>托普</td>
-</tr>
-</tbody>
-</table>
-<p><span id="woodblocks"></span></p>
+  
+
+-----
+
+  
+  
+
+# Blocks
+
+  
+  
+<span id="airblocks"></span>
+
+|                                            |        |        |          |              |                                                   |
+| ------------------------------------------ | ------ | ------ | -------- | ------------ | ------------------------------------------------- |
+| **阻截技**                                    | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**                              |
+| コイルターン (Coil Turn)                         | 風      | 30     |          | 1            | 影野仁                                               |
+| ブレードアタック (Blade Attack)                    | 風      | 30     |          | 1            | Giorgio(吟遊詩人)                                     |
+| アイスグランド (Ice Ground *Land of Ice*)         | 風      | 30     |          | 1            | 吹雪士郎, Matoro, 木瀧常緒, 真狩銀次郎                         |
+| キラーホエール (Killer Whale)                     | 風      | 30     |          | 1            | 濱野海士, 井出乗数, 湾田七雄人                                 |
+| サイクロン (Cyclone)                            | 風      | 30     |          | 1            | 萬丈一道 (帝國學園)                                       |
+| スパイラルドロー (Spiral Draw)                     | 風      | 30     |          | 1            | 松風天馬                                              |
+| デザートストーム (Desert Storm)                    | 風      | 40     |          | 1            | Bjorn(世界選拔改)                                      |
+| スピニングカット (Spinning Cut)                    | 風      | 50     | Block    | 1            | 栗松鐵平, 西垣守, 明天名智 (世宇子)                             |
+| ワンダートラップ (Wonder Trap)                     | 風      | 40     |          | 2            | 松風天馬                                              |
+| フローズンスティール (Frozen Steal)                  | 風      | 40     |          | 2            | 極川寒太郎, 倉掛可拉拉, 角路徹, 凍地愛, 凍地修兒, Araya               |
+| ザ・タワー (The Tower)                          | 風      | 50     | Block    | 2            | 財前塔子                                              |
+| 真空魔 (Shinkuuma *Vac Attack*)               | 風      | 50     | Block    | 2            | 速水鶴正, 飛鷹征矢, Shura, Okiddo                         |
+| スノーエンジェル (Snow Angel)                      | 風      | 50     |          | 2            | 吹雪士郎, Winel(黑暗天使隊), 久遠冬花                          |
+| 旋風陣 (Senpuujin *Whirlwind Force*)          | 風      | 50     | Block    | 2            | 木暮夕彌, 稲葉大安, McCall, Manto, Shinjami               |
+| サルガッソー (Sargasso)                          | 風      | 40     |          | 2 \[合體(2人)\] | Einam, 龍崎皇児, 井出乗数, Drill, Straw, Dorim            |
+| ゴー・トゥ・ヘブン (Go to Heaven *Heaven's Ascent*) | 風      | 60     |          | 3            | Nenel(黑暗天使隊), Elfel(黑暗天使隊)                        |
+| エアーバレット (Air Bullet)                       | 風      | 60     | Block    | 3            | 風丸一郎太, 一乃七助, 菲魯恩, 黒裂真命, 浪川蓮助, 隼総英聖, Onizuka, 護巻徹郎 |
+| 真空魔 (Shinkuuma)                            | 風      | 20     | Block    | 3 (MIX)      | Zanark (極限融合與 曹操)                                 |
+| 古代の翼 (Kodai no Tsubasa)                    | 風      | 20     |          | 3 (MIX)      | 托普 (Mixi Max Form)                                |
+| パーフェクト・タワー (Perfect Tower)                 | 風      | 40     |          | 3 \[合體(3人)\] | 財前塔子                                              |
+| ドラゴンストーム (Dragon Storm)                    | 風      | 70     |          | 化身 (Keshin)  | 龍崎皇児, 真狩銀次郎                                       |
+| ハンティングランス (Hunting Lance)                  | 風      | 70     |          | 化身 (Keshin)  | 托普                                                |
+
+  
+  
+<span id="woodblocks"></span>
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -2781,429 +2569,97 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<p><span id="fireblocks"></span></p>
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>阻截技</strong></td>
-<td><strong>元素</strong></td>
-<td><strong>TP</strong></td>
-<td><strong>Type</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
-</tr>
-<tr class="even">
-<td>フォトンフラッシュ (Photon Flash <em>Photon Crash</em>)</td>
-<td>火</td>
-<td>30</td>
-<td></td>
-<td>1</td>
-<td>在手實弓 (世宇子), Angelo (吟遊詩人)</td>
-</tr>
-<tr class="odd">
-<td>ダッシュトレイン (Dash Train)</td>
-<td>火</td>
-<td>30</td>
-<td></td>
-<td>1</td>
-<td>車田剛一</td>
-</tr>
-<tr class="even">
-<td>フェイクボンバー (Fake Bomber/山寨炸彈)</td>
-<td>火</td>
-<td>30</td>
-<td></td>
-<td>1</td>
-<td>宍戶佐吉, 龜崎河童, Kito (小巨人隊), 虎濱甲子 (女生隊)</td>
-</tr>
-<tr class="odd">
-<td>フレイムダンス (Flame Dance)</td>
-<td>火</td>
-<td>40</td>
-<td></td>
-<td>1</td>
-<td>一之瀨一哉, 音村樂也, Maron, Goushu (小巨人隊)</td>
-</tr>
-<tr class="even">
-<td>スーパーしこふみ (Super Shikofumi <em>Super Sumo Stomp</em>)</td>
-<td>火</td>
-<td>50</td>
-<td>Block</td>
-<td>1</td>
-<td>土方雷電</td>
-</tr>
-<tr class="odd">
-<td>イグナイトスティール (Ignite Steal)</td>
-<td>火</td>
-<td>40</td>
-<td></td>
-<td>2</td>
-<td>本場激, 薔薇園華</td>
-</tr>
-<tr class="even">
-<td>スクリュードライバー (Screwdriver)</td>
-<td>火</td>
-<td>40</td>
-<td></td>
-<td>2</td>
-<td>Zanark, Gouzu, Yasha, Oogu (Zanark Domain)</td>
-</tr>
-<tr class="odd">
-<td>ローリングスライド (Rolling Slide)</td>
-<td>火</td>
-<td>40</td>
-<td></td>
-<td>2</td>
-<td>Lagarto(世界選拔改)</td>
-</tr>
-<tr class="even">
-<td>ボルケイノカット (Volcano Cut)</td>
-<td>火</td>
-<td>50</td>
-<td>Block</td>
-<td>2</td>
-<td>土門飛鳥, Skid (小巨人隊), 達伊戈普卡 (王牙)</td>
-</tr>
-<tr class="odd">
-<td>さばきのてっつい (Sabaki no Tettsui <em>Divine Stamp</em>)</td>
-<td>火</td>
-<td>50</td>
-<td>Block</td>
-<td>2</td>
-<td>阿保露光, 部灰炎, 經目須商 (世宇子), 伊豆野由宇 (新日本隊), 丹提迪亞普羅 (吟遊詩人)</td>
-</tr>
-<tr class="even">
-<td>シューティングスター (Shooting Star)</td>
-<td>火</td>
-<td>30</td>
-<td>Block</td>
-<td>2 [合體(2人)]</td>
-<td>少林寺步, Shinti (小巨人隊)</td>
-</tr>
-<tr class="odd">
-<td>ビッグシザーズ (Big Scissors)</td>
-<td>火</td>
-<td>40</td>
-<td></td>
-<td>2 [合體(2人)]</td>
-<td>車田剛一, 井出乗数, Raven</td>
-</tr>
-<tr class="even">
-<td>一夜城 (Ichiyajou)</td>
-<td>火</td>
-<td>50</td>
-<td>Block</td>
-<td>2 [合體(3人)]</td>
-<td>太助</td>
-</tr>
-<tr class="odd">
-<td>クレイジーサンライト (Crazy Sunlight)</td>
-<td>火</td>
-<td>50</td>
-<td></td>
-<td>3</td>
-<td>雨宮太陽, Yasha (Zanark Domain), Saki, Ejima, Onizuka (Zero)</td>
-</tr>
-<tr class="even">
-<td>アスタリスクロック (Asterisk Rock)</td>
-<td>火</td>
-<td>60</td>
-<td>Block</td>
-<td>3</td>
-<td>Asta, Dande (Destructchers)</td>
-</tr>
-<tr class="odd">
-<td>もちもち黄粉餅 (Mochi Mochi Kinako Mochi)</td>
-<td>火</td>
-<td>60</td>
-<td>Block</td>
-<td>3</td>
-<td>菜花黄名子</td>
-</tr>
-<tr class="even">
-<td>ラ・フラム (La Flamme)</td>
-<td>火</td>
-<td>20</td>
-<td>Block</td>
-<td>3 (MIX)</td>
-<td>霧野蘭丸 (Mixi Max Form)</td>
-</tr>
-<tr class="odd">
-<td>もちもち黄粉餅 (Mochi Mochi Kinako Mochi)</td>
-<td>火</td>
-<td>70</td>
-<td>Block</td>
-<td>アームド (Armed)</td>
-<td>菜花黄名子</td>
-</tr>
-</tbody>
-</table>
-<p><span id="earthblocks"></span></p>
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>阻截技</strong></td>
-<td><strong>元素</strong></td>
-<td><strong>TP</strong></td>
-<td><strong>Type</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
-</tr>
-<tr class="even">
-<td>アースクエイク (Earthquake)</td>
-<td>山</td>
-<td>40</td>
-<td></td>
-<td>1</td>
-<td>大野傳助 (帝國學園), 牧谷寛, 石平半蔵 (新日本隊), Blasi (吟遊詩人)</td>
-</tr>
-<tr class="odd">
-<td>グラビテイション (Gravitation)</td>
-<td>山</td>
-<td>50</td>
-<td>Block</td>
-<td>1</td>
-<td>蟹目出郎, 紀伊布美子, 近畿希望, Desuta(黑暗天使隊), 伊卡史塔克斯, 三島三太夫 (王牙)</td>
-</tr>
-<tr class="even">
-<td>パワーチャージ (Power Charge)</td>
-<td>山</td>
-<td>40</td>
-<td></td>
-<td>1</td>
-<td>荒須亂 (世宇子), Ottorino(吟遊詩人), 達伊戈普卡, 傑尼斯金基斯, 多拉黑丘塔 (王牙)</td>
-</tr>
-<tr class="odd">
-<td>ザ・ウォール (The Wall)</td>
-<td>山</td>
-<td>50</td>
-<td>Block</td>
-<td>1</td>
-<td>壁山塀吾郎, Walter (小巨人隊), Oogu, Mokuren</td>
-</tr>
-<tr class="even">
-<td>ビバ！万里の長城 (Viva! Banri no Choujou)</td>
-<td>山</td>
-<td>50</td>
-<td>Block</td>
-<td>1</td>
-<td>天城大地, Walter (小巨人隊)</td>
-</tr>
-<tr class="odd">
-<td>メガクェイク (Mega Quake)</td>
-<td>山</td>
-<td>40</td>
-<td></td>
-<td>2</td>
-<td>手魚激 (世宇子)</td>
-</tr>
-<tr class="even">
-<td>ヘビーベイビー (Heavy Baby <em>Heavy Mettle</em>)</td>
-<td>山</td>
-<td>50</td>
-<td>Block</td>
-<td>2</td>
-<td>Coyote(世界選拔改), 丹提迪亞普羅 (吟遊詩人)</td>
-</tr>
-<tr class="odd">
-<td>アイアンウォール (Iron Wall)</td>
-<td>山</td>
-<td>50</td>
-<td>Block</td>
-<td>2</td>
-<td>Teres(世界選拔改)</td>
-</tr>
-<tr class="even">
-<td>バーバリアンの盾 (Barbarian no Tate)</td>
-<td>山</td>
-<td>60</td>
-<td>Block</td>
-<td>2</td>
-<td>Hebimoth (黑暗天使隊), Ottorino(吟遊詩人), Gattuso(吟遊詩人), 丹提迪亞普羅 (吟遊詩人), 班特卡利亞諾 (小巨人隊)</td>
-</tr>
-<tr class="odd">
-<td>ブロックサーカス (Block Circus <em>Circus Block</em>)</td>
-<td>山</td>
-<td>40</td>
-<td></td>
-<td>2 [合體(2人)]</td>
-<td>Marco(吟遊詩人), Giuseppe(吟遊詩人), Alessandro(吟遊詩人), Canon</td>
-</tr>
-<tr class="even">
-<td>かっとびディフェンス (Kattobi Defence)</td>
-<td>山</td>
-<td>50</td>
-<td>Block</td>
-<td>2 [合體(2人)]</td>
-<td>西園信助, Angelo (吟遊詩人)</td>
-</tr>
-<tr class="odd">
-<td>フラクタルハウス (Fractal House)</td>
-<td>山</td>
-<td>50</td>
-<td></td>
-<td>2 [合體(2人)]</td>
-<td>Wally, Deboon, Straw, Smile, Kimoro (天馬隊)</td>
-</tr>
-<tr class="even">
-<td>マジカルフラワー (Magical Flower)</td>
-<td>山</td>
-<td>50</td>
-<td></td>
-<td>3</td>
-<td>Chiuri, Genius, Kamomi, Mokuren, Maagaru (Destructchers)</td>
-</tr>
-<tr class="odd">
-<td>アトランティスウォール (Atlantis Wall)</td>
-<td>山</td>
-<td>60</td>
-<td>Block</td>
-<td>3</td>
-<td>天城大地, 壁山塀吾郎</td>
-</tr>
-<tr class="even">
-<td>グランドクェイク (Ground Quake)</td>
-<td>山</td>
-<td>60</td>
-<td>Block</td>
-<td>3</td>
-<td>極川寒太郎, Walter (小巨人隊), 普波托蘭卡斯 (王牙)</td>
-</tr>
-<tr class="odd">
-<td>ザ・マウンテン (The Mountain)</td>
-<td>山</td>
-<td>60</td>
-<td>Block</td>
-<td>3</td>
-<td>壁山塀吾郎</td>
-</tr>
-<tr class="even">
-<td>ストロングタワー (Strong Tower)</td>
-<td>山</td>
-<td>70</td>
-<td></td>
-<td>化身 (Keshin)</td>
-<td>Kai</td>
-</tr>
-</tbody>
-</table>
-<p><span id="voidblocks"></span></p>
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>阻截技</strong></td>
-<td><strong>元素</strong></td>
-<td><strong>TP</strong></td>
-<td><strong>Type</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
-</tr>
-<tr class="even">
-<td>バニシングカット (Vanishing Cut)</td>
-<td>無</td>
-<td>50</td>
-<td></td>
-<td>3</td>
-<td>護巻徹郎, 龍崎皇児</td>
-</tr>
-</tbody>
-</table>
-<hr />
-<h1 id="catches">Catches</h1>
-<p><span id="aircatches"></span></p>
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>守門技</strong></td>
-<td><strong>元素</strong></td>
-<td><strong>TP</strong></td>
-<td><strong>Type</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
-</tr>
-<tr class="even">
-<td>はなふぶき (Hana Fubuki <em>Flower Power</em>)</td>
-<td>風</td>
-<td>20</td>
-<td>Catch</td>
-<td>1</td>
-<td>土洲戀 (女生隊)</td>
-</tr>
-<tr class="odd">
-<td>クリスタルバリア (Crystal Barrier)</td>
-<td>風</td>
-<td>30</td>
-<td>Catch</td>
-<td>2</td>
-<td>Hebino (Zero), Blasi (吟遊詩人)</td>
-</tr>
-<tr class="even">
-<td>つなみウォール (Tsunami Wall)</td>
-<td>風</td>
-<td>30</td>
-<td>Punch 2</td>
-<td>2</td>
-<td>步星吞一 (世宇子)</td>
-</tr>
-<tr class="odd">
-<td>はなふぶき改 (Hana Fubuki Kai <em>Flower Power Kai</em>)</td>
-<td>風</td>
-<td>40</td>
-<td>Catch</td>
-<td>2</td>
-<td>土洲戀 (女生隊)</td>
-</tr>
-<tr class="even">
-<td>プロキオンネット (Procyon Net)</td>
-<td>風</td>
-<td>40</td>
-<td>Catch</td>
-<td>2</td>
-<td>根室君之</td>
-</tr>
-<tr class="odd">
-<td>エレキトラップ (Electric Trap)</td>
-<td>風</td>
-<td>40</td>
-<td>Catch</td>
-<td>2</td>
-<td>扎高美坦迪</td>
-</tr>
-<tr class="even">
-<td>正義の鉄拳 (Seigi no Tekken <em>Fist of Justice</em>)</td>
-<td>風</td>
-<td>40</td>
-<td>Punch 2</td>
-<td>2</td>
-<td>圓堂守, 木野秋 (女生隊)</td>
-</tr>
-<tr class="odd">
-<td>時空の壁 (Jikuu no Kabe <em>Temporal Wall</em>)</td>
-<td>風</td>
-<td>50</td>
-<td>Punch 2</td>
-<td>3</td>
-<td>根室君之</td>
-</tr>
-<tr class="even">
-<td>シャイニングホール (Shining Hole)</td>
-<td>風</td>
-<td>50</td>
-<td>Catch</td>
-<td>3</td>
-<td>Lotus (Destructchers)</td>
-</tr>
-<tr class="odd">
-<td>ハイボルテージ (High Voltage)</td>
-<td>風</td>
-<td>50</td>
-<td>Punch 2</td>
-<td>3 [合體(3人)]</td>
-<td>扎高美坦迪 (王牙)</td>
-</tr>
-</tbody>
-</table>
-<p><span id="woodcatches"></span></p>
+  
+  
+<span id="fireblocks"></span>
+
+|                                               |        |        |          |              |                                                          |
+| --------------------------------------------- | ------ | ------ | -------- | ------------ | -------------------------------------------------------- |
+| **阻截技**                                       | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**                                     |
+| フォトンフラッシュ (Photon Flash *Photon Crash*)       | 火      | 30     |          | 1            | 在手實弓 (世宇子), Angelo (吟遊詩人)                                |
+| ダッシュトレイン (Dash Train)                         | 火      | 30     |          | 1            | 車田剛一                                                     |
+| フェイクボンバー (Fake Bomber/山寨炸彈)                   | 火      | 30     |          | 1            | 宍戶佐吉, 龜崎河童, Kito (小巨人隊), 虎濱甲子 (女生隊)                      |
+| フレイムダンス (Flame Dance)                         | 火      | 40     |          | 1            | 一之瀨一哉, 音村樂也, Maron, Goushu (小巨人隊)                        |
+| スーパーしこふみ (Super Shikofumi *Super Sumo Stomp*) | 火      | 50     | Block    | 1            | 土方雷電                                                     |
+| イグナイトスティール (Ignite Steal)                     | 火      | 40     |          | 2            | 本場激, 薔薇園華                                                |
+| スクリュードライバー (Screwdriver)                      | 火      | 40     |          | 2            | Zanark, Gouzu, Yasha, Oogu (Zanark Domain)               |
+| ローリングスライド (Rolling Slide)                     | 火      | 40     |          | 2            | Lagarto(世界選拔改)                                           |
+| ボルケイノカット (Volcano Cut)                        | 火      | 50     | Block    | 2            | 土門飛鳥, Skid (小巨人隊), 達伊戈普卡 (王牙)                            |
+| さばきのてっつい (Sabaki no Tettsui *Divine Stamp*)   | 火      | 50     | Block    | 2            | 阿保露光, 部灰炎, 經目須商 (世宇子), 伊豆野由宇 (新日本隊), 丹提迪亞普羅 (吟遊詩人)       |
+| シューティングスター (Shooting Star)                    | 火      | 30     | Block    | 2 \[合體(2人)\] | 少林寺步, Shinti (小巨人隊)                                      |
+| ビッグシザーズ (Big Scissors)                        | 火      | 40     |          | 2 \[合體(2人)\] | 車田剛一, 井出乗数, Raven                                        |
+| 一夜城 (Ichiyajou)                               | 火      | 50     | Block    | 2 \[合體(3人)\] | 太助                                                       |
+| クレイジーサンライト (Crazy Sunlight)                   | 火      | 50     |          | 3            | 雨宮太陽, Yasha (Zanark Domain), Saki, Ejima, Onizuka (Zero) |
+| アスタリスクロック (Asterisk Rock)                     | 火      | 60     | Block    | 3            | Asta, Dande (Destructchers)                              |
+| もちもち黄粉餅 (Mochi Mochi Kinako Mochi)            | 火      | 60     | Block    | 3            | 菜花黄名子                                                    |
+| ラ・フラム (La Flamme)                             | 火      | 20     | Block    | 3 (MIX)      | 霧野蘭丸 (Mixi Max Form)                                     |
+| もちもち黄粉餅 (Mochi Mochi Kinako Mochi)            | 火      | 70     | Block    | アームド (Armed) | 菜花黄名子                                                    |
+
+  
+  
+<span id="earthblocks"></span>
+
+|                                        |        |        |          |              |                                                                               |
+| -------------------------------------- | ------ | ------ | -------- | ------------ | ----------------------------------------------------------------------------- |
+| **阻截技**                                | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**                                                          |
+| アースクエイク (Earthquake)                   | 山      | 40     |          | 1            | 大野傳助 (帝國學園), 牧谷寛, 石平半蔵 (新日本隊), Blasi (吟遊詩人)                                   |
+| グラビテイション (Gravitation)                 | 山      | 50     | Block    | 1            | 蟹目出郎, 紀伊布美子, 近畿希望, Desuta(黑暗天使隊), 伊卡史塔克斯, 三島三太夫 (王牙)                          |
+| パワーチャージ (Power Charge)                 | 山      | 40     |          | 1            | 荒須亂 (世宇子), Ottorino(吟遊詩人), 達伊戈普卡, 傑尼斯金基斯, 多拉黑丘塔 (王牙)                          |
+| ザ・ウォール (The Wall)                      | 山      | 50     | Block    | 1            | 壁山塀吾郎, Walter (小巨人隊), Oogu, Mokuren                                           |
+| ビバ！万里の長城 (Viva\! Banri no Choujou)     | 山      | 50     | Block    | 1            | 天城大地, Walter (小巨人隊)                                                           |
+| メガクェイク (Mega Quake)                    | 山      | 40     |          | 2            | 手魚激 (世宇子)                                                                     |
+| ヘビーベイビー (Heavy Baby *Heavy Mettle*)    | 山      | 50     | Block    | 2            | Coyote(世界選拔改), 丹提迪亞普羅 (吟遊詩人)                                                  |
+| アイアンウォール (Iron Wall)                   | 山      | 50     | Block    | 2            | Teres(世界選拔改)                                                                  |
+| バーバリアンの盾 (Barbarian no Tate)           | 山      | 60     | Block    | 2            | Hebimoth (黑暗天使隊), Ottorino(吟遊詩人), Gattuso(吟遊詩人), 丹提迪亞普羅 (吟遊詩人), 班特卡利亞諾 (小巨人隊) |
+| ブロックサーカス (Block Circus *Circus Block*) | 山      | 40     |          | 2 \[合體(2人)\] | Marco(吟遊詩人), Giuseppe(吟遊詩人), Alessandro(吟遊詩人), Canon                          |
+| かっとびディフェンス (Kattobi Defence)           | 山      | 50     | Block    | 2 \[合體(2人)\] | 西園信助, Angelo (吟遊詩人)                                                           |
+| フラクタルハウス (Fractal House)               | 山      | 50     |          | 2 \[合體(2人)\] | Wally, Deboon, Straw, Smile, Kimoro (天馬隊)                                     |
+| マジカルフラワー (Magical Flower)              | 山      | 50     |          | 3            | Chiuri, Genius, Kamomi, Mokuren, Maagaru (Destructchers)                      |
+| アトランティスウォール (Atlantis Wall)            | 山      | 60     | Block    | 3            | 天城大地, 壁山塀吾郎                                                                   |
+| グランドクェイク (Ground Quake)                | 山      | 60     | Block    | 3            | 極川寒太郎, Walter (小巨人隊), 普波托蘭卡斯 (王牙)                                             |
+| ザ・マウンテン (The Mountain)                 | 山      | 60     | Block    | 3            | 壁山塀吾郎                                                                         |
+| ストロングタワー (Strong Tower)                | 山      | 70     |          | 化身 (Keshin)  | Kai                                                                           |
+
+  
+  
+<span id="voidblocks"></span>
+
+|                          |        |        |          |           |                      |
+| ------------------------ | ------ | ------ | -------- | --------- | -------------------- |
+| **阻截技**                  | **元素** | **TP** | **Type** | **Level** | **Who can shoot it** |
+| バニシングカット (Vanishing Cut) | 無      | 50     |          | 3         | 護巻徹郎, 龍崎皇児           |
+
+  
+
+-----
+
+  
+  
+
+# Catches
+
+  
+  
+<span id="aircatches"></span>
+
+|                                             |        |        |          |              |                             |
+| ------------------------------------------- | ------ | ------ | -------- | ------------ | --------------------------- |
+| **守門技**                                     | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**        |
+| はなふぶき (Hana Fubuki *Flower Power*)          | 風      | 20     | Catch    | 1            | 土洲戀 (女生隊)                   |
+| クリスタルバリア (Crystal Barrier)                  | 風      | 30     | Catch    | 2            | Hebino (Zero), Blasi (吟遊詩人) |
+| つなみウォール (Tsunami Wall)                      | 風      | 30     | Punch 2  | 2            | 步星吞一 (世宇子)                  |
+| はなふぶき改 (Hana Fubuki Kai *Flower Power Kai*) | 風      | 40     | Catch    | 2            | 土洲戀 (女生隊)                   |
+| プロキオンネット (Procyon Net)                      | 風      | 40     | Catch    | 2            | 根室君之                        |
+| エレキトラップ (Electric Trap)                     | 風      | 40     | Catch    | 2            | 扎高美坦迪                       |
+| 正義の鉄拳 (Seigi no Tekken *Fist of Justice*)   | 風      | 40     | Punch 2  | 2            | 圓堂守, 木野秋 (女生隊)              |
+| 時空の壁 (Jikuu no Kabe *Temporal Wall*)        | 風      | 50     | Punch 2  | 3            | 根室君之                        |
+| シャイニングホール (Shining Hole)                    | 風      | 50     | Catch    | 3            | Lotus (Destructchers)       |
+| ハイボルテージ (High Voltage)                      | 風      | 50     | Punch 2  | 3 \[合體(3人)\] | 扎高美坦迪 (王牙)                  |
+
+  
+  
+<span id="woodcatches"></span>
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -3347,341 +2803,57 @@ If you want to know how to unlock coop moves you can use <a href="inazuma-eleven
 </tbody>
 </table>
 
-<p><span id="firecatches"></span></p>
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>守門技</strong></td>
-<td><strong>元素</strong></td>
-<td><strong>TP</strong></td>
-<td><strong>Type</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
-</tr>
-<tr class="even">
-<td>バーニングキャッチ (Burning Catch)</td>
-<td>火</td>
-<td>30</td>
-<td>Catch</td>
-<td>1</td>
-<td>三國太一, 西園信助, 空野葵</td>
-</tr>
-<tr class="odd">
-<td>パワースパイク (Power Spike)</td>
-<td>火</td>
-<td>30</td>
-<td>Catch</td>
-<td>1</td>
-<td>Matchos (天馬隊), 兵頭司 (革命選拔), Viola (Destructchers), 雅野麗一</td>
-</tr>
-<tr class="even">
-<td>パワーシールド (Power Shield)</td>
-<td>火</td>
-<td>30</td>
-<td>Punch 1</td>
-<td>1</td>
-<td>源田幸次郎/源田幸次郎, Viola (Destructchers)</td>
-</tr>
-<tr class="odd">
-<td>フルパワーシールド (Full Power Shield)</td>
-<td>火</td>
-<td>40</td>
-<td>Punch 1</td>
-<td>2</td>
-<td>源田幸次郎/源田幸次郎, Ottorino(吟遊詩人)</td>
-</tr>
-<tr class="even">
-<td>シュートブレイク (Shoot Break)</td>
-<td>火</td>
-<td>30</td>
-<td>Catch</td>
-<td>2</td>
-<td>千宮路大和 (第五院)</td>
-</tr>
-<tr class="odd">
-<td>ドリルスマッシャー (Drill Smasher)</td>
-<td>火</td>
-<td>40</td>
-<td>Punch 1</td>
-<td>2</td>
-<td>Desarm/砂木沼治, 源田幸次郎/源田幸次郎</td>
-</tr>
-<tr class="even">
-<td>ダブルロケット (Double Rocket)</td>
-<td>火</td>
-<td>40</td>
-<td>Punch 1</td>
-<td>2</td>
-<td>杉森威</td>
-</tr>
-<tr class="odd">
-<td>バーンアウト (Burn Out)</td>
-<td>火</td>
-<td>40</td>
-<td>Catch</td>
-<td>2</td>
-<td>大岩藏人, 瀬方隆一郎</td>
-</tr>
-<tr class="even">
-<td>ゴットハンドX (God Hand X)</td>
-<td>火</td>
-<td>40</td>
-<td>Catch</td>
-<td>2</td>
-<td>Rococo, Cain (小巨人隊), 空野葵</td>
-</tr>
-<tr class="odd">
-<td>サンドカッター (Sand Cutter)</td>
-<td>火</td>
-<td>40</td>
-<td>Catch</td>
-<td>3</td>
-<td>Shuten</td>
-</tr>
-<tr class="even">
-<td>カウンタードライブ (Counter Drive)</td>
-<td>火</td>
-<td>40</td>
-<td>Catch</td>
-<td>3</td>
-<td>雅野麗一</td>
-</tr>
-<tr class="odd">
-<td>バーンアウトV2 (Burn Out V2)</td>
-<td>火</td>
-<td>50</td>
-<td>Catch</td>
-<td>3</td>
-<td>大岩藏人</td>
-</tr>
-<tr class="even">
-<td>無頼ハンド (Burai Hand)</td>
-<td>火</td>
-<td>50</td>
-<td>Catch</td>
-<td>3</td>
-<td>三國太一, 空野葵, 兵頭司 (革命選拔)</td>
-</tr>
-<tr class="odd">
-<td>ドリルスマッシャーV2 (Drill Smasher V2)</td>
-<td>火</td>
-<td>60</td>
-<td>Punch 1</td>
-<td>3</td>
-<td>Desarm/砂木沼治, 瀬方隆一郎, 源田幸次郎/源田幸次郎</td>
-</tr>
-<tr class="even">
-<td>ビーストファング (Beast Fang)</td>
-<td>火</td>
-<td>60</td>
-<td>Catch</td>
-<td>3</td>
-<td>源田幸次郎/源田幸次郎, 厚石茂人</td>
-</tr>
-<tr class="odd">
-<td>タマシイ・ザ・ハンド (Tamashii The Hand <em>Soul Hand</em>)</td>
-<td>火</td>
-<td>60</td>
-<td>Catch</td>
-<td>3</td>
-<td>Rococo, 多摩野五郎</td>
-</tr>
-<tr class="even">
-<td>キングファイア (King Fire)</td>
-<td>火</td>
-<td>60</td>
-<td>Catch</td>
-<td>化身 (Keshin)</td>
-<td>千宮路大和 (第五院)</td>
-</tr>
-</tbody>
-</table>
-<p><span id="earthcatches"></span></p>
-<table>
-<tbody>
-<tr class="odd">
-<td><strong>守門技</strong></td>
-<td><strong>元素</strong></td>
-<td><strong>TP</strong></td>
-<td><strong>Type</strong></td>
-<td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
-</tr>
-<tr class="even">
-<td>ゴッドハンド (God Hand)</td>
-<td>山</td>
-<td>20</td>
-<td>Catch</td>
-<td>1</td>
-<td>圓堂守, 木野秋, 西園信助, 多摩野五郎, Rococo</td>
-</tr>
-<tr class="odd">
-<td>コロッセオガード (Colosseo Guard <em>Colosseum Guard</em>)</td>
-<td>山</td>
-<td>30</td>
-<td>Punch 1</td>
-<td>2</td>
-<td>Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)</td>
-</tr>
-<tr class="even">
-<td>ぶっとびパンチ (Buttobi Punch)</td>
-<td>山</td>
-<td>30</td>
-<td>Punch 1</td>
-<td>2</td>
-<td>西園信助, Matchos (天馬隊)</td>
-</tr>
-<tr class="odd">
-<td>マジン・ザ・ハンド (Majin The Hand)</td>
-<td>山</td>
-<td>30</td>
-<td>Catch</td>
-<td>2</td>
-<td>圓堂守, 多摩野五郎</td>
-</tr>
-<tr class="even">
-<td>エクセレントブレスト (Excellent Breast)</td>
-<td>山</td>
-<td>40</td>
-<td>Catch</td>
-<td>2</td>
-<td>Matchos (天馬隊), Medam, Lotus (Destructchers)</td>
-</tr>
-<tr class="odd">
-<td>いかりのてっつい (Ikari no Tettsui <em>Hammer of Fury</em>)</td>
-<td>山</td>
-<td>40</td>
-<td>Catch</td>
-<td>2</td>
-<td>圓堂守</td>
-</tr>
-<tr class="even">
-<td>フェンス・オブ・ガイア (Fence of Gaia)</td>
-<td>山</td>
-<td>40</td>
-<td>Punch 1</td>
-<td>2</td>
-<td>三國太一, 兵頭司 (革命選拔), Blasi (吟遊詩人)</td>
-</tr>
-<tr class="odd">
-<td>コロッセオガード改 (Colosseo Guard Kai <em>Colosseum Guard Kai</em>)</td>
-<td>山</td>
-<td>40</td>
-<td>Punch 1</td>
-<td>3</td>
-<td>Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)</td>
-</tr>
-<tr class="even">
-<td>サーペントファング (Serpent Fang)</td>
-<td>山</td>
-<td>40</td>
-<td>Catch</td>
-<td>3</td>
-<td>Hebino (Zero), Raven</td>
-</tr>
-<tr class="odd">
-<td>エクセレントブレスト改 (Excellent Breast Kai)</td>
-<td>山</td>
-<td>50</td>
-<td>Catch</td>
-<td>3</td>
-<td>Matchos (天馬隊), Medam, Lotus (Destructchers)</td>
-</tr>
-<tr class="even">
-<td>真 マジン・ザ・ハンド (Shin Majin The Hand)</td>
-<td>山</td>
-<td>50</td>
-<td>Catch</td>
-<td>3</td>
-<td>圓堂守, 多摩野五郎</td>
-</tr>
-<tr class="odd">
-<td>ギガントウォール (Gigant Wall)</td>
-<td>山</td>
-<td>50</td>
-<td>Catch</td>
-<td>3</td>
-<td>步星吞一 (世宇子), Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)</td>
-</tr>
-<tr class="even">
-<td>ゴッドハンドW (God Hand W)</td>
-<td>山</td>
-<td>50</td>
-<td>Catch</td>
-<td>3</td>
-<td>松風天馬</td>
-</tr>
-<tr class="odd">
-<td>ゴッドハンドV (God Hand V)</td>
-<td>山</td>
-<td>50</td>
-<td>Catch</td>
-<td>3</td>
-<td>圓堂守, Rococo</td>
-</tr>
-<tr class="even">
-<td>ゴッドキャッチ (God Catch)</td>
-<td>山</td>
-<td>60</td>
-<td>Catch</td>
-<td>3</td>
-<td>圓堂守</td>
-</tr>
-<tr class="odd">
-<td>オメガ・ザ・ハンド (Omega The Hand)</td>
-<td>山</td>
-<td>60</td>
-<td>Catch</td>
-<td>3</td>
-<td>圓堂守</td>
-</tr>
-<tr class="even">
-<td>グレイト・ザ・ハンド (Great The Hand)</td>
-<td>山</td>
-<td>60</td>
-<td>Catch</td>
-<td>3</td>
-<td>圓堂守</td>
-</tr>
-<tr class="odd">
-<td>無限の壁 (Mugen no Kabe <em>Infinite Wall</em>)</td>
-<td>山</td>
-<td>50</td>
-<td>Catch</td>
-<td>3 [合體(3人)]</td>
-<td>源田幸次郎/源田幸次郎</td>
-</tr>
-<tr class="even">
-<td>大国謳歌 (Taikoku Ouka)</td>
-<td>山</td>
-<td>20</td>
-<td>Catch</td>
-<td>3 (MIX)</td>
-<td>西園信助 (Mixi Max Form)</td>
-</tr>
-<tr class="odd">
-<td>ギガンティックボム (Gigantic Bomb)</td>
-<td>山</td>
-<td>60</td>
-<td>Catch</td>
-<td>化身 (Keshin)</td>
-<td>兵頭司 (革命選拔)</td>
-</tr>
-<tr class="even">
-<td>マジン・ザ・ハンド (Majin The Hand)</td>
-<td>山</td>
-<td>60</td>
-<td>Catch</td>
-<td>化身 (Keshin)</td>
-<td>西園信助</td>
-</tr>
-<tr class="odd">
-<td>ぶっとびパンチ (Buttobi Punch)</td>
-<td>山</td>
-<td>60</td>
-<td>Punch 1</td>
-<td>アームド (Armed)</td>
-<td>西園信助</td>
-</tr>
-</tbody>
-</table>
+  
+  
+<span id="firecatches"></span>
+
+|                                            |        |        |          |             |                                                        |
+| ------------------------------------------ | ------ | ------ | -------- | ----------- | ------------------------------------------------------ |
+| **守門技**                                    | **元素** | **TP** | **Type** | **Level**   | **Who can shoot it**                                   |
+| バーニングキャッチ (Burning Catch)                  | 火      | 30     | Catch    | 1           | 三國太一, 西園信助, 空野葵                                        |
+| パワースパイク (Power Spike)                      | 火      | 30     | Catch    | 1           | Matchos (天馬隊), 兵頭司 (革命選拔), Viola (Destructchers), 雅野麗一 |
+| パワーシールド (Power Shield)                     | 火      | 30     | Punch 1  | 1           | 源田幸次郎/源田幸次郎, Viola (Destructchers)                     |
+| フルパワーシールド (Full Power Shield)              | 火      | 40     | Punch 1  | 2           | 源田幸次郎/源田幸次郎, Ottorino(吟遊詩人)                            |
+| シュートブレイク (Shoot Break)                     | 火      | 30     | Catch    | 2           | 千宮路大和 (第五院)                                            |
+| ドリルスマッシャー (Drill Smasher)                  | 火      | 40     | Punch 1  | 2           | Desarm/砂木沼治, 源田幸次郎/源田幸次郎                               |
+| ダブルロケット (Double Rocket)                    | 火      | 40     | Punch 1  | 2           | 杉森威                                                    |
+| バーンアウト (Burn Out)                          | 火      | 40     | Catch    | 2           | 大岩藏人, 瀬方隆一郎                                            |
+| ゴットハンドX (God Hand X)                       | 火      | 40     | Catch    | 2           | Rococo, Cain (小巨人隊), 空野葵                               |
+| サンドカッター (Sand Cutter)                      | 火      | 40     | Catch    | 3           | Shuten                                                 |
+| カウンタードライブ (Counter Drive)                  | 火      | 40     | Catch    | 3           | 雅野麗一                                                   |
+| バーンアウトV2 (Burn Out V2)                     | 火      | 50     | Catch    | 3           | 大岩藏人                                                   |
+| 無頼ハンド (Burai Hand)                         | 火      | 50     | Catch    | 3           | 三國太一, 空野葵, 兵頭司 (革命選拔)                                  |
+| ドリルスマッシャーV2 (Drill Smasher V2)             | 火      | 60     | Punch 1  | 3           | Desarm/砂木沼治, 瀬方隆一郎, 源田幸次郎/源田幸次郎                        |
+| ビーストファング (Beast Fang)                      | 火      | 60     | Catch    | 3           | 源田幸次郎/源田幸次郎, 厚石茂人                                      |
+| タマシイ・ザ・ハンド (Tamashii The Hand *Soul Hand*) | 火      | 60     | Catch    | 3           | Rococo, 多摩野五郎                                          |
+| キングファイア (King Fire)                        | 火      | 60     | Catch    | 化身 (Keshin) | 千宮路大和 (第五院)                                            |
+
+  
+  
+<span id="earthcatches"></span>
+
+|                                                      |        |        |          |              |                                             |
+| ---------------------------------------------------- | ------ | ------ | -------- | ------------ | ------------------------------------------- |
+| **守門技**                                              | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**                        |
+| ゴッドハンド (God Hand)                                    | 山      | 20     | Catch    | 1            | 圓堂守, 木野秋, 西園信助, 多摩野五郎, Rococo               |
+| コロッセオガード (Colosseo Guard *Colosseum Guard*)          | 山      | 30     | Punch 1  | 2            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
+| ぶっとびパンチ (Buttobi Punch)                              | 山      | 30     | Punch 1  | 2            | 西園信助, Matchos (天馬隊)                         |
+| マジン・ザ・ハンド (Majin The Hand)                           | 山      | 30     | Catch    | 2            | 圓堂守, 多摩野五郎                                  |
+| エクセレントブレスト (Excellent Breast)                        | 山      | 40     | Catch    | 2            | Matchos (天馬隊), Medam, Lotus (Destructchers) |
+| いかりのてっつい (Ikari no Tettsui *Hammer of Fury*)         | 山      | 40     | Catch    | 2            | 圓堂守                                         |
+| フェンス・オブ・ガイア (Fence of Gaia)                          | 山      | 40     | Punch 1  | 2            | 三國太一, 兵頭司 (革命選拔), Blasi (吟遊詩人)              |
+| コロッセオガード改 (Colosseo Guard Kai *Colosseum Guard Kai*) | 山      | 40     | Punch 1  | 3            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
+| サーペントファング (Serpent Fang)                             | 山      | 40     | Catch    | 3            | Hebino (Zero), Raven                        |
+| エクセレントブレスト改 (Excellent Breast Kai)                   | 山      | 50     | Catch    | 3            | Matchos (天馬隊), Medam, Lotus (Destructchers) |
+| 真 マジン・ザ・ハンド (Shin Majin The Hand)                    | 山      | 50     | Catch    | 3            | 圓堂守, 多摩野五郎                                  |
+| ギガントウォール (Gigant Wall)                               | 山      | 50     | Catch    | 3            | 步星吞一 (世宇子), Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)    |
+| ゴッドハンドW (God Hand W)                                 | 山      | 50     | Catch    | 3            | 松風天馬                                        |
+| ゴッドハンドV (God Hand V)                                 | 山      | 50     | Catch    | 3            | 圓堂守, Rococo                                 |
+| ゴッドキャッチ (God Catch)                                  | 山      | 60     | Catch    | 3            | 圓堂守                                         |
+| オメガ・ザ・ハンド (Omega The Hand)                           | 山      | 60     | Catch    | 3            | 圓堂守                                         |
+| グレイト・ザ・ハンド (Great The Hand)                          | 山      | 60     | Catch    | 3            | 圓堂守                                         |
+| 無限の壁 (Mugen no Kabe *Infinite Wall*)                 | 山      | 50     | Catch    | 3 \[合體(3人)\] | 源田幸次郎/源田幸次郎                                 |
+| 大国謳歌 (Taikoku Ouka)                                  | 山      | 20     | Catch    | 3 (MIX)      | 西園信助 (Mixi Max Form)                        |
+| ギガンティックボム (Gigantic Bomb)                            | 山      | 60     | Catch    | 化身 (Keshin)  | 兵頭司 (革命選拔)                                  |
+| マジン・ザ・ハンド (Majin The Hand)                           | 山      | 60     | Catch    | 化身 (Keshin)  | 西園信助                                        |
+| ぶっとびパンチ (Buttobi Punch)                              | 山      | 60     | Punch 1  | アームド (Armed) | 西園信助                                        |

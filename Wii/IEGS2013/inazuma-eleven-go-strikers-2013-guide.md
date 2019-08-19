@@ -1,10 +1,31 @@
-<p><a href="http://watashiwa7.altervista.org/ie/index.html"><img src="ieguideslogo.jpg" /></a></p>
+[![](ieguideslogo.jpg)](http://watashiwa7.altervista.org/ie/index.html)  
+
 <div style="margin-top:300px;margin-left:10px;">
 
-<p>In Inazuma Eleven Go Strikers 2013 there are different kinds of special moves. The ones you need to unlock are mostly coop moves (合体技 <em>gattai waza</em>), avatar moves (化身技 <em>keshin waza</em>) and a few of Mixi-Max moves. This guide is focused on coop moves and how to unlock them (to unlock kenshin moves just raise the kakusei of that player). For the complete list of special moves sorted by power <a href="inazuma-eleven-go-strikers-2013-all-special-moves.htm">click here</a>. Remember: a mixi-maxed player can use gattai shots only, if you equipped a kenshin one or an armed one the SP slot will be empty (dribbles can be both armed and mixi-maxed at the same time). In this guide moves are sorted by name (english alphabet). If you're interested in unlocking characters or Mixi-Max, read the sections at the bottom of this guide.</p>
+In Inazuma Eleven Go Strikers 2013 there are different kinds of special
+moves. The ones you need to unlock are mostly coop moves (合体技 *gattai
+waza*), avatar moves (化身技 *keshin waza*) and a few of Mixi-Max moves.
+This guide is focused on coop moves and how to unlock them (to unlock
+kenshin moves just raise the kakusei of that player). For the complete
+list of special moves sorted by power [click
+here](inazuma-eleven-go-strikers-2013-all-special-moves.htm). Remember:
+a mixi-maxed player can use gattai shots only, if you equipped a kenshin
+one or an armed one the SP slot will be empty (dribbles can be both
+armed and mixi-maxed at the same time). In this guide moves are sorted
+by name (english alphabet). If you're interested in unlocking characters
+or Mixi-Max, read the sections at the bottom of this guide.
+
 </div>
 
-<h1 id="合體射門技">合體射門技</h1>
+  
+  
+
+# 合體射門技
+
+  
+  
+  
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -649,7 +670,17 @@
 </tbody>
 </table>
 
-<h1 id="單人射門技">單人射門技</h1>
+  
+  
+  
+  
+
+# 單人射門技
+
+  
+  
+  
+
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -696,7 +727,17 @@
 </tbody>
 </table>
 
-<h1 id="合體盤球技">合體盤球技</h1>
+  
+  
+  
+  
+
+# 合體盤球技
+
+  
+  
+  
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -785,7 +826,17 @@
 </tbody>
 </table>
 
-<h1 id="單人盤球技">單人盤球技</h1>
+  
+  
+  
+  
+
+# 單人盤球技
+
+  
+  
+  
+
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -814,7 +865,17 @@
 </tbody>
 </table>
 
-<h1 id="合體阻截技">合體阻截技</h1>
+  
+  
+  
+  
+
+# 合體阻截技
+
+  
+  
+  
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -921,7 +982,17 @@
 </tbody>
 </table>
 
-<h1 id="合體-守門技">合體 守門技</h1>
+  
+  
+  
+  
+
+# 合體 守門技
+
+  
+  
+  
+
 <table style="width:96%;">
 <colgroup>
 <col style="width: 16%" />
@@ -974,7 +1045,17 @@
 </tbody>
 </table>
 
-<h1 id="單人-守門技">單人 守門技</h1>
+  
+  
+  
+  
+
+# 單人 守門技
+
+  
+  
+  
+
 <table>
 <colgroup>
 <col style="width: 20%" />
@@ -1030,59 +1111,77 @@
 </tbody>
 </table>
 
-<h1 id="角色解鎖">角色解鎖</h1>
+  
+  
+  
+  
+
+# 角色解鎖
+
+  
+  
+
 <div class="contenuto">
 
-<p><strong>圓堂加儂</strong>: 在雷門篇的訓練中戰勝他<br />
-<strong>多摩野五郎/Peabody</strong>: 在雷門篇的訓練中戰勝他<br />
-<strong>宮坂了/Miles</strong>: 在雷門篇的訓練中戰勝他<br />
-<strong>音村樂也/Soundtown</strong>: 在雷門篇的訓練中戰勝他<br />
-<strong>豪炎寺真人</strong>: 在雷門篇的訓練中戰勝他<br />
-<strong>炎 (火焰神龍隊)</strong>: 在閃電日本隊篇的訓練中戰勝他<br />
-<strong>翔 (火焰神龍隊)</strong>: 在閃電日本隊篇的訓練中戰勝他<br />
-<strong>龜崎河童</strong>: 在閃電日本隊篇的訓練中戰勝他<br />
-<strong>綠川龍二 (閃電日本隊)</strong>: 在閃電日本隊篇的訓練中戰勝他<br />
-<strong>栗松鐵平 (閃電日本隊)</strong>: 在閃電日本隊篇的訓練中戰勝他<br />
-<strong>木暮夕彌 (成人)</strong>: 在新生雷門篇的訓練中戰勝他<br />
-<strong>太助</strong>: 在新生雷門篇的訓練中戰勝他<br />
-<strong>五條勝 (Zero)</strong>: 在新生雷門篇的訓練中戰勝他<br />
-<strong>牙山道三 (Zero)</strong>: 在新生雷門篇的訓練中戰勝他<br />
-<strong>菜花黄名子 (新生雷門)</strong>: 在新生雷門篇的訓練中戰勝她<br />
-<strong>托普</strong>: 在新生雷門篇的訓練中戰勝他<br />
-<strong>雷伊路克</strong>: 選入 Alpha, Beta and Gamma<br />
-<strong>薩魯艾凡</strong>: 選入 菲魯恩, 雨宮太陽, 菜花黄名子, 托普 and Zanark<br />
-<strong>杉森威/Feldt (Brainwashing)</strong>: 選入他 暗黑帝王隊的版本<br />
-<strong>西垣守/Night (Kirkwood: Kidokawa Seishuu 木戸川清修)</strong>: 選入他 暗黑帝王隊的版本<br />
-<strong>闇野カゲト (雷門)</strong>: 選入他 暗黑帝王隊的版本<br />
-<strong>不動明王 (真帝國學園/Royal Redux)</strong>: 選入 不動明王 (閃電日本隊)<br />
-<strong>源田幸次郎 (真帝國學園/Royal Redux)</strong>: 選入 源田幸次郎/King (帝國學園/Royal) and (新日本隊)<br />
-<strong>佐久間次郎 (真帝國學園/Royal Redux)</strong>: 選入 佐久間次郎 (帝國學園/Royal) and (閃電日本隊)<br />
-<strong>山菜茜</strong> password: しんさまだいすき (Shin-sama daisuki)<br />
-<strong>瀨戶水鳥</strong> password: ちゃんばらおたく (Chanbara otaku)<br />
-<strong>空野葵</strong> password: かわいくてつよい (Kawaikute tsuyoi)<br />
-<strong>稲葉大安</strong> password: いでよカマイタチ (Ideyo kamaitachi)<br />
-<strong>雅野麗一</strong> password: パワースパイク！ (Power spike!)<br />
-<strong>劍城優一</strong> password: ほくろがめじるし (Hokurogamejirushi)<br />
-<strong>San</strong> password: えいがでげきとつ (Eiga de gekitotsu)</p>
+**圓堂加儂**: 在雷門篇的訓練中戰勝他  
+**多摩野五郎/Peabody**: 在雷門篇的訓練中戰勝他  
+**宮坂了/Miles**: 在雷門篇的訓練中戰勝他  
+**音村樂也/Soundtown**: 在雷門篇的訓練中戰勝他  
+**豪炎寺真人**: 在雷門篇的訓練中戰勝他  
+**炎 (火焰神龍隊)**: 在閃電日本隊篇的訓練中戰勝他  
+**翔 (火焰神龍隊)**: 在閃電日本隊篇的訓練中戰勝他  
+**龜崎河童**: 在閃電日本隊篇的訓練中戰勝他  
+**綠川龍二 (閃電日本隊)**: 在閃電日本隊篇的訓練中戰勝他  
+**栗松鐵平 (閃電日本隊)**: 在閃電日本隊篇的訓練中戰勝他  
+**木暮夕彌 (成人)**: 在新生雷門篇的訓練中戰勝他  
+**太助**: 在新生雷門篇的訓練中戰勝他  
+**五條勝 (Zero)**: 在新生雷門篇的訓練中戰勝他  
+**牙山道三 (Zero)**: 在新生雷門篇的訓練中戰勝他  
+**菜花黄名子 (新生雷門)**: 在新生雷門篇的訓練中戰勝她  
+**托普**: 在新生雷門篇的訓練中戰勝他  
+**雷伊路克**: 選入 Alpha, Beta and Gamma  
+**薩魯艾凡**: 選入 菲魯恩, 雨宮太陽, 菜花黄名子, 托普 and Zanark  
+**杉森威/Feldt (Brainwashing)**: 選入他 暗黑帝王隊的版本  
+**西垣守/Night (Kirkwood: Kidokawa Seishuu 木戸川清修)**: 選入他 暗黑帝王隊的版本  
+**闇野カゲト (雷門)**: 選入他 暗黑帝王隊的版本  
+**不動明王 (真帝國學園/Royal Redux)**: 選入 不動明王 (閃電日本隊)  
+**源田幸次郎 (真帝國學園/Royal Redux)**: 選入 源田幸次郎/King (帝國學園/Royal) and (新日本隊)  
+**佐久間次郎 (真帝國學園/Royal Redux)**: 選入 佐久間次郎 (帝國學園/Royal) and (閃電日本隊)  
+**山菜茜** password: しんさまだいすき (Shin-sama daisuki)  
+**瀨戶水鳥** password: ちゃんばらおたく (Chanbara otaku)  
+**空野葵** password: かわいくてつよい (Kawaikute tsuyoi)  
+**稲葉大安** password: いでよカマイタチ (Ideyo kamaitachi)  
+**雅野麗一** password: パワースパイク！ (Power spike\!)  
+**劍城優一** password: ほくろがめじるし (Hokurogamejirushi)  
+**San** password: えいがでげきとつ (Eiga de gekitotsu)  
+  
+
 </div>
 
-<h1 id="解鎖極限融合mixi-max">解鎖極限融合(Mixi-Max)</h1>
+  
+  
+
+# 解鎖極限融合(Mixi-Max)
+
+  
+
 <div class="contenuto">
 
-<p><strong>松風天馬 + 修</strong>: 修 (Zero) and 松風天馬 (天馬隊) 絆50%<br />
-<strong>菲魯恩 + 霸王龍Tyrano</strong>: 戰勝 天馬隊<br />
-<strong>神童拓人 + 織田信長</strong>: 戰勝 Protocol Omega<br />
-<strong>霧野蘭丸 + 聖女貞德</strong>: 戰勝 Protocol Omega<br />
-<strong>西園信助 + 劉玄徳</strong>: 戰勝 Zanark Domain<br />
-<strong>錦龍馬 + 坂本龍馬</strong>: 戰勝 Zanark Domain<br />
-<strong>劍城京介 + 沖田總司</strong>: 戰勝 Zanark Domain<br />
-<strong>雨宮太陽 + 諸葛孔明</strong>: 戰勝 Zanark Domain<br />
-<strong>Zanark + 曹操</strong>: 戰勝 Zanark Domain<br />
-<strong>菜花黄名子 + 天王巨龍</strong>: 覺醒3 and 戰勝 Zanark Domain<br />
-<strong>松風天馬 + 亞瑟王</strong>: 覺醒3 and 戰勝 Zanark Domain<br />
-<strong>Zanark + 巨大颱風Clara Jane</strong>: 覺醒3<br />
-<strong>菲魯恩 + 霸王龍Big</strong>: 覺醒3 and 戰勝 Zanark Domain<br />
-<strong>托普 + 風神翼龍老爸</strong>: 覺醒3<br />
-<strong>劍城優一 + 劍城京介</strong>: 兩者 絆50%</p>
-</div>
+**松風天馬 + 修**: 修 (Zero) and 松風天馬 (天馬隊) 絆50%  
+**菲魯恩 + 霸王龍Tyrano**: 戰勝 天馬隊  
+**神童拓人 + 織田信長**: 戰勝 Protocol Omega  
+**霧野蘭丸 + 聖女貞德**: 戰勝 Protocol Omega  
+**西園信助 + 劉玄徳**: 戰勝 Zanark Domain  
+**錦龍馬 + 坂本龍馬**: 戰勝 Zanark Domain  
+**劍城京介 + 沖田總司**: 戰勝 Zanark Domain  
+**雨宮太陽 + 諸葛孔明**: 戰勝 Zanark Domain  
+**Zanark + 曹操**: 戰勝 Zanark Domain  
+**菜花黄名子 + 天王巨龍**: 覺醒3 and 戰勝 Zanark Domain  
+**松風天馬 + 亞瑟王**: 覺醒3 and 戰勝 Zanark Domain  
+**Zanark + 巨大颱風Clara Jane**: 覺醒3  
+**菲魯恩 + 霸王龍Big**: 覺醒3 and 戰勝 Zanark Domain  
+**托普 + 風神翼龍老爸**: 覺醒3  
+**劍城優一 + 劍城京介**: 兩者 絆50%  
+  
 
+</div>
