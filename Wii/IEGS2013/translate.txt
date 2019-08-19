@@ -2,10 +2,7 @@
 /Gouenji/豪炎寺修也/
 /Masato/豪炎寺真人/
 /Ogre/王牙/
-/Otonashi Haruna/音無春奈/
-/Otonashi/音無春奈/
 /Canon/圓堂加儂/
-/Natsumi/雷門夏未/
 /Endou/圓堂守/
 /Tsurugi Kyousuke/劍城京介/
 /Tsurugi Yuuichi/劍城優一/
@@ -185,6 +182,8 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 /Inaba Taian/稲葉大安/
 /Sorano Aoi/空野葵/
 /Miyabino Reiichi/雅野麗一/   https://inazuma-eleven.fandom.com/wiki/Miyabino_Reiichi       TP: 190    Kick: A    Guard: A    Body: A    Speed: A    Control: A    Catch: S 
+
+			第五院
 /Senguuji/千宮路大和/
 /Ide/井出乗数/
 /Gomaki/護巻徹郎/
@@ -196,7 +195,12 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 /Kita/喜多一番/
 /Namikawa/浪川蓮助/
 /Mikado/御門春馬/
+
+
+
 /Tasuke/太助/
+/Zanark/扎納克/
+
 
 
 /Kinako/菜花黄名子/
@@ -204,23 +208,50 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 王牙
 	巴特寶・斯列特(バダップ・スリード)
 
+奧米迦協議隊 Protocol Omega (プロトコル・オメガ)
+
+/Alpha/阿爾法(奧米迦協議隊)/ （アルファ）
+/Beta/貝塔(奧米迦協議隊)/    （ベータ)
+/Gamma/伽瑪(奧米迦協議隊)/    (ガンマ)
+/Zanou/紮諾(奧米迦協議隊)/   （ザノウ）
+/Medam/梅達姆(奧米迦協議隊)/  (メダム)
+/Gaura/克烏拉(奧米迦協議隊)/  (ガウラ)
+/Ward/沃德(奧米迦協議隊)/     (ウォード)
+/Kuosu/庫歐斯(奧米迦協議隊)/  (クオース)
+/Neira/妮拉(奧米迦協議隊)/    (ネイラ)
+/Dorimu/多利姆(奧米迦協議隊)/ (ドリム)
+/Dorim/多利姆(奧米迦協議隊)/ (ドリム)
+/Orca/奧爾加(奧米迦協議隊)/  （オルカ）
+/Reiza/瑞莎(奧米迦協議隊)/    (レイザ)
+/Einamu/艾那姆(奧米迦協議隊)/ (エイナム)
+/Einam/艾那姆(奧米迦協議隊)/ (エイナム)
 
 
 
 
+			女生隊
 
-
-
-
-/Katsuyo/串田香津世/
+/Aki Kino/木野秋/
 /Koi/土洲戀/
+/Fuyuka/久遠冬花/
+/Matoro/真都路珠香/
 /Kouko/虎濱甲子/
+/Michiko/堀道子/
+/Katsuyo/串田香津世/
+/Otonashi Haruna/音無春奈/
+	/Otonashi/音無春奈/
+/Mai/館野舞/
+/Araya/荒谷紺子/
+/Takanashi/小鳥遊忍/
+/Hiromi/萬博美/
+/Kyan/喜屋武梨花/
+/Natsumi/雷門夏未/
+/Mako/如月まこ/
 /Reika/御堂玲華/
+
 /Rika/浦部莉香/
 /Touko/財前塔子/
-/Hiromi/萬博美/
-/Fuyuka/久遠冬花/
-/Aki Kino/木野秋/
+
 			革命選抜
 			革命選拔
 /Hyoudou/兵頭司/
@@ -272,8 +303,9 @@ Dylan Keith		ディラン・キース
 /(Dark Angels)/(黑暗天使隊)/
 /(Dark Angel)/(黑暗天使隊)/
 /(Aliea Gakuen)/(外星學園)/
-/()/(第五院)/
-
+/(Protocol Omega)/(奧米迦協議隊)/
+/Zanark Domain/(扎納克領域隊)/
+/(Legend Japan)/(日本傳奇隊)/
 /(Fifth Sectors)/(第五院)/     (フィフスセクターズ)
 
 https://inazuma-eleven.fandom.com/wiki/Fifth_Sectors
@@ -438,7 +470,7 @@ https://forum.gamer.com.tw/Co.php?bsn=11607&sn=8300
 
 
 todo: 
-	女子隊
+	女生隊					(已譯，未選)
 	リトルギガント Little Gigant 小巨人
 
 	革命選拔				(已譯，未選)
@@ -446,7 +478,13 @@ todo:
 
 	Zero
 	Tenmas
-	Protocol Omega
+	Protocol Omega				(已譯，未選)
 
 https://ja.wikipedia.org/wiki/イナズマイレブンGOの登場人物
 https://ja.wikipedia.org/wiki/イナズマイレブン_ストライカーズ
+
+攻略(日文)
+https://www49.atwiki.jp/inazumagost2013/sp/
+https://www49.atwiki.jp/inazumagost2013/sp/pages/43.html
+
+https://translate.google.com/translate?hl=&sl=ja&tl=zh-TW&u=https://www49.atwiki.jp/inazumagost2013/sp/

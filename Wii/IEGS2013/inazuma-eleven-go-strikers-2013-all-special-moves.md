@@ -63,7 +63,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>20</td>
 <td></td>
 <td>1</td>
-<td>一之瀨一哉, 栗尾根由紀 (Chaos), 久井RuRu (Aliea Gakuen)</td>
+<td>一之瀨一哉, 栗尾根由紀 (Chaos), 久井RuRu (外星學園)</td>
 </tr>
 <tr class="even">
 <td>すいせいシュート (Suisei Shot <em>Comet Shot</em>)</td>
@@ -71,7 +71,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>20</td>
 <td>Long</td>
 <td>1</td>
-<td>Mako (女生隊), 串田香津世 (女生隊)</td>
+<td>如月まこ (女生隊), 串田香津世 (女生隊)</td>
 </tr>
 <tr class="odd">
 <td>クロスドライブ (Cross Drive)</td>
@@ -103,7 +103,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>30</td>
 <td>Block</td>
 <td>1</td>
-<td>土門飛鳥, 皇マキ, Takanashi (女生隊), 武方努 (新日本隊)</td>
+<td>土門飛鳥, 皇マキ, 小鳥遊忍 (女生隊), 武方努 (新日本隊)</td>
 </tr>
 <tr class="odd">
 <td>ソニックショット (Sonic Shot)</td>
@@ -128,7 +128,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>30</td>
 <td></td>
 <td>1</td>
-<td>Einam, Alpha</td>
+<td>艾那姆(奧米迦協議隊), 阿爾法(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>エターナルブリザード (Eternal Blizzard)</td>
@@ -178,7 +178,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td>Long</td>
 <td>2</td>
-<td>Einam, Reiza, San</td>
+<td>艾那姆(奧米迦協議隊), 瑞莎(奧米迦協議隊), San</td>
 </tr>
 <tr class="even">
 <td>メガロドン (Megalodon)<br />
@@ -455,7 +455,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>80</td>
 <td></td>
 <td>化身 (Keshin)</td>
-<td>Beta</td>
+<td>貝塔(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>ドラゴンブラスター (Dragon Blaster)</td>
@@ -479,7 +479,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>80</td>
 <td></td>
 <td>アームド (Armed)</td>
-<td>Alpha</td>
+<td>阿爾法(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
 <td>ゴッドウィンド (God Wind)</td>
@@ -568,7 +568,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>30</td>
 <td>Chain</td>
 <td>1</td>
-<td>浦部莉香, 雷門夏未, Michiko (女生隊)</td>
+<td>浦部莉香, 雷門夏未, 堀道子 (女生隊)</td>
 </tr>
 <tr class="even">
 <td>ダークトルネード (Dark Tornado)</td>
@@ -617,7 +617,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td>Chain</td>
 <td>2</td>
-<td>Alpha</td>
+<td>阿爾法(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>ダークトルネード改 (Dark Tornado Kai)</td>
@@ -665,7 +665,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td>Chain</td>
 <td>2</td>
-<td>浦部莉香, 雷門夏未, Michiko (女生隊)</td>
+<td>浦部莉香, 雷門夏未, 堀道子 (女生隊)</td>
 </tr>
 <tr class="even">
 <td>ワイバーンクラッシュ (Wyvern Crash)</td>
@@ -690,7 +690,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>50</td>
 <td></td>
 <td>3</td>
-<td>Gamma</td>
+<td>伽瑪(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
 <td>ドラゴンスレイヤー (Dragon Slayer)</td>
@@ -915,7 +915,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>70</td>
 <td></td>
 <td>アームド (Armed)</td>
-<td>Gamma</td>
+<td>伽瑪(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
 <td>ジョーカーレインズ (Joker Rains)</td>
@@ -1037,7 +1037,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td></td>
 <td>2</td>
-<td>Orca, Neira</td>
+<td>奧爾加(奧米迦協議隊), 妮拉(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
 <td>ドラゴンキャノン (Dragon Cannon)</td>
@@ -1399,7 +1399,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>30</td>
 <td>Chain</td>
 <td>1</td>
-<td>倉間典人, 瀧總介, Medam, Kuosu</td>
+<td>倉間典人, 瀧總介, 梅達姆(奧米迦協議隊), 庫歐斯(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>タイガードライブ (Tiger Drive)</td>
@@ -1423,7 +1423,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td>Chain</td>
 <td>2</td>
-<td>倉間典人, 瀧總介, Medam, Kuosu</td>
+<td>倉間典人, 瀧總介, 梅達姆(奧米迦協議隊), 庫歐斯(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
 <td>パラディンストライク (Paladin Strike)</td>
@@ -1543,7 +1543,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>20</td>
 <td></td>
 <td>3 (MIX)</td>
-<td>Zanark (極限融合與 巨大颱風Clara Jane)</td>
+<td>Zanark (極限融合與 巨大颱風克萊拉珍Clara Jane)</td>
 </tr>
 <tr class="even">
 <td>メガネクラッシュ (目金欠流 Crash <em>Spectacle Crash</em>)</td>
@@ -1739,7 +1739,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td>Long</td>
 <td>2</td>
-<td>Beta</td>
+<td>貝塔(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
 <td>サウザンドアロー (Thousand Arrow)</td>
@@ -1779,7 +1779,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td></td>
 <td>合體(3人)</td>
-<td>Alpha, Beta, Gamma</td>
+<td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊), 伽瑪(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>ソードエクスカリバー (Sword Excalibur)</td>
@@ -1796,7 +1796,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>90</td>
 <td>Long</td>
 <td>アームド (Armed)</td>
-<td>Beta</td>
+<td>貝塔(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>グレートブラスター<br />
@@ -1816,7 +1816,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td></td>
 <td>アームド (Armed)<br />
 合體(3人)</td>
-<td>Alpha, Beta, Gamma</td>
+<td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊), 伽瑪(奧米迦協議隊)</td>
 </tr>
 </tbody>
 </table>
@@ -1855,7 +1855,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>風</td>
 <td>20</td>
 <td>1</td>
-<td>Mako, 虎濱甲子 (女生隊)</td>
+<td>如月まこ, 虎濱甲子 (女生隊)</td>
 </tr>
 <tr class="odd">
 <td>疾風ダッシュ (Shippuu Dash <em>Flurry Dash</em>)</td>
@@ -1898,7 +1898,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>風</td>
 <td>30</td>
 <td>1</td>
-<td>Gaura, Kuosu, Beta, Neira, Dorimu, Orca</td>
+<td>克烏拉(奧米迦協議隊), 庫歐斯(奧米迦協議隊), 貝塔(奧米迦協議隊), 妮拉(奧米迦協議隊), 多利姆(奧米迦協議隊), 奧爾加(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
 <td>ジグザグスパーク (Zigzag Spark)</td>
@@ -1912,7 +1912,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>風</td>
 <td>30</td>
 <td>2</td>
-<td>一乃七助, 雪村豹牙, 隼総英聖, Reiza, 木瀧常緒</td>
+<td>一乃七助, 雪村豹牙, 隼総英聖, 瑞莎(奧米迦協議隊), 木瀧常緒</td>
 </tr>
 <tr class="odd">
 <td>ダッシュストーム (Dash Storm)</td>
@@ -1947,7 +1947,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>風</td>
 <td>40</td>
 <td>2 [合體(2人)]</td>
-<td>Mai</td>
+<td>館野舞</td>
 </tr>
 <tr class="even">
 <td>エンゼルボール (Angel Ball)</td>
@@ -2049,7 +2049,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>林</td>
 <td>30</td>
 <td>1</td>
-<td>Kuosu</td>
+<td>庫歐斯(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>分身フェイント (Bunshin Feint <em>Clone Faker</em>)</td>
@@ -2149,7 +2149,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>火</td>
 <td>20</td>
 <td>1</td>
-<td>Kyan, 洞面秀一郎</td>
+<td>喜屋武梨花, 洞面秀一郎</td>
 </tr>
 <tr class="even">
 <td>マッドジャグラー (Mad Juggler)</td>
@@ -2177,14 +2177,14 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>火</td>
 <td>30</td>
 <td>1</td>
-<td>皇マキ, 八神玲名, 厚石茂人, 武藤論, 九里風子, Takanashi, Fox(世界選拔改), Maygar</td>
+<td>皇マキ, 八神玲名, 厚石茂人, 武藤論, 九里風子, 小鳥遊忍, Fox(世界選拔改), Maygar</td>
 </tr>
 <tr class="even">
 <td>バーニングサマー (Burning Summer)</td>
 <td>火</td>
 <td>30</td>
 <td>1</td>
-<td>隼総英聖, Gaura, Ward, Dorimu, Dande, Maagaru</td>
+<td>隼総英聖, 克烏拉(奧米迦協議隊), 沃德(奧米迦協議隊), 多利姆(奧米迦協議隊), Dande, Maagaru</td>
 </tr>
 <tr class="odd">
 <td>アグレッシブビート (Aggressive Beat)</td>
@@ -2290,7 +2290,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | **盤球技**                                  | **元素** | **TP** | **Level**   | **發動**                               |
 | ダッシュアクセル (Dash Accel *Dash Accelerator*) | 山      | 20     | 1           | 栗松鐵平, 西垣守                                          |
 | ブーメランフェイント (Boomerang Feint)             | 山      | 20     | 1           | 光良夜桜, 磯崎研磨                                         |
-| クレイモア (Claymore)                         | 山      | 30     | 1           | 狩屋正樹, 南澤篤志, 瀧總介, Alpha, Chiuri, Ejima, Kiya, Yuuki |
+| クレイモア (Claymore)                         | 山      | 30     | 1           | 狩屋正樹, 南澤篤志, 瀧總介, 阿爾法(奧米迦協議隊), Chiuri, Ejima, Kiya, Yuuki |
 | プリマドンナ (Prima Donna)                     | 山      | 30     | 1           | 御堂玲華 (女生隊)                                         |
 | シザース・ボム (Scissors Bomb)                  | 山      | 30     | 1           | 艾斯卡帕梅魯, 多拉黑丘塔, 伊卡史塔克斯                              |
 | アクロバットキープ (Acrobat Keep)                 | 山      | 30     | 2           | 倉間典人, 錦龍馬, 托普, 貴志部大河, 御門春馬                         |
@@ -2371,19 +2371,19 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | **阻截技**                                    | **元素** | **TP** | **Type** | **Level**    | **發動**                              |
 | コイルターン (Coil Turn)                         | 風      | 30     |          | 1            | 影野仁                                               |
 | ブレードアタック (Blade Attack)                    | 風      | 30     |          | 1            | Giorgio(吟遊詩人)                                     |
-| アイスグランド (Ice Ground *Land of Ice*)         | 風      | 30     |          | 1            | 吹雪士郎, Matoro, 木瀧常緒, 真狩銀次郎                         |
+| アイスグランド (Ice Ground *Land of Ice*)         | 風      | 30     |          | 1            | 吹雪士郎, 真都路珠香, 木瀧常緒, 真狩銀次郎                         |
 | キラーホエール (Killer Whale)                     | 風      | 30     |          | 1            | 濱野海士, 井出乗数, 湾田七雄人                                 |
 | サイクロン (Cyclone)                            | 風      | 30     |          | 1            | 萬丈一道 (帝國學園)                                       |
 | スパイラルドロー (Spiral Draw)                     | 風      | 30     |          | 1            | 松風天馬                                              |
 | デザートストーム (Desert Storm)                    | 風      | 40     |          | 1            | Bjorn(世界選拔改)                                      |
 | スピニングカット (Spinning Cut)                    | 風      | 50     | Block    | 1            | 栗松鐵平, 西垣守, 明天名智 (世宇子)                             |
 | ワンダートラップ (Wonder Trap)                     | 風      | 40     |          | 2            | 松風天馬                                              |
-| フローズンスティール (Frozen Steal)                  | 風      | 40     |          | 2            | 極川寒太郎, 倉掛可拉拉, 角路徹, 凍地愛, 凍地修兒, Araya               |
+| フローズンスティール (Frozen Steal)                  | 風      | 40     |          | 2            | 極川寒太郎, 倉掛可拉拉, 角路徹, 凍地愛, 凍地修兒, 荒谷紺子               |
 | ザ・タワー (The Tower)                          | 風      | 50     | Block    | 2            | 財前塔子                                              |
 | 真空魔 (Shinkuuma *Vac Attack*)               | 風      | 50     | Block    | 2            | 速水鶴正, 飛鷹征矢, Shura, Okiddo                         |
 | スノーエンジェル (Snow Angel)                      | 風      | 50     |          | 2            | 吹雪士郎, Winel(黑暗天使隊), 久遠冬花                          |
 | 旋風陣 (Senpuujin *Whirlwind Force*)          | 風      | 50     | Block    | 2            | 木暮夕彌, 稲葉大安, McCall, Manto, Shinjami               |
-| サルガッソー (Sargasso)                          | 風      | 40     |          | 2 \[合體(2人)\] | Einam, 龍崎皇兒, 井出乗数, Drill, Straw, Dorim            |
+| サルガッソー (Sargasso)                          | 風      | 40     |          | 2 \[合體(2人)\] | 艾那姆(奧米迦協議隊), 龍崎皇兒, 井出乗数, Drill, Straw, 多利姆(奧米迦協議隊)            |
 | ゴー・トゥ・ヘブン (Go to Heaven *Heaven's Ascent*) | 風      | 60     |          | 3            | Nenel(黑暗天使隊), Elfel(黑暗天使隊)                        |
 | エアーバレット (Air Bullet)                       | 風      | 60     | Block    | 3            | 風丸一郎太, 一乃七助, 菲魯恩, 黒裂真命, 浪川蓮助, 隼総英聖, Onizuka, 護巻徹郎 |
 | 真空魔 (Shinkuuma)                            | 風      | 20     | Block    | 3 (MIX)      | Zanark (極限融合與 曹操)                                 |
@@ -2452,7 +2452,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td></td>
 <td>1</td>
-<td>Michiko, Natsuyo, 久遠冬花 (女生隊)</td>
+<td>堀道子, 雷門夏未, 久遠冬花 (女生隊)</td>
 </tr>
 <tr class="odd">
 <td>コイルアッパー [ディフェンスコマンド03]<br />
@@ -2461,7 +2461,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td></td>
 <td>1</td>
-<td>Gaura, Ward, Medam, Neira</td>
+<td>克烏拉(奧米迦協議隊), 沃德(奧米迦協議隊), 梅達姆(奧米迦協議隊), 妮拉(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>ザ・ミスト (The Mist <em>Mystifying Mist</em>)</td>
@@ -2486,7 +2486,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>50</td>
 <td></td>
 <td>2</td>
-<td>San, Goburis, Meizu, Medam, Ward</td>
+<td>San, Goburis, Meizu, 梅達姆(奧米迦協議隊), 沃德(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
 <td>分身ディフェンス (Bushin Defence <em>Clone Defence</em>)</td>
@@ -2584,14 +2584,14 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | フレイムダンス (Flame Dance)                         | 火      | 40     |          | 1            | 一之瀨一哉, 音村樂也, Maron, Goushu (小巨人隊)                        |
 | スーパーしこふみ (Super Shikofumi *Super Sumo Stomp*) | 火      | 50     | Block    | 1            | 土方雷電                                                     |
 | イグナイトスティール (Ignite Steal)                     | 火      | 40     |          | 2            | 本場激, 薔薇園華                                                |
-| スクリュードライバー (Screwdriver)                      | 火      | 40     |          | 2            | Zanark, Gouzu, Yasha, Oogu (Zanark Domain)               |
+| スクリュードライバー (Screwdriver)                      | 火      | 40     |          | 2            | Zanark, Gouzu, Yasha, Oogu ((扎納克領域隊))               |
 | ローリングスライド (Rolling Slide)                     | 火      | 40     |          | 2            | Lagarto(世界選拔改)                                           |
 | ボルケイノカット (Volcano Cut)                        | 火      | 50     | Block    | 2            | 土門飛鳥, Skid (小巨人隊), 達伊戈普卡 (王牙)                            |
 | さばきのてっつい (Sabaki no Tettsui *Divine Stamp*)   | 火      | 50     | Block    | 2            | 阿保露光, 部灰炎, 經目須商 (世宇子), 伊豆野由宇 (新日本隊), 丹提迪亞普羅 (吟遊詩人)       |
 | シューティングスター (Shooting Star)                    | 火      | 30     | Block    | 2 \[合體(2人)\] | 少林寺步, Shinti (小巨人隊)                                      |
 | ビッグシザーズ (Big Scissors)                        | 火      | 40     |          | 2 \[合體(2人)\] | 車田剛一, 井出乗数, Raven                                        |
 | 一夜城 (Ichiyajou)                               | 火      | 50     | Block    | 2 \[合體(3人)\] | 太助                                                       |
-| クレイジーサンライト (Crazy Sunlight)                   | 火      | 50     |          | 3            | 雨宮太陽, Yasha (Zanark Domain), Saki, Ejima, Onizuka (Zero) |
+| クレイジーサンライト (Crazy Sunlight)                   | 火      | 50     |          | 3            | 雨宮太陽, Yasha ((扎納克領域隊)), Saki, Ejima, Onizuka (Zero) |
 | アスタリスクロック (Asterisk Rock)                     | 火      | 60     | Block    | 3            | Asta, Dande (Destructchers)                              |
 | もちもち黄粉餅 (Mochi Mochi Kinako Mochi)            | 火      | 60     | Block    | 3            | 菜花黄名子                                                    |
 | ラ・フラム (La Flamme)                             | 火      | 20     | Block    | 3 (MIX)      | 霧野蘭丸 (Mixi Max Form)                                     |
@@ -2727,7 +2727,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td>Catch</td>
 <td>2</td>
-<td>Zanou, Gaura</td>
+<td>紮諾(奧米迦協議隊), 克烏拉(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>ジ・エンド (The End/ 死亡終結)</td>
@@ -2768,7 +2768,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>50</td>
 <td>Catch</td>
 <td>3</td>
-<td>Zanou</td>
+<td>紮諾(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
 <td>ディスティニークラウド (Destiny Cloud)</td>
@@ -2841,12 +2841,12 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | コロッセオガード (Colosseo Guard *Colosseum Guard*)          | 山      | 30     | Punch 1  | 2            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
 | ぶっとびパンチ (Buttobi Punch)                              | 山      | 30     | Punch 1  | 2            | 西園信助, Matchos (天馬隊)                         |
 | マジン・ザ・ハンド (Majin The Hand)                           | 山      | 30     | Catch    | 2            | 圓堂守, 多摩野五郎                                  |
-| エクセレントブレスト (Excellent Breast)                        | 山      | 40     | Catch    | 2            | Matchos (天馬隊), Medam, Lotus (Destructchers) |
+| エクセレントブレスト (Excellent Breast)                        | 山      | 40     | Catch    | 2            | Matchos (天馬隊), 梅達姆(奧米迦協議隊), Lotus (Destructchers) |
 | いかりのてっつい (Ikari no Tettsui *Hammer of Fury*)         | 山      | 40     | Catch    | 2            | 圓堂守                                         |
 | フェンス・オブ・ガイア (Fence of Gaia)                          | 山      | 40     | Punch 1  | 2            | 三國太一, 兵頭司 (革命選拔), Blasi (吟遊詩人)              |
 | コロッセオガード改 (Colosseo Guard Kai *Colosseum Guard Kai*) | 山      | 40     | Punch 1  | 3            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
 | サーペントファング (Serpent Fang)                             | 山      | 40     | Catch    | 3            | Hebino (Zero), Raven                        |
-| エクセレントブレスト改 (Excellent Breast Kai)                   | 山      | 50     | Catch    | 3            | Matchos (天馬隊), Medam, Lotus (Destructchers) |
+| エクセレントブレスト改 (Excellent Breast Kai)                   | 山      | 50     | Catch    | 3            | Matchos (天馬隊), 梅達姆(奧米迦協議隊), Lotus (Destructchers) |
 | 真 マジン・ザ・ハンド (Shin Majin The Hand)                    | 山      | 50     | Catch    | 3            | 圓堂守, 多摩野五郎                                  |
 | ギガントウォール (Gigant Wall)                               | 山      | 50     | Catch    | 3            | 步星吞一 (世宇子), Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)    |
 | ゴッドハンドW (God Hand W)                                 | 山      | 50     | Catch    | 3            | 松風天馬                                        |

@@ -379,7 +379,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <td>ラスト・デスゾーン<br />
 (Last Death Zone)<br />
 </td>
-<td>鬼道有人, 佐久間次郎 and 不動明王 (Legend Japan)<br />
+<td>鬼道有人, 佐久間次郎 and 不動明王 (日本傳奇隊)<br />
 絆100%</td>
 <td>鬼道有人, 佐久間次郎 or 不動明王</td>
 <td>選2人) 佐久間次郎, 不動明王, 鬼道有人, 基山廣 and 染岡龍吾</td>
@@ -399,20 +399,20 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <tr class="odd">
 <td>オメガアタック<br />
 (Omega Attack)</td>
-<td>Alpha, Beta and Gamma<br />
+<td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) and 伽瑪(奧米迦協議隊)<br />
 絆100%</td>
-<td>Alpha, Beta or Gamma</td>
-<td>選2人) Alpha, Beta or Gamma</td>
+<td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) or 伽瑪(奧米迦協議隊)</td>
+<td>選2人) 阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) or 伽瑪(奧米迦協議隊)</td>
 <td>無</td>
 <td>40</td>
 </tr>
 <tr class="even">
 <td>オメガアタック アームド<br />
 (Omega Attack Armed)</td>
-<td>Alpha, Beta and Gamma<br />
+<td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) and 伽瑪(奧米迦協議隊)<br />
 絆100%, everyone with 覺醒3</td>
-<td>Alpha, Beta or Gamma</td>
-<td>選2人) Alpha, Beta or Gamma</td>
+<td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) or 伽瑪(奧米迦協議隊)</td>
+<td>選2人) 阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) or 伽瑪(奧米迦協議隊)</td>
 <td>無</td>
 <td>50</td>
 </tr>
@@ -439,9 +439,9 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <tr class="odd">
 <td>最強イレブン波動<br />
 (Saikyou Eleven Hadou)</td>
-<td>松風天馬 (新生雷門) must have 50% 絆with 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 托普, 菜花黄名子, 雨宮太陽, 錦龍馬 and Zanark. Everyone must have his/her mixi-max unlocked.</td>
+<td>松風天馬 (新生雷門) must have 50% 絆with 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 托普, 菜花黄名子, 雨宮太陽, 錦龍馬 and 扎納克. Everyone must have his/her mixi-max unlocked.</td>
 <td>松風天馬 (與 亞瑟王 極限融合)</td>
-<td>選2人) 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 托普, 菜花黄名子, 雨宮太陽, 錦龍馬 and Zanark</td>
+<td>選2人) 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 托普, 菜花黄名子, 雨宮太陽, 錦龍馬 and 扎納克</td>
 <td>風</td>
 <td>20</td>
 </tr>
@@ -704,7 +704,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <tr class="even">
 <td>ゴッドウィンド<br />
 (God Wind)</td>
-<td>松風天馬 (天馬隊) and 豪炎寺修也 (Legend Japan)<br />
+<td>松風天馬 (天馬隊) and 豪炎寺修也 (日本傳奇隊)<br />
 絆50%</td>
 <td>松風天馬</td>
 <td>風</td>
@@ -713,7 +713,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <tr class="odd">
 <td>ゴッドウィンドアームド<br />
 (God Wind Armed)</td>
-<td>松風天馬 (天馬隊) and 豪炎寺修也 (Legend Japan)<br />
+<td>松風天馬 (天馬隊) and 豪炎寺修也 (日本傳奇隊)<br />
 絆50% and 松風天馬 (新生雷門) 覺醒3</td>
 <td>松風天馬</td>
 <td>風</td>
@@ -764,7 +764,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <td>合気道<br />
 (Aikidou)</td>
 <td>不需解鎖</td>
-<td>Mai (女生隊)</td>
+<td>館野舞 (女生隊)</td>
 <td>財前塔子, 若無則任一個一般球員</td>
 <td>風</td>
 <td>30</td>
@@ -860,7 +860,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <tr class="even">
 <td style="text-align: center;">風穴ドライブ<br />
 (Kazaana Drive)</td>
-<td style="text-align: center;">松風天馬 (天馬隊) and 風丸一郎太 (Legend Japan)<br />
+<td style="text-align: center;">松風天馬 (天馬隊) and 風丸一郎太 (日本傳奇隊)<br />
 絆50%</td>
 <td style="text-align: center;">松風天馬</td>
 <td style="text-align: center;">風</td>
@@ -919,7 +919,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <tr class="even">
 <td>ディープジャングル [Block]<br />
 (Deep Jungle)</td>
-<td>風丸一郎太, 佐久間次郎 and 壁山塀吾郎 (Legend Japan)<br />
+<td>風丸一郎太, 佐久間次郎 and 壁山塀吾郎 (日本傳奇隊)<br />
 絆50%</td>
 <td>風丸一郎太, 佐久間次郎, 壁山塀吾郎, 綱海條介 or 托普</td>
 <td>選2人) 風丸一郎太, 佐久間次郎, 壁山塀吾郎, 綱海條介 and 托普</td>
@@ -968,8 +968,8 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <td>サルガッソー<br />
 (Sargasso)</td>
 <td>不需解鎖</td>
-<td>龍崎皇兒, 井出乗数 (第五院), Straw, Drill (天馬隊), Einam or Dorim (Protocol Omega)</td>
-<td>龍崎皇兒, 井出乗数 (第五院), Straw, Drill (天馬隊), Einam, Dorim, Kuosu (Protocol Omega), 菲魯恩 or Kimoro (天馬隊) 之一, 若無則任一個一般球員</td>
+<td>龍崎皇兒, 井出乗数 (第五院), Straw, Drill (天馬隊), 艾那姆(奧米迦協議隊) or 多利姆(奧米迦協議隊) (奧米迦協議隊)</td>
+<td>龍崎皇兒, 井出乗数 (第五院), Straw, Drill (天馬隊), 艾那姆(奧米迦協議隊), 多利姆(奧米迦協議隊), 庫歐斯(奧米迦協議隊), 菲魯恩 or Kimoro (天馬隊) 之一, 若無則任一個一般球員</td>
 <td>風</td>
 <td>40</td>
 </tr>
@@ -1088,7 +1088,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <tr class="odd">
 <td style="text-align: center;">ゴッドハンドW<br />
 (God Hand W)</td>
-<td style="text-align: center;">松風天馬 (天馬隊) and 圓堂守 (Legend Japan)<br />
+<td style="text-align: center;">松風天馬 (天馬隊) and 圓堂守 (日本傳奇隊)<br />
 絆50%</td>
 <td style="text-align: center;">松風天馬</td>
 <td style="text-align: center;">山</td>
@@ -1143,8 +1143,8 @@ or Mixi-Max, read the sections at the bottom of this guide.
 **牙山道三 (Zero)**: 在新生雷門篇的訓練中戰勝他  
 **菜花黄名子 (新生雷門)**: 在新生雷門篇的訓練中戰勝她  
 **托普**: 在新生雷門篇的訓練中戰勝他  
-**雷伊路克**: 選入 Alpha, Beta and Gamma  
-**薩魯艾凡**: 選入 菲魯恩, 雨宮太陽, 菜花黄名子, 托普 and Zanark  
+**雷伊路克**: 選入 阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) and 伽瑪(奧米迦協議隊)  
+**薩魯艾凡**: 選入 菲魯恩, 雨宮太陽, 菜花黄名子, 托普 and 扎納克  
 **杉森威/Feldt (Brainwashing)**: 選入他 (暗黑帝王隊)的版本  
 **西垣守/Night (Kirkwood: Kidokawa Seishuu 木戸川清修)**: 選入他 (暗黑帝王隊)的版本  
 **闇野カゲト (雷門)**: 選入他 (暗黑帝王隊)的版本  
@@ -1173,17 +1173,17 @@ or Mixi-Max, read the sections at the bottom of this guide.
 
 **松風天馬 + 修**: 修 (Zero) and 松風天馬 (天馬隊) 絆50%  
 **菲魯恩 + 霸王龍Tyrano**: 戰勝 天馬隊  
-**神童拓人 + 織田信長**: 戰勝 Protocol Omega  
-**霧野蘭丸 + 聖女貞德**: 戰勝 Protocol Omega  
-**西園信助 + 劉玄徳**: 戰勝 Zanark Domain  
-**錦龍馬 + 坂本龍馬**: 戰勝 Zanark Domain  
-**劍城京介 + 沖田總司**: 戰勝 Zanark Domain  
-**雨宮太陽 + 諸葛孔明**: 戰勝 Zanark Domain  
-**Zanark + 曹操**: 戰勝 Zanark Domain  
-**菜花黄名子 + 天王巨龍**: 覺醒3 and 戰勝 Zanark Domain  
-**松風天馬 + 亞瑟王**: 覺醒3 and 戰勝 Zanark Domain  
-**Zanark + 巨大颱風Clara Jane**: 覺醒3  
-**菲魯恩 + 霸王龍Big**: 覺醒3 and 戰勝 Zanark Domain  
+**神童拓人 + 織田信長**: 戰勝 (奧米迦協議隊)  
+**霧野蘭丸 + 聖女貞德**: 戰勝 (奧米迦協議隊)  
+**西園信助 + 劉玄徳**: 戰勝 (扎納克領域隊)  
+**錦龍馬 + 坂本龍馬**: 戰勝 (扎納克領域隊)  
+**劍城京介 + 沖田總司**: 戰勝 (扎納克領域隊)  
+**雨宮太陽 + 諸葛孔明**: 戰勝 (扎納克領域隊)  
+**扎納克 + 曹操**: 戰勝 (扎納克領域隊)  
+**菜花黄名子 + 天王巨龍**: 覺醒3 and 戰勝 (扎納克領域隊)  
+**松風天馬 + 亞瑟王**: 覺醒3 and 戰勝 (扎納克領域隊)  
+**扎納克 + 巨大颱風克萊拉珍Clara Jane**: 覺醒3  
+**菲魯恩 + 霸王龍Big**: 覺醒3 and 戰勝 (扎納克領域隊)  
 **托普 + 風神翼龍老爸**: 覺醒3  
 **劍城優一 + 劍城京介**: 兩者 絆50%  
   
