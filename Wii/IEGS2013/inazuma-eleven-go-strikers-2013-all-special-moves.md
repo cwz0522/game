@@ -19,7 +19,9 @@ This is the complete list of special moves in Inazuma Eleven Go Strikers
 2013, sorted by element, level and power.  
 If you want to know how to unlock coop moves you can use
 [<span class="underline">this
-guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).  
+guide in html</span>](inazuma-eleven-go-strikers-2013-guide.htm)/
+[<span class="underline">this
+guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).  
   
   
 
@@ -45,7 +47,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>TP</strong></td>
 <td><strong>Type</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>スピニングシュート (Spinning Shot)</td>
@@ -142,7 +144,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td>40</td>
 <td>Long</td>
 <td>2</td>
-<td>影山輝, 佐久間次郎, 龍崎皇児, 御門春馬</td>
+<td>影山輝, 佐久間次郎, 龍崎皇兒, 御門春馬</td>
 </tr>
 <tr class="even">
 <td>ザ・タイフーン (The Typhoon)</td>
@@ -518,7 +520,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>TP</strong></td>
 <td><strong>Type</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>ローリングキック (Rolling Kick)</td>
@@ -946,7 +948,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>TP</strong></td>
 <td><strong>Type</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>グレネードショット (Grenade Shot)</td>
@@ -1365,7 +1367,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>TP</strong></td>
 <td><strong>Type</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>クルクルヘッド (Kurukuru Head <em>Gyro Head</em>)</td>
@@ -1728,7 +1730,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>TP</strong></td>
 <td><strong>Type</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>ダブルショット [シュートコマンド07]<br />
@@ -1846,7 +1848,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>元素</strong></td>
 <td><strong>TP</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>たまのりピエロ (Tamanori Pierrot <em>Rodeo Clown</em>)</td>
@@ -2004,7 +2006,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>元素</strong></td>
 <td><strong>TP</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>イリュージョンボール (Illusion Ball)</td>
@@ -2133,7 +2135,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>元素</strong></td>
 <td><strong>TP</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>ひとりワンツー (Hitori One-Two <em>Double Touch</em>)</td>
@@ -2259,7 +2261,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td>火</td>
 <td>40</td>
 <td>3 [合體(2人)]</td>
-<td>青山俊介, 一乃七助, 龍崎皇児, 御門春馬, 貴志部大河, 瀧總介, 湾田七雄人, 修, Kai</td>
+<td>青山俊介, 一乃七助, 龍崎皇兒, 御門春馬, 貴志部大河, 瀧總介, 湾田七雄人, 修, Kai</td>
 </tr>
 <tr class="even">
 <td>マシンガンビート (Machine Gun Beat)</td>
@@ -2285,7 +2287,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 
 |                                          |        |        |             |                                                    |
 | ---------------------------------------- | ------ | ------ | ----------- | -------------------------------------------------- |
-| **盤球技**                                  | **元素** | **TP** | **Level**   | **Who can shoot it**                               |
+| **盤球技**                                  | **元素** | **TP** | **Level**   | **發動**                               |
 | ダッシュアクセル (Dash Accel *Dash Accelerator*) | 山      | 20     | 1           | 栗松鐵平, 西垣守                                          |
 | ブーメランフェイント (Boomerang Feint)             | 山      | 20     | 1           | 光良夜桜, 磯崎研磨                                         |
 | クレイモア (Claymore)                         | 山      | 30     | 1           | 狩屋正樹, 南澤篤志, 瀧總介, Alpha, Chiuri, Ejima, Kiya, Yuuki |
@@ -2317,7 +2319,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>元素</strong></td>
 <td><strong>TP</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>デコイ･リリース (Decoy Release)</td>
@@ -2366,7 +2368,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 
 |                                            |        |        |          |              |                                                   |
 | ------------------------------------------ | ------ | ------ | -------- | ------------ | ------------------------------------------------- |
-| **阻截技**                                    | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**                              |
+| **阻截技**                                    | **元素** | **TP** | **Type** | **Level**    | **發動**                              |
 | コイルターン (Coil Turn)                         | 風      | 30     |          | 1            | 影野仁                                               |
 | ブレードアタック (Blade Attack)                    | 風      | 30     |          | 1            | Giorgio(吟遊詩人)                                     |
 | アイスグランド (Ice Ground *Land of Ice*)         | 風      | 30     |          | 1            | 吹雪士郎, Matoro, 木瀧常緒, 真狩銀次郎                         |
@@ -2381,13 +2383,13 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 | 真空魔 (Shinkuuma *Vac Attack*)               | 風      | 50     | Block    | 2            | 速水鶴正, 飛鷹征矢, Shura, Okiddo                         |
 | スノーエンジェル (Snow Angel)                      | 風      | 50     |          | 2            | 吹雪士郎, Winel(黑暗天使隊), 久遠冬花                          |
 | 旋風陣 (Senpuujin *Whirlwind Force*)          | 風      | 50     | Block    | 2            | 木暮夕彌, 稲葉大安, McCall, Manto, Shinjami               |
-| サルガッソー (Sargasso)                          | 風      | 40     |          | 2 \[合體(2人)\] | Einam, 龍崎皇児, 井出乗数, Drill, Straw, Dorim            |
+| サルガッソー (Sargasso)                          | 風      | 40     |          | 2 \[合體(2人)\] | Einam, 龍崎皇兒, 井出乗数, Drill, Straw, Dorim            |
 | ゴー・トゥ・ヘブン (Go to Heaven *Heaven's Ascent*) | 風      | 60     |          | 3            | Nenel(黑暗天使隊), Elfel(黑暗天使隊)                        |
 | エアーバレット (Air Bullet)                       | 風      | 60     | Block    | 3            | 風丸一郎太, 一乃七助, 菲魯恩, 黒裂真命, 浪川蓮助, 隼総英聖, Onizuka, 護巻徹郎 |
 | 真空魔 (Shinkuuma)                            | 風      | 20     | Block    | 3 (MIX)      | Zanark (極限融合與 曹操)                                 |
 | 古代の翼 (Kodai no Tsubasa)                    | 風      | 20     |          | 3 (MIX)      | 托普 (Mixi Max Form)                                |
 | パーフェクト・タワー (Perfect Tower)                 | 風      | 40     |          | 3 \[合體(3人)\] | 財前塔子                                              |
-| ドラゴンストーム (Dragon Storm)                    | 風      | 70     |          | 化身 (Keshin)  | 龍崎皇児, 真狩銀次郎                                       |
+| ドラゴンストーム (Dragon Storm)                    | 風      | 70     |          | 化身 (Keshin)  | 龍崎皇兒, 真狩銀次郎                                       |
 | ハンティングランス (Hunting Lance)                  | 風      | 70     |          | 化身 (Keshin)  | 托普                                                |
 
   
@@ -2410,7 +2412,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>TP</strong></td>
 <td><strong>Type</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>キラースライド (Killer Slide)</td>
@@ -2575,7 +2577,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 
 |                                               |        |        |          |              |                                                          |
 | --------------------------------------------- | ------ | ------ | -------- | ------------ | -------------------------------------------------------- |
-| **阻截技**                                       | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**                                     |
+| **阻截技**                                       | **元素** | **TP** | **Type** | **Level**    | **發動**                                     |
 | フォトンフラッシュ (Photon Flash *Photon Crash*)       | 火      | 30     |          | 1            | 在手實弓 (世宇子), Angelo (吟遊詩人)                                |
 | ダッシュトレイン (Dash Train)                         | 火      | 30     |          | 1            | 車田剛一                                                     |
 | フェイクボンバー (Fake Bomber/山寨炸彈)                   | 火      | 30     |          | 1            | 宍戶佐吉, 龜崎河童, Kito (小巨人隊), 虎濱甲子 (女生隊)                      |
@@ -2601,7 +2603,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 
 |                                        |        |        |          |              |                                                                               |
 | -------------------------------------- | ------ | ------ | -------- | ------------ | ----------------------------------------------------------------------------- |
-| **阻截技**                                | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**                                                          |
+| **阻截技**                                | **元素** | **TP** | **Type** | **Level**    | **發動**                                                          |
 | アースクエイク (Earthquake)                   | 山      | 40     |          | 1            | 大野傳助 (帝國學園), 牧谷寛, 石平半蔵 (新日本隊), Blasi (吟遊詩人)                                   |
 | グラビテイション (Gravitation)                 | 山      | 50     | Block    | 1            | 蟹目出郎, 紀伊布美子, 近畿希望, Desuta(黑暗天使隊), 伊卡史塔克斯, 三島三太夫 (王牙)                          |
 | パワーチャージ (Power Charge)                 | 山      | 40     |          | 1            | 荒須亂 (世宇子), Ottorino(吟遊詩人), 達伊戈普卡, 傑尼斯金基斯, 多拉黑丘塔 (王牙)                          |
@@ -2626,8 +2628,8 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 
 |                          |        |        |          |           |                      |
 | ------------------------ | ------ | ------ | -------- | --------- | -------------------- |
-| **阻截技**                  | **元素** | **TP** | **Type** | **Level** | **Who can shoot it** |
-| バニシングカット (Vanishing Cut) | 無      | 50     |          | 3         | 護巻徹郎, 龍崎皇児           |
+| **阻截技**                  | **元素** | **TP** | **Type** | **Level** | **發動** |
+| バニシングカット (Vanishing Cut) | 無      | 50     |          | 3         | 護巻徹郎, 龍崎皇兒           |
 
   
 
@@ -2644,7 +2646,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 
 |                                             |        |        |          |              |                             |
 | ------------------------------------------- | ------ | ------ | -------- | ------------ | --------------------------- |
-| **守門技**                                     | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**        |
+| **守門技**                                     | **元素** | **TP** | **Type** | **Level**    | **發動**        |
 | はなふぶき (Hana Fubuki *Flower Power*)          | 風      | 20     | Catch    | 1            | 土洲戀 (女生隊)                   |
 | クリスタルバリア (Crystal Barrier)                  | 風      | 30     | Catch    | 2            | Hebino (Zero), Blasi (吟遊詩人) |
 | つなみウォール (Tsunami Wall)                      | 風      | 30     | Punch 2  | 2            | 步星吞一 (世宇子)                  |
@@ -2676,7 +2678,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 <td><strong>TP</strong></td>
 <td><strong>Type</strong></td>
 <td><strong>Level</strong></td>
-<td><strong>Who can shoot it</strong></td>
+<td><strong>發動</strong></td>
 </tr>
 <tr class="even">
 <td>キラーブレード (Killer Blade)</td>
@@ -2809,7 +2811,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 
 |                                            |        |        |          |             |                                                        |
 | ------------------------------------------ | ------ | ------ | -------- | ----------- | ------------------------------------------------------ |
-| **守門技**                                    | **元素** | **TP** | **Type** | **Level**   | **Who can shoot it**                                   |
+| **守門技**                                    | **元素** | **TP** | **Type** | **Level**   | **發動**                                   |
 | バーニングキャッチ (Burning Catch)                  | 火      | 30     | Catch    | 1           | 三國太一, 西園信助, 空野葵                                        |
 | パワースパイク (Power Spike)                      | 火      | 30     | Catch    | 1           | Matchos (天馬隊), 兵頭司 (革命選拔), Viola (Destructchers), 雅野麗一 |
 | パワーシールド (Power Shield)                     | 火      | 30     | Punch 1  | 1           | 源田幸次郎/源田幸次郎, Viola (Destructchers)                     |
@@ -2834,7 +2836,7 @@ guide</span>](inazuma-eleven-go-strikers-2013-guide.htm).
 
 |                                                      |        |        |          |              |                                             |
 | ---------------------------------------------------- | ------ | ------ | -------- | ------------ | ------------------------------------------- |
-| **守門技**                                              | **元素** | **TP** | **Type** | **Level**    | **Who can shoot it**                        |
+| **守門技**                                              | **元素** | **TP** | **Type** | **Level**    | **發動**                        |
 | ゴッドハンド (God Hand)                                    | 山      | 20     | Catch    | 1            | 圓堂守, 木野秋, 西園信助, 多摩野五郎, Rococo               |
 | コロッセオガード (Colosseo Guard *Colosseum Guard*)          | 山      | 30     | Punch 1  | 2            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
 | ぶっとびパンチ (Buttobi Punch)                              | 山      | 30     | Punch 1  | 2            | 西園信助, Matchos (天馬隊)                         |
