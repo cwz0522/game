@@ -157,14 +157,12 @@ Alessandro Rossa (アレサンドロ・ロッサ)      			       吟遊詩人: M
 Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: MF 16
 
 /Hiroto/基山廣/        Gran グラン
-/Hakuryuu/白龍/
 /Fei/菲魯恩/
 /Saru/薩魯艾凡/
 /Seto Midori/瀨戶水鳥/
 /Midori/瀨戶水鳥/
 /Yamana Akane/山菜茜/
 /Akane/山菜茜/
-/Kibayama Douzan/牙山道三/
 /Rei Rukh/雷伊路克/
 /Taiyou/雨宮太陽/
 /Shokatsu Koumei/諸葛孔明/
@@ -175,7 +173,6 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 /Oda Nobunaga/織田信長/
 /Sousou/曹操/
 /King Arthur/亞瑟王/
-/Shuu/修/
 /Master Dragon/天王巨龍/
 /Torb/托普/
 /Tochan/風神翼龍老爸/
@@ -227,6 +224,20 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 /Einam/艾那姆(奧米迦協議隊)/ (エイナム)
 
 
+			零隊
+/Hebino/蛇野巻人/
+/Saki/佐喜幸夫/
+/Ejima/江島一八/
+/Onizuka/鬼塚平太/
+/Kiya/木屋功治/
+/Rinne/林音真琴/
+/Seidou/青銅弾/
+/Yuuki/悠木譲/
+/Kai/海/ 		(カイ)
+/Hakuryuu/白龍/
+/Shuu/修/
+
+/Kibayama Douzan/牙山道三/
 
 
 			女生隊
@@ -307,6 +318,7 @@ Dylan Keith		ディラン・キース
 /Zanark Domain/(扎納克領域隊)/
 /(Legend Japan)/(日本傳奇隊)/
 /(Fifth Sectors)/(第五院)/     (フィフスセクターズ)
+/(Zero)/(零隊)/
 
 https://inazuma-eleven.fandom.com/wiki/Fifth_Sectors
 
@@ -474,8 +486,7 @@ todo:
 	リトルギガント Little Gigant 小巨人 	(已譯，未選)
 	革命選拔				(已譯，未選)
 	フィフスセクターズ (第五院)		(已譯，未選)
-
-	Zero
+	Zero                                    (已譯，未選)
 	Tenmas
 	Protocol Omega				(已譯，未選)
 

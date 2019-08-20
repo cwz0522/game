@@ -480,7 +480,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <tr class="odd">
 <td>ソードエクスカリバー<br />
 (Sword Excalibur)</td>
-<td>白龍 and 修 (Zero)<br />
+<td>白龍 and 修 (零隊)<br />
 絆100%</td>
 <td>白龍</td>
 <td>修</td>
@@ -664,7 +664,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <tr class="odd">
 <td>ゼロマグナム<br />
 (Zero Magnum)</td>
-<td>白龍 and 修 (Zero)<br />
+<td>白龍 and 修 (零隊)<br />
 絆75%</td>
 <td>白龍 or 修</td>
 <td>修 or 白龍</td>
@@ -782,8 +782,8 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <td>ブリタニアクロス<br />
 (Britannia Cross)</td>
 <td>不需解鎖</td>
-<td>青山俊介, 一乃七助 (新生雷門), 修, Kai (Zero), 龍崎皇兒, 湾田七雄人, 御門春馬 (第五院), 貴志部大河 or 瀧總介 (革命選拔)</td>
-<td>青山俊介, 一乃七助 (新生雷門), 修, Kai (Zero), 龍崎皇兒, 湾田七雄人, 御門春馬, 浪川蓮助 (第五院), 貴志部大河 or 瀧總介 (革命選拔) 之一, 若無則任一個一般球員</td>
+<td>青山俊介, 一乃七助 (新生雷門), 修, 海 (零隊), 龍崎皇兒, 湾田七雄人, 御門春馬 (第五院), 貴志部大河 or 瀧總介 (革命選拔)</td>
+<td>青山俊介, 一乃七助 (新生雷門), 修, 海 (零隊), 龍崎皇兒, 湾田七雄人, 御門春馬, 浪川蓮助 (第五院), 貴志部大河 or 瀧總介 (革命選拔) 之一, 若無則任一個一般球員</td>
 <td>火</td>
 <td>40</td>
 </tr>
@@ -1139,8 +1139,8 @@ or Mixi-Max, read the sections at the bottom of this guide.
 **栗松鐵平 (閃電日本隊)**: 在閃電日本隊篇的訓練中戰勝他  
 **木暮夕彌 (成人)**: 在新生雷門篇的訓練中戰勝他  
 **太助**: 在新生雷門篇的訓練中戰勝他  
-**五條勝 (Zero)**: 在新生雷門篇的訓練中戰勝他  
-**牙山道三 (Zero)**: 在新生雷門篇的訓練中戰勝他  
+**五條勝 (零隊)**: 在新生雷門篇的訓練中戰勝他  
+**牙山道三 (零隊)**: 在新生雷門篇的訓練中戰勝他  
 **菜花黄名子 (新生雷門)**: 在新生雷門篇的訓練中戰勝她  
 **托普**: 在新生雷門篇的訓練中戰勝他  
 **雷伊路克**: 選入 阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) and 伽瑪(奧米迦協議隊)  
@@ -1171,7 +1171,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 
 <div class="contenuto">
 
-**松風天馬 + 修**: 修 (Zero) and 松風天馬 (天馬隊) 絆50%  
+**松風天馬 + 修**: 修 (零隊) and 松風天馬 (天馬隊) 絆50%  
 **菲魯恩 + 霸王龍Tyrano**: 戰勝 天馬隊  
 **神童拓人 + 織田信長**: 戰勝 (奧米迦協議隊)  
 **霧野蘭丸 + 聖女貞德**: 戰勝 (奧米迦協議隊)  
