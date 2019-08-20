@@ -500,6 +500,9 @@ todo:
 	Tenmas                                  (已譯，未選)
 	Protocol Omega				(已譯，未選)
 
+* 突進取消技與時機
+* 控制方式
+
 https://inazuma-eleven.fandom.com/wiki/Inazuma_Eleven_GO_Strikers_2013
 https://ja.wikipedia.org/wiki/イナズマイレブンGOの登場人物
 https://ja.wikipedia.org/wiki/イナズマイレブン_ストライカーズ
@@ -512,3 +515,5 @@ https://translate.google.com/translate?hl=&sl=ja&tl=zh-TW&u=https://www49.atwiki
 
 This Doc source:
 	http://watashiwa7.altervista.org/ie/index.html
+
+
