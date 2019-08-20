@@ -786,7 +786,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td></td>
 <td>合體(2人)</td>
-<td>Yumu, Goushu (小巨人隊)</td>
+<td>Yumu(小巨人隊), Goushu (小巨人隊)</td>
 </tr>
 <tr class="odd">
 <td>ジョーカーレインズ (Joker Rains)</td>
@@ -1069,7 +1069,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>50</td>
 <td></td>
 <td>3</td>
-<td>Rococo</td>
+<td>Rococo(小巨人隊)</td>
 </tr>
 <tr class="odd">
 <td>ガンショット (Gun Shot)</td>
@@ -1085,7 +1085,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>50</td>
 <td></td>
 <td>3</td>
-<td>Drago</td>
+<td>Drago(小巨人隊)</td>
 </tr>
 <tr class="odd">
 <td>デビルバースト (Devil Burst)</td>
@@ -1551,7 +1551,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>20</td>
 <td></td>
 <td>合體(2人)</td>
-<td>目金欠流, 染岡龍吾, 豪炎寺修也, 吹雪士郎, 一之瀨一哉, 浦部莉香, Maygar, Goushu, Drago</td>
+<td>目金欠流, 染岡龍吾, 豪炎寺修也, 吹雪士郎, 一之瀨一哉, 浦部莉香, Maygar(小巨人隊), Goushu(小巨人隊), Drago(小巨人隊)</td>
 </tr>
 <tr class="odd">
 <td>バタフライドリーム (Butterfly Dream <em>Butterfly Trance</em>)</td>
@@ -1905,7 +1905,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>風</td>
 <td>30</td>
 <td>2</td>
-<td>Ryuu, 速水鶴正, Engiru, Okiddo</td>
+<td>Ryuu(小巨人隊), 速水鶴正, Engiru, Okiddo</td>
 </tr>
 <tr class="even">
 <td>ホワイトブレード (White Blade)</td>
@@ -1919,21 +1919,21 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>風</td>
 <td>40</td>
 <td>2</td>
-<td>明天名智, 出右手豊, 班特卡利亞諾(吟遊詩人), Shinti</td>
+<td>明天名智, 出右手豊, 班特卡利亞諾(吟遊詩人), Shinti(小巨人隊)</td>
 </tr>
 <tr class="even">
 <td>ウォーターベール (Water Veil)</td>
 <td>風</td>
 <td>40</td>
 <td>2</td>
-<td>角路徹, 倉掛可拉拉, 栗尾根由紀, Gianluca(吟遊詩人), Skid</td>
+<td>角路徹, 倉掛可拉拉, 栗尾根由紀, Gianluca(吟遊詩人), Skid(小巨人隊)</td>
 </tr>
 <tr class="odd">
 <td>風神の舞 (Fuujin no Mai)</td>
 <td>風</td>
 <td>40</td>
 <td>2</td>
-<td>風丸一郎太, 速水鶴正, 一乃七助, 太助, Ryuu, 浪川蓮助, 護巻徹郎</td>
+<td>風丸一郎太, 速水鶴正, 一乃七助, 太助, Ryuu(小巨人隊), 浪川蓮助, 護巻徹郎</td>
 </tr>
 <tr class="even">
 <td>ヘブンズタイム (Heaven's Time)</td>
@@ -1961,7 +1961,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>風</td>
 <td>40</td>
 <td>3 [合體(2人)]</td>
-<td>Maxi, Drago, Windy (小巨人隊)</td>
+<td>Maxi(小巨人隊), Drago(小巨人隊), Windy (小巨人隊)</td>
 </tr>
 <tr class="even">
 <td>オーバードライブ [オフェンスコマンドK01]<br />
@@ -2177,7 +2177,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>火</td>
 <td>30</td>
 <td>1</td>
-<td>皇マキ, 八神玲名, 厚石茂人, 武藤論, 九里風子, 小鳥遊忍, Fox(世界選拔改), Maygar</td>
+<td>皇マキ, 八神玲名, 厚石茂人, 武藤論, 九里風子, 小鳥遊忍, Fox(世界選拔改), Maygar(小巨人隊)</td>
 </tr>
 <tr class="even">
 <td>バーニングサマー (Burning Summer)</td>
@@ -2205,7 +2205,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>火</td>
 <td>40</td>
 <td>2</td>
-<td>雷傑/綠川龍二, 紀伊布美子, Shinti</td>
+<td>雷傑/綠川龍二, 紀伊布美子, Shinti(小巨人隊)</td>
 </tr>
 <tr class="even">
 <td>スパークエッジドリブル (Spark Edge Dribble)</td>
@@ -2382,7 +2382,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | ザ・タワー (The Tower)                          | 風      | 50     | Block    | 2            | 財前塔子                                              |
 | 真空魔 (Shinkuuma *Vac Attack*)               | 風      | 50     | Block    | 2            | 速水鶴正, 飛鷹征矢, Shura, Okiddo                         |
 | スノーエンジェル (Snow Angel)                      | 風      | 50     |          | 2            | 吹雪士郎, Winel(黑暗天使隊), 久遠冬花                          |
-| 旋風陣 (Senpuujin *Whirlwind Force*)          | 風      | 50     | Block    | 2            | 木暮夕彌, 稲葉大安, McCall, Manto, Shinjami               |
+| 旋風陣 (Senpuujin *Whirlwind Force*)          | 風      | 50     | Block    | 2            | 木暮夕彌, 稲葉大安, McCall (小巨人隊), Manto, Shinjami               |
 | サルガッソー (Sargasso)                          | 風      | 40     |          | 2 \[合體(2人)\] | 艾那姆(奧米迦協議隊), 龍崎皇兒, 井出乗数, Drill, Straw, 多利姆(奧米迦協議隊)            |
 | ゴー・トゥ・ヘブン (Go to Heaven *Heaven's Ascent*) | 風      | 60     |          | 3            | Nenel(黑暗天使隊), Elfel(黑暗天使隊)                        |
 | エアーバレット (Air Bullet)                       | 風      | 60     | Block    | 3            | 風丸一郎太, 一乃七助, 菲魯恩, 黒裂真命, 浪川蓮助, 隼総英聖, Onizuka, 護巻徹郎 |
@@ -2581,7 +2581,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | フォトンフラッシュ (Photon Flash *Photon Crash*)       | 火      | 30     |          | 1            | 在手實弓 (世宇子), Angelo (吟遊詩人)                                |
 | ダッシュトレイン (Dash Train)                         | 火      | 30     |          | 1            | 車田剛一                                                     |
 | フェイクボンバー (Fake Bomber/山寨炸彈)                   | 火      | 30     |          | 1            | 宍戶佐吉, 龜崎河童, Kito (小巨人隊), 虎濱甲子 (女生隊)                      |
-| フレイムダンス (Flame Dance)                         | 火      | 40     |          | 1            | 一之瀨一哉, 音村樂也, Maron, Goushu (小巨人隊)                        |
+| フレイムダンス (Flame Dance)                         | 火      | 40     |          | 1            | 一之瀨一哉, 音村樂也, Maron(小巨人隊), Goushu (小巨人隊)                        |
 | スーパーしこふみ (Super Shikofumi *Super Sumo Stomp*) | 火      | 50     | Block    | 1            | 土方雷電                                                     |
 | イグナイトスティール (Ignite Steal)                     | 火      | 40     |          | 2            | 本場激, 薔薇園華                                                |
 | スクリュードライバー (Screwdriver)                      | 火      | 40     |          | 2            | Zanark, Gouzu, Yasha, Oogu ((扎納克領域隊))               |
@@ -2820,14 +2820,14 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | ドリルスマッシャー (Drill Smasher)                  | 火      | 40     | Punch 1  | 2           | Desarm/砂木沼治, 源田幸次郎/源田幸次郎                               |
 | ダブルロケット (Double Rocket)                    | 火      | 40     | Punch 1  | 2           | 杉森威                                                    |
 | バーンアウト (Burn Out)                          | 火      | 40     | Catch    | 2           | 大岩藏人, 瀬方隆一郎                                            |
-| ゴットハンドX (God Hand X)                       | 火      | 40     | Catch    | 2           | Rococo, Cain (小巨人隊), 空野葵                               |
+| ゴットハンドX (God Hand X)                       | 火      | 40     | Catch    | 2           | Rococo(小巨人隊), Cain (小巨人隊), 空野葵                               |
 | サンドカッター (Sand Cutter)                      | 火      | 40     | Catch    | 3           | Shuten                                                 |
 | カウンタードライブ (Counter Drive)                  | 火      | 40     | Catch    | 3           | 雅野麗一                                                   |
 | バーンアウトV2 (Burn Out V2)                     | 火      | 50     | Catch    | 3           | 大岩藏人                                                   |
 | 無頼ハンド (Burai Hand)                         | 火      | 50     | Catch    | 3           | 三國太一, 空野葵, 兵頭司 (革命選拔)                                  |
 | ドリルスマッシャーV2 (Drill Smasher V2)             | 火      | 60     | Punch 1  | 3           | Desarm/砂木沼治, 瀬方隆一郎, 源田幸次郎/源田幸次郎                        |
 | ビーストファング (Beast Fang)                      | 火      | 60     | Catch    | 3           | 源田幸次郎/源田幸次郎, 厚石茂人                                      |
-| タマシイ・ザ・ハンド (Tamashii The Hand *Soul Hand*) | 火      | 60     | Catch    | 3           | Rococo, 多摩野五郎                                          |
+| タマシイ・ザ・ハンド (Tamashii The Hand *Soul Hand*) | 火      | 60     | Catch    | 3           | Rococo(小巨人隊), 多摩野五郎                                          |
 | キングファイア (King Fire)                        | 火      | 60     | Catch    | 化身 (Keshin) | 千宮路大和 (第五院)                                            |
 
   
@@ -2837,7 +2837,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 |                                                      |        |        |          |              |                                             |
 | ---------------------------------------------------- | ------ | ------ | -------- | ------------ | ------------------------------------------- |
 | **守門技**                                              | **元素** | **TP** | **Type** | **Level**    | **發動**                        |
-| ゴッドハンド (God Hand)                                    | 山      | 20     | Catch    | 1            | 圓堂守, 木野秋, 西園信助, 多摩野五郎, Rococo               |
+| ゴッドハンド (God Hand)                                    | 山      | 20     | Catch    | 1            | 圓堂守, 木野秋, 西園信助, 多摩野五郎, Rococo(小巨人隊)               |
 | コロッセオガード (Colosseo Guard *Colosseum Guard*)          | 山      | 30     | Punch 1  | 2            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
 | ぶっとびパンチ (Buttobi Punch)                              | 山      | 30     | Punch 1  | 2            | 西園信助, Matchos (天馬隊)                         |
 | マジン・ザ・ハンド (Majin The Hand)                           | 山      | 30     | Catch    | 2            | 圓堂守, 多摩野五郎                                  |
@@ -2850,7 +2850,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | 真 マジン・ザ・ハンド (Shin Majin The Hand)                    | 山      | 50     | Catch    | 3            | 圓堂守, 多摩野五郎                                  |
 | ギガントウォール (Gigant Wall)                               | 山      | 50     | Catch    | 3            | 步星吞一 (世宇子), Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)    |
 | ゴッドハンドW (God Hand W)                                 | 山      | 50     | Catch    | 3            | 松風天馬                                        |
-| ゴッドハンドV (God Hand V)                                 | 山      | 50     | Catch    | 3            | 圓堂守, Rococo                                 |
+| ゴッドハンドV (God Hand V)                                 | 山      | 50     | Catch    | 3            | 圓堂守, Rococo(小巨人隊)                                 |
 | ゴッドキャッチ (God Catch)                                  | 山      | 60     | Catch    | 3            | 圓堂守                                         |
 | オメガ・ザ・ハンド (Omega The Hand)                           | 山      | 60     | Catch    | 3            | 圓堂守                                         |
 | グレイト・ザ・ハンド (Great The Hand)                          | 山      | 60     | Catch    | 3            | 圓堂守                                         |

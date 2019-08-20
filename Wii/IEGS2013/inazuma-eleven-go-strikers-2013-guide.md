@@ -773,7 +773,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <td>エアライド<br />
 (Air Ride)</td>
 <td>不需解鎖</td>
-<td>Windy, Maxi or Drago (小巨人隊)</td>
+<td>Windy(小巨人隊), Maxi(小巨人隊) or Drago (小巨人隊)</td>
 <td>任一個一般球員</td>
 <td>風</td>
 <td>40</td>

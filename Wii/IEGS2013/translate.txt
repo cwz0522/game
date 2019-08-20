@@ -471,8 +471,7 @@ https://forum.gamer.com.tw/Co.php?bsn=11607&sn=8300
 
 todo: 
 	女生隊					(已譯，未選)
-	リトルギガント Little Gigant 小巨人
-
+	リトルギガント Little Gigant 小巨人 	(已譯，未選)
 	革命選拔				(已譯，未選)
 	フィフスセクターズ (第五院)		(已譯，未選)
 
@@ -480,6 +479,7 @@ todo:
 	Tenmas
 	Protocol Omega				(已譯，未選)
 
+https://inazuma-eleven.fandom.com/wiki/Inazuma_Eleven_GO_Strikers_2013
 https://ja.wikipedia.org/wiki/イナズマイレブンGOの登場人物
 https://ja.wikipedia.org/wiki/イナズマイレブン_ストライカーズ
 
@@ -488,3 +488,6 @@ https://www49.atwiki.jp/inazumagost2013/sp/
 https://www49.atwiki.jp/inazumagost2013/sp/pages/43.html
 
 https://translate.google.com/translate?hl=&sl=ja&tl=zh-TW&u=https://www49.atwiki.jp/inazumagost2013/sp/
+
+This Doc source:
+	http://watashiwa7.altervista.org/ie/index.html
