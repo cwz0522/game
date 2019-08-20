@@ -153,7 +153,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td>エクストリームラビット<br />
-(Extreme Rabbit)</td>
+(Extreme Rabbit/ <b>極致之兔</b>)</td>
 <td>松風天馬 (天馬隊) and 菲魯恩<br />
 絆50%</td>
 <td>松風天馬 and 菲魯恩</td>
@@ -163,7 +163,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td>エクストリームラビット アームド<br />
-(Extreme Rabbit Armed)</td>
+(Extreme Rabbit Armed/ <b>武裝形態:極致之兔</b>)</td>
 <td>松風天馬 (天馬隊) and 菲魯恩<br />
 絆50%, both with 最高覺醒值</td>
 <td>松風天馬 and 菲魯恩</td>
@@ -196,7 +196,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td>ファイアトルネードDD<br />
-(Fire Tornado Double Drive)<br />
+(Fire Tornado Double Drive)/ <b>烈焰龍捲風DD</b> <br />
 </td>
 <td>松風天馬 and 劍城京介 (新生雷門)<br />
 絆100%</td>
@@ -207,7 +207,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td>ファイアトルネードTC<br />
-(Fire Tornado Triple Crusher)<br />
+(Fire Tornado Triple Crusher)/ <b>烈焰龍捲風TC</b> <br />
 </td>
 <td>松風天馬 (天馬隊), 劍城京介 and 雨宮太陽<br />
 絆100%</td>
@@ -218,7 +218,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td>ファイアトルネードTC アームド<br />
-(Fire Tornado Triple Crusher Armed)<br />
+(Fire Tornado Triple Crusher Armed)/ <b>武裝形態: 烈焰龍捲風TC</b> <br />
 </td>
 <td>松風天馬 (天馬隊), 劍城京介 and 雨宮太陽<br />
 絆100%, everyone with 最高覺醒值</td>
@@ -438,7 +438,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td>最強イレブン波動<br />
-(Saikyou Eleven Hadou)</td>
+(Saikyou Eleven Hadou/**最強十一人波動**)</td>
 <td>松風天馬 (新生雷門) must have 50% 絆with 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 托普, 菜花黄名子, 雨宮太陽, 錦龍馬 and 扎納克. Everyone must have his/her mixi-max unlocked.</td>
 <td>松風天馬 (與 亞瑟王 極限融合)</td>
 <td>選2人) 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 托普, 菜花黄名子, 雨宮太陽, 錦龍馬 and 扎納克</td>
@@ -793,7 +793,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <em>Breakthrough 3</em></td>
 <td>不需解鎖</td>
 <td>巴特寶斯列特 (王牙) or Henktacker (世界選抜改)</td>
-<td>鬼道有人, 砂木沼治, Jinisuki (王牙), 音無春奈 (女生隊), 真帆路正 (革命選拔), Demonio (世界選抜改), Drill, Manto, Chibitto and Kimoro (天馬隊)</td>
+<td>鬼道有人, 砂木沼治, Jinisuki (王牙), 音無春奈 (女生隊), 真帆路正 (革命選拔), Demonio (世界選抜改), 多利露(天馬隊), 曼特(天馬隊), Chibitto(天馬隊) and 奇莫郎(天馬隊)</td>
 <td>火</td>
 <td>40</td>
 </tr>
@@ -930,8 +930,8 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <td>フラクタルハウス<br />
 (Fractal House)</td>
 <td>不需解鎖</td>
-<td>Wally, Deboon, Straw, Smile or Kimoro</td>
-<td>選2人) Wally, Deboon, Straw, Smile and Kimoro</td>
+<td>沃利(天馬隊), 疊胖(天馬隊), 史特羅(天馬隊), 斯邁爾(天馬隊) or 奇莫郎(天馬隊)</td>
+<td>選2人) 沃利(天馬隊), 疊胖(天馬隊), 史特羅(天馬隊), 斯邁爾(天馬隊) and 奇莫郎(天馬隊)</td>
 <td>山</td>
 <td>40</td>
 </tr>
@@ -968,8 +968,8 @@ or Mixi-Max, read the sections at the bottom of this guide.
 <td>サルガッソー<br />
 (Sargasso)</td>
 <td>不需解鎖</td>
-<td>龍崎皇兒, 井出乗数 (第五院), Straw, Drill (天馬隊), 艾那姆(奧米迦協議隊) or 多利姆(奧米迦協議隊) (奧米迦協議隊)</td>
-<td>龍崎皇兒, 井出乗数 (第五院), Straw, Drill (天馬隊), 艾那姆(奧米迦協議隊), 多利姆(奧米迦協議隊), 庫歐斯(奧米迦協議隊), 菲魯恩 or Kimoro (天馬隊) 之一, 若無則任一個一般球員</td>
+<td>龍崎皇兒, 井出乗数 (第五院), 史特羅(天馬隊), 多利露(天馬隊), 艾那姆(奧米迦協議隊) or 多利姆(奧米迦協議隊) (奧米迦協議隊)</td>
+<td>龍崎皇兒, 井出乗数 (第五院), 史特羅(天馬隊), 多利露(天馬隊), 艾那姆(奧米迦協議隊), 多利姆(奧米迦協議隊), 庫歐斯(奧米迦協議隊), 菲魯恩 or 奇莫郎(天馬隊) 之一, 若無則任一個一般球員</td>
 <td>風</td>
 <td>40</td>
 </tr>
@@ -1183,7 +1183,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 **菜花黄名子 + 天王巨龍**: 覺醒3 and 戰勝 (扎納克領域隊)  
 **松風天馬 + 亞瑟王**: 覺醒3 and 戰勝 (扎納克領域隊)  
 **扎納克 + 巨大颱風克萊拉珍Clara Jane**: 覺醒3  
-**菲魯恩 + 霸王龍Big**: 覺醒3 and 戰勝 (扎納克領域隊)  
+**菲魯恩 + 恐龍王者之子Big**: 覺醒3 and 戰勝 (扎納克領域隊)  
 **托普 + 風神翼龍老爸**: 覺醒3  
 **劍城優一 + 劍城京介**: 兩者 絆50%  
   

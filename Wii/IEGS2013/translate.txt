@@ -157,7 +157,6 @@ Alessandro Rossa (アレサンドロ・ロッサ)      			       吟遊詩人: M
 Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: MF 16
 
 /Hiroto/基山廣/        Gran グラン
-/Fei/菲魯恩/
 /Saru/薩魯艾凡/
 /Seto Midori/瀨戶水鳥/
 /Midori/瀨戶水鳥/
@@ -223,6 +222,17 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 /Einamu/艾那姆(奧米迦協議隊)/ (エイナム)
 /Einam/艾那姆(奧米迦協議隊)/ (エイナム)
 
+			天馬隊
+/Matchos/瑪邱斯(天馬隊)/ 	(マッチョス) 
+/Smile/斯邁爾(天馬隊)/		(スマイル)
+/Straw/史特羅(天馬隊)/		(ストロウ)
+/Deboon/疊胖(天馬隊)/ 		(デブーン)
+/Wally/沃利(天馬隊)/ 		(ウォーリー)
+/Chibitto/Chibitto(天馬隊)/	(チビット)
+/Manto/曼特(天馬隊)/ 		(マント)
+/Drill/多利露(天馬隊)/ 		(ドリル)
+/Kimoro/奇莫郎(天馬隊)/ 	(キモロ)
+/Fei/菲魯恩/		       （フェイ・ルーン）
 
 			零隊
 /Hebino/蛇野巻人/
@@ -487,7 +497,7 @@ todo:
 	革命選拔				(已譯，未選)
 	フィフスセクターズ (第五院)		(已譯，未選)
 	Zero                                    (已譯，未選)
-	Tenmas
+	Tenmas                                  (已譯，未選)
 	Protocol Omega				(已譯，未選)
 
 https://inazuma-eleven.fandom.com/wiki/Inazuma_Eleven_GO_Strikers_2013
