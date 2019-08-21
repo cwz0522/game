@@ -156,7 +156,7 @@ Enrico Olivier (エンリコ・オリビエ)          			       吟遊詩人: MF
 Alessandro Rossa (アレサンドロ・ロッサ)      			       吟遊詩人: MF 14
 Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: MF 16
 
-/Hiroto/基山廣/        Gran グラン
+/Hiroto/基山浩人/        Gran グラン    吉良浩人
 /Saru/薩魯艾凡/
 /Seto Midori/瀨戶水鳥/
 /Midori/瀨戶水鳥/
@@ -173,7 +173,7 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 /Sousou/曹操/
 /King Arthur/亞瑟王/
 /Master Dragon/天王巨龍/
-/Torb/托普/
+/Torb/東武/
 /Tochan/風神翼龍老爸/
 /Inaba Taian/稲葉大安/
 /Sorano Aoi/空野葵/
@@ -195,8 +195,35 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 
 
 /Tasuke/太助/
-/Zanark/扎納克/
+			扎納克領域隊
 
+/Zanark/扎納克/		察拿克‧阿巴洛尼庫（ザナーク‧アバロニク） 化身: 魔界王 佐狄亞克（魔界王ゾディアク）
+/Shuten/蘇坦/ (シュテン)                                         化身: 巨神   基加迪斯（巨神ギガンテス）
+/Gouzu/郭魯/ (ゴウズ)
+/Yasha/夜叉/ (ヤシャ)
+/Oogu/歐格/ (オーグ)
+/Engiru/安吉爾/ (エンギル)
+/Meizu/梅斯/ (メイズ)
+/Shinjami/辛吉米/ (シンジャミ)
+/Goburis/古布利斯/ (ゴブリス)
+/Shura/修羅/ (シュラ)
+/Rasetsu/羅剎/ (ラセツ)
+
+Destructchers (デストラクチャーズ)	破壞者隊
+/Lotus/Lotus(破壞者隊)/ (ロータス)
+/Mokuren/Mokuren(破壞者隊)/ (モクレン)
+/Chuuri/Chuuri(破壞者隊)/ (チューリ)
+/Maagaru/Maagaru(破壞者隊)/ (マーガル)
+/Laven/Laven(破壞者隊)/ (ラベン)
+/Viola/Viola(破壞者隊)/ (ビオラ)
+/Dande/Dande(破壞者隊)/ (ダンデ)
+/Kamomi/Kamomi(破壞者隊)/ (カモミ)
+/Okiddo/Okiddo(破壞者隊)/ (オキッド)
+/Asta/阿斯塔(破壞者隊)/ (アスタ)                  化身: 渾沌的王 阿斯蘭特多（渾沌の王アスタロト）
+/Genius/Genius(破壞者隊)/ (ジニアス)
+/Fran/芙蘭(破壞者隊)/ (フラン)
+
+/San/San(破壞者隊)/ (サン)				輸入密碼取得的
 
 
 /Kinako/菜花黄名子/
@@ -329,6 +356,7 @@ Dylan Keith		ディラン・キース
 /(Legend Japan)/(日本傳奇隊)/
 /(Fifth Sectors)/(第五院)/     (フィフスセクターズ)
 /(Zero)/(零隊)/
+/(Destructchers)/(破壞者隊)/
 
 https://inazuma-eleven.fandom.com/wiki/Fifth_Sectors
 
@@ -385,7 +413,7 @@ https://inazuma-eleven.fandom.com/wiki/Mahoro_Tadashi   真帆路 正
 雨宮 太陽
 太陽神 阿波羅（太陽神アポロ）
 
-托普
+東武
 太古戰士 獵豹戰神(太古の戦士ジャガウォック)
 
 圓堂 守
@@ -514,7 +542,7 @@ todo:
     - 最早能融合的是，使用密碼拿到的劍城優一
 * 遊戲進行
   + 打倒扎納克領域隊，拿到扎納克後，等不及練他，組成最強十一人波動的隊伍後，打
-  下(Destructchers)就出現過關畫面了，等它結束，地圖才出現(日本傳奇隊)
+  下(破壞者隊)就出現過關畫面了，等它結束，地圖才出現(日本傳奇隊)
 
 https://inazuma-eleven.fandom.com/wiki/Inazuma_Eleven_GO_Strikers_2013
 https://ja.wikipedia.org/wiki/イナズマイレブンGOの登場人物
