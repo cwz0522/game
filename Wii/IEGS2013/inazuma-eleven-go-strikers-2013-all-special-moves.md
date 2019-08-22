@@ -19,7 +19,7 @@ This is the complete list of special moves in Inazuma Eleven Go Strikers
 2013, sorted by element, level and power.  
 If you want to know how to unlock coop moves you can use
 [<span class="underline">this
-guide in html</span>](inazuma-eleven-go-strikers-2013-guide.htm)/
+guide in html</span>](inazuma-eleven-go-strikers-2013-guide.html)/
 [<span class="underline">this
 guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).  
   
