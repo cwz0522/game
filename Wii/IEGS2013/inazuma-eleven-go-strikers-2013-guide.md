@@ -1,25 +1,22 @@
 [![](ieguideslogo.jpg)](http://watashiwa7.altervista.org/ie/index.html)  
 
-<div style="margin-top:300px;margin-left:10px;">
+閃電十一人王牌前鋒 2013 的遊戲中有數種特殊技，需要解鎖的大多是合體技，化身技和一些極限融合時的特殊技。
 
-In Inazuma Eleven Go Strikers 2013 there are different kinds of special
-moves. The ones you need to unlock are mostly coop moves (合体技 *gattai
-waza*), avatar moves (化身技 *keshin waza*) and a few of Mixi-Max moves.
-This guide is focused on coop moves and how to unlock them (to unlock
-kenshin moves just raise the kakusei of that player). For the complete
-list of special moves sorted by power [click
-here in html](inazuma-eleven-go-strikers-2013-all-special-moves.html)/
-[click
-here in md](inazuma-eleven-go-strikers-2013-all-special-moves.md).
+本篇主要是針對如何解鎖合體技(化身技只要提昇覺醒值即可習得)。
 
-Remember:
-a mixi-maxed player can use gattai shots only, if you equipped a kenshin
-one or an armed one the SP slot will be empty (dribbles can be both
-armed and mixi-maxed at the same time). In this guide moves are sorted
-by name (english alphabet). If you're interested in unlocking characters
-or Mixi-Max, read the sections at the bottom of this guide.
+而完整的特殊技依威力排序，請見:
+[html 版本](inazuma-eleven-go-strikers-2013-all-special-moves.html)/
+[md 版本](inazuma-eleven-go-strikers-2013-all-special-moves.md).
 
-</div>
+
+> **請注意**:
+> 
+> 極限融合狀態的球員只能使用合體技，如果在SP位置配招為化身或是武裝技，
+> 將在完成極限融合時變成空的，**可在配招選單中依提示切換查看(如雙截棍是'-')**。
+> 
+> 而盤球技可以是武裝技。
+> 
+> 本篇以英文字母排序，若想了解如何解鎖角色或是極限融合，請看本篇底。
 
   
   
@@ -143,7 +140,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td>エボリューション<br />
-(Evolution)</td>
+(Evolution)<br/><b>進化射門</b></td>
 <td>松風天馬, 神童拓人 and 劍城京介 (新生雷門)<br />
 絆75%</td>
 <td>松風天馬, 瀨戶水鳥 or San</td>
@@ -153,7 +150,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td>エクストリームラビット<br />
-(Extreme Rabbit/ <b>極致之兔</b>)</td>
+(Extreme Rabbit)<br/> <b>極致之兔</b></td>
 <td>松風天馬 (天馬隊) and 菲魯恩<br />
 絆50%</td>
 <td>松風天馬 and 菲魯恩</td>
@@ -163,7 +160,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td>エクストリームラビット アームド<br />
-(Extreme Rabbit Armed/ <b>武裝形態:極致之兔</b>)</td>
+(Extreme Rabbit Armed)<br/> <b>武裝形態:極致之兔</b></td>
 <td>松風天馬 (天馬隊) and 菲魯恩<br />
 絆50%, both with 最高覺醒值</td>
 <td>松風天馬 and 菲魯恩</td>
@@ -196,7 +193,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td>ファイアトルネードDD<br />
-(Fire Tornado Double Drive)/ <b>烈焰龍捲風DD</b> <br />
+(Fire Tornado Double Drive)<br/> <b>烈焰龍捲風DD</b> <br />
 </td>
 <td>松風天馬 and 劍城京介 (新生雷門)<br />
 絆100%</td>
@@ -207,7 +204,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td>ファイアトルネードTC<br />
-(Fire Tornado Triple Crusher)/ <b>烈焰龍捲風TC</b> <br />
+(Fire Tornado Triple Crusher)<br/> <b>烈焰龍捲風TC</b> <br />
 </td>
 <td>松風天馬 (天馬隊), 劍城京介 and 雨宮太陽<br />
 絆100%</td>
@@ -218,7 +215,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td>ファイアトルネードTC アームド<br />
-(Fire Tornado Triple Crusher Armed)/ <b>武裝形態: 烈焰龍捲風TC</b> <br />
+(Fire Tornado Triple Crusher Armed)<br/> <b>武裝形態: 烈焰龍捲風TC</b> <br />
 </td>
 <td>松風天馬 (天馬隊), 劍城京介 and 雨宮太陽<br />
 絆100%, everyone with 最高覺醒值</td>
@@ -335,7 +332,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td>ジョーカーレインズ<br />
-(Joker Rains)</td>
+(Joker Rains)<br/><b>愚者之雨</b></td>
 <td>神童拓人 and 劍城京介 (新生雷門)<br />
 絆75%</td>
 <td>神童拓人, 劍城京介, Kamomi (破壞者隊) or Okiddo (破壞者隊)</td>
@@ -345,7 +342,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td>ジョーカーレインズ アームド<br />
-(Joker Rains Armed)</td>
+(Joker Rains Armed)<br/><b>武裝: 愚者之雨</b></td>
 <td>神童拓人 and 劍城京介 (新生雷門)<br />
 絆75%, both with 覺醒3</td>
 <td>神童拓人 or 劍城京介</td>
@@ -438,7 +435,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td>最強イレブン波動<br />
-(Saikyou Eleven Hadou/**最強十一人波動**)</td>
+(Saikyou Eleven Hadou)<br/> <b>最強十一人波動</b></td>
 <td>松風天馬 (新生雷門) must have 50% 絆with 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 東武, 菜花黄名子, 雨宮太陽, 錦龍馬 and 扎納克. Everyone must have his/her mixi-max unlocked.</td>
 <td>松風天馬 (與 亞瑟王 極限融合)</td>
 <td>選2人) 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 東武, 菜花黄名子, 雨宮太陽, 錦龍馬 and 扎納克</td>
@@ -489,7 +486,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td>ソード・オブ・ファイア<br />
-(Sword of Fire)</td>
+(Sword of Fire)<br/><b>火炎之劍</b></td>
 <td>松風天馬, 神童拓人 and 劍城京介 (新生雷門)<br />
 絆100%</td>
 <td>松風天馬</td>
@@ -703,7 +700,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td>ゴッドウィンド<br />
-(God Wind)</td>
+(God Wind)<br/><b>神明之風</b></td>
 <td>松風天馬 (天馬隊) and 豪炎寺修也 (日本傳奇隊)<br />
 絆50%</td>
 <td>松風天馬</td>
@@ -712,7 +709,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td>ゴッドウィンドアームド<br />
-(God Wind Armed)</td>
+(God Wind Armed)<br/><b>武裝:神明之風</b></td>
 <td>松風天馬 (天馬隊) and 豪炎寺修也 (日本傳奇隊)<br />
 絆50% and 松風天馬 (新生雷門) 覺醒3</td>
 <td>松風天馬</td>
@@ -859,7 +856,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="even">
 <td style="text-align: center;">風穴ドライブ<br />
-(Kazaana Drive)</td>
+(Kazaana Drive)<br/><b>風穴驅動</b></td>
 <td style="text-align: center;">松風天馬 (天馬隊) and 風丸一郎太 (日本傳奇隊)<br />
 絆50%</td>
 <td style="text-align: center;">松風天馬</td>
@@ -1087,7 +1084,7 @@ or Mixi-Max, read the sections at the bottom of this guide.
 </tr>
 <tr class="odd">
 <td style="text-align: center;">ゴッドハンドW<br />
-(God Hand W)</td>
+(God Hand W)<br/><b>黃金神掌W</b></td>
 <td style="text-align: center;">松風天馬 (天馬隊) and 圓堂守 (日本傳奇隊)<br />
 絆50%</td>
 <td style="text-align: center;">松風天馬</td>

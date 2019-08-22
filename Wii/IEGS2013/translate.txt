@@ -173,7 +173,7 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 /Sousou/曹操/
 /King Arthur/亞瑟王/
 /Master Dragon/天王巨龍/
-/Torb/東武/
+/Torb/東武/				托普
 /Tochan/風神翼龍老爸/
 /Inaba Taian/稲葉大安/
 /Sorano Aoi/空野葵/

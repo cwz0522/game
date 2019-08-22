@@ -15,13 +15,13 @@
 
 </div>
 
-This is the complete list of special moves in Inazuma Eleven Go Strikers
-2013, sorted by element, level and power.  
-If you want to know how to unlock coop moves you can use
-[<span class="underline">this
-guide in html</span>](inazuma-eleven-go-strikers-2013-guide.html)/
-[<span class="underline">this
-guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).  
+本篇依**元素**, **level**, **威力** 排序列出所有閃電十一人王牌前鋒 2013 遊戲中的特殊技。
+
+若想了解如何解鎖合體技，請見:
+[<span class="underline">
+html 版本</span>](inazuma-eleven-go-strikers-2013-guide.html)/
+[<span class="underline">
+md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).  
   
   
 
@@ -90,7 +90,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>綱海條介, Skid (小巨人隊)</td>
 </tr>
 <tr class="odd">
-<td>マッハウィンド (Mach Wind)</td>
+<td>マッハウィンド (Mach Wind)<br/><b>馬赫暴風</b></td>
 <td>風</td>
 <td>20</td>
 <td>Chain</td>
@@ -123,7 +123,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="odd">
 <td>スピニングトランザム [シュートコマンド01]<br />
-(Spinning Transam [Shoot Command 01])</td>
+(Spinning Transam [Shoot Command 01])<br/><b>螺旋鑽射</b></td>
 <td>風</td>
 <td>30</td>
 <td></td>
@@ -131,7 +131,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>艾那姆(奧米迦協議隊), 阿爾法(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
-<td>エターナルブリザード (Eternal Blizzard)</td>
+<td>エターナルブリザード (Eternal Blizzard)<br/><b>永恆暴風雪</b></td>
 <td>風</td>
 <td>40</td>
 <td></td>
@@ -214,7 +214,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Edgar(世界選拔改)</td>
 </tr>
 <tr class="even">
-<td>ドラゴンブラスター (Dragon Blaster)</td>
+<td>ドラゴンブラスター (Dragon Blaster)<br/><b>飛龍爆射</b></td>
 <td>風</td>
 <td>50</td>
 <td>Chain</td>
@@ -222,7 +222,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>白龍, 染岡龍吾, 薩魯艾凡</td>
 </tr>
 <tr class="odd">
-<td>パンサーブリザード (Panther Blizzard)</td>
+<td>パンサーブリザード (Panther Blizzard)<br/><b>獵豹冰風暴</b></td>
 <td>風</td>
 <td>50</td>
 <td></td>
@@ -230,7 +230,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>雪村豹牙, 南澤篤志</td>
 </tr>
 <tr class="even">
-<td>ホワイトハリケーン (White Hurricane)</td>
+<td>ホワイトハリケーン (White Hurricane)<br/><b>純白颶風</b></td>
 <td>風</td>
 <td>50</td>
 <td>Block</td>
@@ -238,7 +238,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>白龍, 修羅</td>
 </tr>
 <tr class="odd">
-<td>グングニル (Gungnir)</td>
+<td>グングニル (Gungnir)<br/><b>永恆之槍</b></td>
 <td>風</td>
 <td>60</td>
 <td>Long</td>
@@ -271,7 +271,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>綱海條介</td>
 </tr>
 <tr class="odd">
-<td>ゴッドウィンド (God Wind)</td>
+<td>ゴッドウィンド (God Wind)<br/><b>神明之風</b></td>
 <td>風</td>
 <td>60</td>
 <td></td>
@@ -287,7 +287,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>雨宮太陽 (極限融合狀態)</td>
 </tr>
 <tr class="odd">
-<td>イナズマ落とし (Inazuma Otoshi <em>Inazuma Drop</em>)</td>
+<td>イナズマ落とし (Inazuma Otoshi <em>Inazuma Drop</em>)<br/><b>高空落雷一號</b></td>
 <td>風</td>
 <td>30</td>
 <td></td>
@@ -319,7 +319,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>土方雷電, 吹雪士郎</td>
 </tr>
 <tr class="odd">
-<td>竜巻落とし (Tatsumaki Otoshi <em>Whirlwind Drop</em>)<br />
+<td>竜巻落とし (Tatsumaki Otoshi <em>Whirlwind Drop</em>)<br/><b>旋風墜擊</b><br />
 </td>
 <td>風</td>
 <td>40</td>
@@ -336,7 +336,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>染岡龍吾, 吹雪士郎</td>
 </tr>
 <tr class="odd">
-<td>ザ・ハリケーン (The Hurricane)</td>
+<td>ザ・ハリケーン (The Hurricane)<br/><b>極寒颶風</b></td>
 <td>風</td>
 <td>40</td>
 <td></td>
@@ -394,7 +394,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="even">
 <td>イナズマ1号落とし<br />
-(Inazuma Ichi-gō Otoshi <em>Inazuma-1 Drop</em>)</td>
+(Inazuma Ichi-gō Otoshi <em>Inazuma-1 Drop</em>)<br/><b>閃電一號射門落雷</b></td>
 <td>風</td>
 <td>30</td>
 <td></td>
@@ -410,7 +410,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>八神玲名</td>
 </tr>
 <tr class="even">
-<td>ジャスティスウィング (Justice Wing)</td>
+<td>ジャスティスウィング (Justice Wing)<br/><b>正義之翼</b></td>
 <td>風</td>
 <td>80</td>
 <td></td>
@@ -418,7 +418,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>松風天馬</td>
 </tr>
 <tr class="odd">
-<td>アイシクルロード (Icicle Road)</td>
+<td>アイシクルロード (Icicle Road)<br/><b>冰霜路徑</b></td>
 <td>風</td>
 <td>80</td>
 <td></td>
@@ -442,7 +442,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>浪川蓮助</td>
 </tr>
 <tr class="even">
-<td>ホワイトブレス (White Breath)</td>
+<td>ホワイトブレス (White Breath)<br/><b>純白吐息</b></td>
 <td>風</td>
 <td>80</td>
 <td></td>
@@ -450,7 +450,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>白龍</td>
 </tr>
 <tr class="odd">
-<td>アテナ・アサルト (Athena Assault)</td>
+<td>アテナ・アサルト (Athena Assault)<br/><b>雅典娜逆襲</b></td>
 <td>風</td>
 <td>80</td>
 <td></td>
@@ -458,39 +458,39 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>貝塔(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
-<td>ドラゴンブラスター (Dragon Blaster)</td>
+<td>ドラゴンブラスター (Dragon Blaster)<br/><b>飛龍爆射</b></td>
 <td>風</td>
 <td>70</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>白龍</td>
 </tr>
 <tr class="odd">
-<td>マッハウィンド (Mach Wind)</td>
+<td>マッハウィンド (Mach Wind)<br/><b>馬赫暴風</b></td>
 <td>風</td>
 <td>80</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>松風天馬</td>
 </tr>
 <tr class="even">
-<td>スピニングトランザム (Spinning Transam)</td>
+<td>スピニングトランザム (Spinning Transam)<br/><b>螺旋鑽射</b></td>
 <td>風</td>
 <td>80</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>阿爾法(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
-<td>ゴッドウィンド (God Wind)</td>
+<td>ゴッドウィンド (God Wind)<br/><b>神明之風</b></td>
 <td>風</td>
 <td>70</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>松風天馬</td>
 </tr>
 <tr class="even">
-<td>最強イレブン波動 (Saikyou Eleven Hadou)</td>
+<td>最強イレブン波動 (Saikyou Eleven Hadou)<br/><b>最強十一人波動</b></td>
 <td>風</td>
 <td>20</td>
 <td></td>
@@ -579,7 +579,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>闇野カゲト, 三浦大夢, Coyote(世界選拔改)</td>
 </tr>
 <tr class="odd">
-<td>バウンサーラビット (Bouncer Rabbit/ <b>彈躍之兔</b>)</td>
+<td>バウンサーラビット (Bouncer Rabbit) <br/><b>彈躍之兔</b></td>
 <td>林</td>
 <td>30</td>
 <td></td>
@@ -612,7 +612,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="odd">
 <td>ガウスショット [シュートコマンド03]<br />
-(Gauss Shot [Shoot Command 03])</td>
+(Gauss Shot [Shoot Command 03])<br/><b>高斯射門</b></td>
 <td>林</td>
 <td>40</td>
 <td>Chain</td>
@@ -628,7 +628,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>闇野カゲト, 三浦大夢, Coyote(世界選拔改)</td>
 </tr>
 <tr class="odd">
-<td>フォルテシモ (Fortissimo)</td>
+<td>フォルテシモ (Fortissimo)<br/><b>極強音律射門</b></td>
 <td>林</td>
 <td>40</td>
 <td>Chain</td>
@@ -652,7 +652,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>一之瀨一哉, 木野秋</td>
 </tr>
 <tr class="even">
-<td>マボロシショット (Maboroshi Shot)</td>
+<td>マボロシショット (Maboroshi Shot)<br/><b>魅幻射門</b></td>
 <td>林</td>
 <td>40</td>
 <td></td>
@@ -676,7 +676,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>染岡龍吾</td>
 </tr>
 <tr class="odd">
-<td>ブラックアッシュ (Black Ash)</td>
+<td>ブラックアッシュ (Black Ash)<br/><b>黑色灰燼</b></td>
 <td>林</td>
 <td>50</td>
 <td></td>
@@ -685,7 +685,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="even">
 <td>ガンマストライク [シュートコマンド13]<br />
-(Gamma Strike [Shoot Command 13])</td>
+(Gamma Strike [Shoot Command 13])<br/><b>伽瑪射線</b></td>
 <td>林</td>
 <td>50</td>
 <td></td>
@@ -709,7 +709,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>薩魯艾凡</td>
 </tr>
 <tr class="odd">
-<td>エクステンドゾーン (Extend Zone)</td>
+<td>エクステンドゾーン (Extend Zone)<br/><b>擴充領域</b></td>
 <td>林</td>
 <td>60</td>
 <td></td>
@@ -749,7 +749,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>佐久間次郎</td>
 </tr>
 <tr class="even">
-<td>ブラックアッシュ (Black Ash)</td>
+<td>ブラックアッシュ (Black Ash)<br/><b>黑色灰燼</b></td>
 <td>林</td>
 <td>20</td>
 <td></td>
@@ -757,7 +757,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>松風天馬 (與 修 極限融合)</td>
 </tr>
 <tr class="odd">
-<td>刹那ブースト (Setsuna Boost)</td>
+<td>刹那ブースト (Setsuna Boost)<br/><b>剎那爆射</b></td>
 <td>林</td>
 <td>20</td>
 <td>Chain</td>
@@ -789,7 +789,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Yumu(小巨人隊), Goushu (小巨人隊)</td>
 </tr>
 <tr class="odd">
-<td>ジョーカーレインズ (Joker Rains)</td>
+<td>ジョーカーレインズ (Joker Rains)<br/><b>愚者之雨</b></td>
 <td>林</td>
 <td>40</td>
 <td></td>
@@ -829,7 +829,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>鬼道有人, 音無春奈</td>
 </tr>
 <tr class="even">
-<td>ダークフェニックス (Dark Phoenix)</td>
+<td>ダークフェニックス (Dark Phoenix)<br/><b>黑暗火鳳凰</b></td>
 <td>林</td>
 <td>30</td>
 <td></td>
@@ -885,7 +885,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>光良夜桜</td>
 </tr>
 <tr class="odd">
-<td>ハーモニクス (Harmonics)</td>
+<td>ハーモニクス (Harmonics)<br/><b>最和諧曲調</b></td>
 <td>林</td>
 <td>80</td>
 <td></td>
@@ -901,28 +901,28 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>修</td>
 </tr>
 <tr class="odd">
-<td>バウンサーラビット (Bouncer Rabbit/ <b>武裝形態: 彈躍之兔</b>)</td>
+<td>バウンサーラビット (Bouncer Rabbit) <b>彈躍之兔</b></td>
 <td>林</td>
 <td>80</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>菲魯恩</td>
 </tr>
 <tr class="even">
 <td>ガンマストライク [シュートコマンド13]<br />
-(Gamma Strike [Shoot Command 13])</td>
+(Gamma Strike [Shoot Command 13])<br/><b>伽瑪射線</b></td>
 <td>林</td>
 <td>70</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>伽瑪(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
-<td>ジョーカーレインズ (Joker Rains)</td>
+<td>ジョーカーレインズ (Joker Rains)<br/><b>愚者之雨</b></td>
 <td>林</td>
 <td>60</td>
 <td></td>
-<td>アームド (Armed)<br />
+<td>アームド (Armed)<br/>武裝<br />
 合體(2人)</td>
 <td>神童拓人, 劍城京介</td>
 </tr>
@@ -983,7 +983,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>車田剛一, 喜多一番</td>
 </tr>
 <tr class="even">
-<td>デスソード (Death Sword)</td>
+<td>デスソード (Death Sword)<br/><b>死亡斬擊</b></td>
 <td>火</td>
 <td>30</td>
 <td></td>
@@ -1015,7 +1015,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>宇都宮虎丸</td>
 </tr>
 <tr class="even">
-<td>デスドロップ (Death Drop)</td>
+<td>デスドロップ (Death Drop)<br/><b>死亡墜落</b></td>
 <td>火</td>
 <td>40</td>
 <td>Chain</td>
@@ -1048,7 +1048,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Choi Chang Soo(世界選拔改)</td>
 </tr>
 <tr class="even">
-<td>流星ブレード (Ryuusei Blade <em>Meteor Blade</em>)</td>
+<td>流星ブレード (Ryuusei Blade <em>Meteor Blade</em>)<<br/><b>流星之刃</b>/td>
 <td>火</td>
 <td>50</td>
 <td>Block</td>
@@ -1061,7 +1061,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>40</td>
 <td>Chain</td>
 <td>2 (MIX)</td>
-<td>劍城優一</td>
+<td>劍城優一 (極限融合狀態)</td>
 </tr>
 <tr class="even">
 <td>Xブラスト (X Blast)</td>
@@ -1088,7 +1088,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Drago(小巨人隊)</td>
 </tr>
 <tr class="odd">
-<td>デビルバースト (Devil Burst)</td>
+<td>デビルバースト (Devil Burst)<br/><b>惡魔炸裂</b></td>
 <td>火</td>
 <td>50</td>
 <td></td>
@@ -1104,7 +1104,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>豪炎寺修也, 劍城優一, Goushu (小巨人隊)</td>
 </tr>
 <tr class="odd">
-<td>やきもちスクリュー (Yakimochi Screw)</td>
+<td>やきもちスクリュー (Yakimochi Screw)<br/><b>烤麻糬龍捲</b></td>
 <td>火</td>
 <td>50</td>
 <td>Long</td>
@@ -1157,7 +1157,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>20</td>
 <td>Block</td>
 <td>3 (MIX)</td>
-<td>劍城京介</td>
+<td>劍城京介 (極限融合狀態)</td>
 </tr>
 <tr class="even">
 <td>ツインブースト (Twin Boost)</td>
@@ -1208,7 +1208,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>稲葉大安, 羅剎, 修羅</td>
 </tr>
 <tr class="even">
-<td>ファイアトルネードDD (Fire Tornado Double Drive/ <b>烈焰龍捲風DD</b> )</td>
+<td>ファイアトルネードDD (Fire Tornado Double Drive) <b>烈焰龍捲風DD</b></td>
 <td>火</td>
 <td>40</td>
 <td></td>
@@ -1248,7 +1248,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>一之瀨一哉</td>
 </tr>
 <tr class="odd">
-<td>トリプルブースト (Triple Boost)</td>
+<td>トリプルブースト (Triple Boost)<br/><b>三重爆發力</b></td>
 <td>火</td>
 <td>30</td>
 <td>Long</td>
@@ -1280,7 +1280,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>基山浩人</td>
 </tr>
 <tr class="odd">
-<td>ファイアトルネードTC (Fire Tornado Triple Crusher/ <b>烈焰龍捲風TC</b> )</td>
+<td>ファイアトルネードTC (Fire Tornado Triple Crusher) <b>烈焰龍捲風TC</b></td>
 <td>火</td>
 <td>40</td>
 <td></td>
@@ -1288,7 +1288,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>劍城京介, 松風天馬, 菜花黄名子, 雨宮太陽, 白龍</td>
 </tr>
 <tr class="even">
-<td>爆熱ストーム (Bakunetsu Storm <em>Fireball Storm</em>)</td>
+<td>爆熱ストーム (Bakunetsu Storm <em>Fireball Storm</em>)<br/><b>爆炎風暴</b></td>
 <td>火</td>
 <td>80</td>
 <td></td>
@@ -1304,7 +1304,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>劍城京介</td>
 </tr>
 <tr class="even">
-<td>サンシャインフォース (Sunshine Force)</td>
+<td>サンシャインフォース (Sunshine Force)<br/><b>閃耀之力</b></td>
 <td>火</td>
 <td>80</td>
 <td></td>
@@ -1312,7 +1312,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>雨宮太陽</td>
 </tr>
 <tr class="odd">
-<td>ソード・オブ・ファイア (Sword of Fire)</td>
+<td>ソード・オブ・ファイア (Sword of Fire)<br/><b>火炎之劍</b></td>
 <td>火</td>
 <td>50</td>
 <td></td>
@@ -1320,27 +1320,27 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>松風天馬</td>
 </tr>
 <tr class="even">
-<td>デスドロップ (Death Drop)</td>
+<td>デスドロップ (Death Drop)<br/><b>死亡墜落</b></td>
 <td>火</td>
 <td>80</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>劍城京介, 劍城優一</td>
 </tr>
 <tr class="odd">
-<td>流星ブレード (Ryuusei Blade <em>Meteor Blade</em>)</td>
+<td>流星ブレード (Ryuusei Blade <em>Meteor Blade</em>)<br/><b>流星之刃</b></td>
 <td>火</td>
 <td>80</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>雨宮太陽</td>
 </tr>
 <tr class="even">
-<td>ファイアトルネードTC (Fire Tornado Triple Crusher/ <b>烈焰龍捲風TC</b> )</td>
+<td>ファイアトルネードTC (Fire Tornado Triple Crusher) <b>烈焰龍捲風TC</b></td>
 <td>火</td>
 <td>50</td>
 <td></td>
-<td>アームド (Armed)<br />
+<td>アームド (Armed)<br/>武裝<br />
 合體(3人)</td>
 <td>劍城京介, 松風天馬, 菜花黄名子, 白龍, 雨宮太陽</td>
 </tr>
@@ -1378,7 +1378,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Yumu (小巨人隊)</td>
 </tr>
 <tr class="odd">
-<td>メガトンヘッド (Megaton Head)</td>
+<td>メガトンヘッド (Megaton Head)<br/><b>百萬噸頭鎚</b></td>
 <td>山</td>
 <td>30</td>
 <td>Block</td>
@@ -1386,7 +1386,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>圓堂守, Canon</td>
 </tr>
 <tr class="even">
-<td>ぶっとびジャンプ (Buttobi Jump)</td>
+<td>ぶっとびジャンプ (Buttobi Jump)<br/><b>強力跳躍</b></td>
 <td>山</td>
 <td>30</td>
 <td>Block</td>
@@ -1394,7 +1394,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>西園信助, 瀧快彥</td>
 </tr>
 <tr class="odd">
-<td>サイドワインダー (Sidewinder)</td>
+<td>サイドワインダー (Sidewinder)<br/><b>響尾蛇飛彈</b></td>
 <td>山</td>
 <td>30</td>
 <td>Chain</td>
@@ -1410,7 +1410,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>宇都宮虎丸, 郭魯, 古布利斯</td>
 </tr>
 <tr class="odd">
-<td>ギガトンヘッド (Gigaton Head)</td>
+<td>ギガトンヘッド (Gigaton Head)<br/><b>億萬噸頭鎚</b></td>
 <td>山</td>
 <td>40</td>
 <td>Chain</td>
@@ -1418,7 +1418,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>圓堂守</td>
 </tr>
 <tr class="even">
-<td>サイドワインダーV2 (Sidewinder V2)</td>
+<td>サイドワインダーV2 (Sidewinder V2)<br/><b>響尾蛇飛彈V2</b></td>
 <td>山</td>
 <td>40</td>
 <td>Chain</td>
@@ -1482,7 +1482,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>宇都宮虎丸</td>
 </tr>
 <tr class="even">
-<td>バリスタショット (Ballista Shot)</td>
+<td>バリスタショット (Ballista Shot)<br/><b>投石器射門</b></td>
 <td>山</td>
 <td>60</td>
 <td>Long</td>
@@ -1538,7 +1538,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>菲魯恩 (極限融合與 恐龍王者之子Big)</td>
 </tr>
 <tr class="odd">
-<td>グレートマックスなオレ (Great Max na Ore)</td>
+<td>グレートマックスなオレ (Great Max na Ore) <br/><b>吾乃最強-super</b></td>
 <td>山</td>
 <td>20</td>
 <td></td>
@@ -1570,7 +1570,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Dylan(世界選拔改), Mark(世界選拔改)</td>
 </tr>
 <tr class="odd">
-<td>エクストリームラビット (Extreme Rabbit/ <b>極致之兔</b>)</td>
+<td>エクストリームラビット (Extreme Rabbit) <b>極致之兔</b></td>
 <td>山</td>
 <td>40</td>
 <td></td>
@@ -1603,7 +1603,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>雷傑/綠川龍二, 武藤論, 皇マキ, 瀬方隆一郎, 厚石茂人</td>
 </tr>
 <tr class="odd">
-<td>エボリューション (Evolution)</td>
+<td>エボリューション (Evolution)<br/><b>進化射門</b></td>
 <td>山</td>
 <td>40</td>
 <td></td>
@@ -1635,7 +1635,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>圓堂守, 不動明王</td>
 </tr>
 <tr class="odd">
-<td>ギャロップバスター (Gallop Buster)</td>
+<td>ギャロップバスター (Gallop Buster)<br/><b>終極刺殺</b></td>
 <td>山</td>
 <td>80</td>
 <td></td>
@@ -1659,7 +1659,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>錦龍馬</td>
 </tr>
 <tr class="even">
-<td>レッドプリズン (Red Prison)</td>
+<td>レッドプリズン (Red Prison) <b>赤紅監獄</b></td>
 <td>山</td>
 <td>80</td>
 <td></td>
@@ -1679,7 +1679,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>山</td>
 <td>80</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>錦龍馬</td>
 </tr>
 <tr class="odd">
@@ -1687,7 +1687,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>山</td>
 <td>70</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>扎納克</td>
 </tr>
 <tr class="even">
@@ -1695,15 +1695,15 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>山</td>
 <td>60</td>
 <td></td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>芙蘭(破壞者隊)</td>
 </tr>
 <tr class="odd">
-<td>エクストリームラビット (Extreme Rabbit/ <b>武裝形態:極致之兔</b> )</td>
+<td>エクストリームラビット (Extreme Rabbit) <b>極致之兔</b></td>
 <td>山</td>
 <td>60</td>
 <td></td>
-<td>アームド (Armed)<br />
+<td>アームド (Armed)<br/>武裝<br />
 合體(2人)</td>
 <td>菲魯恩, 松風天馬</td>
 </tr>
@@ -1734,7 +1734,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="even">
 <td>ダブルショット [シュートコマンド07]<br />
-(Double Shot [Shoot Command 07])</td>
+(Double Shot [Shoot Command 07])<br/><b>雙重射門</b></td>
 <td>無</td>
 <td>40</td>
 <td>Long</td>
@@ -1758,7 +1758,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>牙山道三, 稲葉大安</td>
 </tr>
 <tr class="odd">
-<td>ゼロマグナム (Zero Magnum)</td>
+<td>ゼロマグナム (Zero Magnum)<br/><b>麥格農零式</b></td>
 <td>無</td>
 <td>40</td>
 <td></td>
@@ -1766,7 +1766,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>修, 白龍</td>
 </tr>
 <tr class="even">
-<td>グレートブラスター (Great Blaster)</td>
+<td>グレートブラスター (Great Blaster)<br/><b>壯烈衝擊波</b></td>
 <td>無</td>
 <td>40</td>
 <td></td>
@@ -1774,7 +1774,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>劍城京介, 白龍, 劍城優一</td>
 </tr>
 <tr class="odd">
-<td>オメガアタック (Omega Attack)</td>
+<td>オメガアタック (Omega Attack)<br/><b>奧美迦逆襲</b></td>
 <td>無</td>
 <td>40</td>
 <td></td>
@@ -1782,7 +1782,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊), 伽瑪(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
-<td>ソードエクスカリバー (Sword Excalibur)</td>
+<td>ソードエクスカリバー (Sword Excalibur)<br/><b>王者神劍</b></td>
 <td>無</td>
 <td>50</td>
 <td></td>
@@ -1791,30 +1791,30 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="odd">
 <td>ダブルショット [シュートコマンド07]<br />
-(Double Shot [Shoot Command 07])</td>
+(Double Shot [Shoot Command 07])<br/><b>雙重射門)</b></td>
 <td>無</td>
 <td>90</td>
 <td>Long</td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>貝塔(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
 <td>グレートブラスター<br />
-(Great Blaster)</td>
+(Great Blaster)<br/><b>壯烈衝擊波</b></td>
 <td>無</td>
 <td>60</td>
 <td></td>
-<td>アームド (Armed)<br />
+<td>アームド (Armed)<br/>武裝<br />
 合體(2人)</td>
 <td>劍城京介, 白龍, 劍城優一</td>
 </tr>
 <tr class="odd">
 <td>オメガアタック<br />
-(Omega Attack)</td>
+(Omega Attack)<br/><b>奧美迦逆襲</b></td>
 <td>無</td>
 <td>50</td>
 <td></td>
-<td>アームド (Armed)<br />
+<td>アームド (Armed)<br/>武裝<br />
 合體(3人)</td>
 <td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊), 伽瑪(奧米迦協議隊)</td>
 </tr>
@@ -1858,7 +1858,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>如月まこ, 虎濱甲子 (女生隊)</td>
 </tr>
 <tr class="odd">
-<td>疾風ダッシュ (Shippuu Dash <em>Flurry Dash</em>)</td>
+<td>疾風ダッシュ (Shippuu Dash <em>Flurry Dash</em>)<br/><b>疾風衝刺</b></td>
 <td>風</td>
 <td>20</td>
 <td>1</td>
@@ -1872,7 +1872,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>少林寺步</td>
 </tr>
 <tr class="odd">
-<td>そよかぜステップ (Soyokaze Step <em>Easy Breezy</em>)</td>
+<td>そよかぜステップ (Soyokaze Step <em>Easy Breezy</em>)<br/><b>微風步伐</b></td>
 <td>風</td>
 <td>20</td>
 <td>1</td>
@@ -1886,7 +1886,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>速水鶴正, 史特羅(天馬隊), 鬼塚平太</td>
 </tr>
 <tr class="odd">
-<td>なみのりピエロ (Naminori Pierrot)</td>
+<td>なみのりピエロ (Naminori Pierrot)<br/><b>乘浪小丑</b></td>
 <td>風</td>
 <td>30</td>
 <td>1</td>
@@ -1894,7 +1894,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="even">
 <td>スピニングアッパー [オフェンスコマンド04]<br />
-(Spinning Upper [Offence Command 04])</td>
+(Spinning Upper [Offence Command 04])<br/><b>迴旋上擊</b></td>
 <td>風</td>
 <td>30</td>
 <td>1</td>
@@ -1936,7 +1936,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>風丸一郎太, 速水鶴正, 一乃七助, 太助, Ryuu(小巨人隊), 浪川蓮助, 護巻徹郎</td>
 </tr>
 <tr class="even">
-<td>ヘブンズタイム (Heaven's Time)</td>
+<td>ヘブンズタイム (Heaven's Time)<br/><b>天堂時刻</b></td>
 <td>風</td>
 <td>40</td>
 <td>2</td>
@@ -1979,7 +1979,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>稲葉大安</td>
 </tr>
 <tr class="even">
-<td>ペガサスブレイク (Pegasus Break)</td>
+<td>ペガサスブレイク (Pegasus Break)<br/><b>佩加薩斯落雷</b></td>
 <td>風</td>
 <td>60</td>
 <td>化身 (Keshin)</td>
@@ -2023,7 +2023,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>霧隠才次 (新日本隊)</td>
 </tr>
 <tr class="even">
-<td>プレストターン (Presto Turn <em>Hey Presto</em>)</td>
+<td>プレストターン (Presto Turn <em>Hey Presto</em>)<br/><b>極速轉身</b></td>
 <td>林</td>
 <td>30</td>
 <td>1</td>
@@ -2080,14 +2080,14 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Mephisto(黑暗天使隊), Satanathos(黑暗天使隊)</td>
 </tr>
 <tr class="even">
-<td>メロディウェイブ (Melody Wave)</td>
+<td>メロディウェイブ (Melody Wave)<br/><b>旋律音浪</b></td>
 <td>林</td>
 <td>50</td>
 <td>3</td>
 <td>霧野蘭丸, 青銅弾, 林音真琴</td>
 </tr>
 <tr class="odd">
-<td>オリンポスハーモニー (Olympus Harmony)</td>
+<td>オリンポスハーモニー (Olympus Harmony)<br/><b>奧林帕斯合奏</b></td>
 <td>林</td>
 <td>50</td>
 <td>3</td>
@@ -2101,17 +2101,17 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>鬼道有人, 不動明王</td>
 </tr>
 <tr class="odd">
-<td>ダンシングゴースト (Dancing Ghost)</td>
+<td>ダンシングゴースト (Dancing Ghost)<br/><b>舞蹈鬼魂</b></td>
 <td>林</td>
 <td>60</td>
 <td>化身 (Keshin)</td>
 <td>真帆路正</td>
 </tr>
 <tr class="even">
-<td>オリンポスハーモニー (Olympus Harmony)</td>
+<td>オリンポスハーモニー (Olympus Harmony)<br/><b>奧林帕斯合奏</b></td>
 <td>林</td>
 <td>80</td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>神童拓人</td>
 </tr>
 </tbody>
@@ -2194,7 +2194,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>松風天馬</td>
 </tr>
 <tr class="even">
-<td>ライアーショット (Liar Shot/詐欺射門)</td>
+<td>ライアーショット (Liar Shot)<br/><b>詐欺射門</b></td>
 <td>火</td>
 <td>40</td>
 <td>2</td>
@@ -2208,7 +2208,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>雷傑/綠川龍二, 紀伊布美子, Shinti(小巨人隊)</td>
 </tr>
 <tr class="even">
-<td>スパークエッジドリブル (Spark Edge Dribble)</td>
+<td>スパークエッジドリブル (Spark Edge Dribble)<br/><b>閃耀利刃滑行</b></td>
 <td>火</td>
 <td>40</td>
 <td>2</td>
@@ -2257,24 +2257,24 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>巴特寶斯列特, Henktacker(世界選拔改)</td>
 </tr>
 <tr class="odd">
-<td>ブリタニアクロス (Britannia Cross)</td>
+<td>ブリタニアクロス (Britannia Cross)<br/><b>魔幻交叉</b></td>
 <td>火</td>
 <td>40</td>
 <td>3 [合體(2人)]</td>
 <td>青山俊介, 一乃七助, 龍崎皇兒, 御門春馬, 貴志部大河, 瀧總介, 湾田七雄人, 修, 海</td>
 </tr>
 <tr class="even">
-<td>マシンガンビート (Machine Gun Beat)</td>
+<td>マシンガンビート (Machine Gun Beat)<br/><b>拳擊機槍</b></td>
 <td>火</td>
 <td>60</td>
 <td>化身 (Keshin)</td>
 <td>青銅弾</td>
 </tr>
 <tr class="odd">
-<td>スパークエッジドリブル (Spark Edge Dribble)</td>
+<td>スパークエッジドリブル (Spark Edge Dribble)<br/><b>閃耀利刃滑行</b></td>
 <td>火</td>
 <td>50</td>
-<td>アームド (Armed)<br />
+<td>アームド (Armed)<br/>武裝<br />
 可用在極限融合狀態</td>
 <td>雨宮太陽</td>
 </tr>
@@ -2293,12 +2293,12 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | クレイモア (Claymore)                         | 山      | 30     | 1           | 狩屋正樹, 南澤篤志, 瀧總介, 阿爾法(奧米迦協議隊), Chuuri(破壞者隊), 江島一八, 木屋功治, 悠木譲 |
 | プリマドンナ (Prima Donna)                     | 山      | 30     | 1           | 御堂玲華 (女生隊)                                         |
 | シザース・ボム (Scissors Bomb)                  | 山      | 30     | 1           | 艾斯卡帕梅魯, 多拉黑丘塔, 伊卡史塔克斯                              |
-| アクロバットキープ (Acrobat Keep)                 | 山      | 30     | 2           | 倉間典人, 錦龍馬, 東武, 貴志部大河, 御門春馬                         |
-| クロシオライド (Kuroshio Ride)                  | 山      | 20     | 2 (MIX)     | 錦龍馬 (極限融合狀態)                                |
+| アクロバットキープ (Acrobat Keep)<br/><b>特技運球</b> | 山      | 30     | 2           | 倉間典人, 錦龍馬, 東武, 貴志部大河, 御門春馬                         |
+| クロシオライド (Kuroshio Ride) <b>黑潮駕馭</b>   | 山      | 20     | 2 (MIX)     | 錦龍馬 (極限融合狀態)                                |
 | スーパーエラシコ (Super Elastico)                | 山      | 40     | 3           | Roniejo(世界選拔改)                                     |
-| スカイウォーク (Sky Walk)                       | 山      | 50     | 3           | 菲魯恩, 西園信助                                          |
-| 昇り龍 (Noboriryuu)                         | 山      | 50     | 3           | 錦龍馬, 染岡龍吾, 瀧快彥, 牙山道三, 郭魯                        |
-| 王の剣 (Ou no 劍城京介)                         | 山      | 20     | 3 (MIX)     | 松風天馬 (與 亞瑟王 極限融合)                                  |
+| スカイウォーク (Sky Walk)<br/><b>空中行者</b>    | 山      | 50     | 3           | 菲魯恩, 西園信助                                          |
+| 昇り龍 (Noboriryuu)<br/><b>神龍昇天</b>        | 山      | 50     | 3           | 錦龍馬, 染岡龍吾, 瀧快彥, 牙山道三, 郭魯                        |
+| 王の剣 (Ou no Tsurugi)                         | 山      | 20     | 3 (MIX)     | 松風天馬 (與 亞瑟王 極限融合)                                  |
 | スクラッチレイド (Scratch Raid)                  | 山      | 60     | 化身 (Keshin) | 貴志部大河                                              |
 
   
@@ -2374,10 +2374,10 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | アイスグランド (Ice Ground *Land of Ice*)         | 風      | 30     |          | 1            | 吹雪士郎, 真都路珠香, 木瀧常緒, 真狩銀次郎                         |
 | キラーホエール (Killer Whale)                     | 風      | 30     |          | 1            | 濱野海士, 井出乗数, 湾田七雄人                                 |
 | サイクロン (Cyclone)                            | 風      | 30     |          | 1            | 萬丈一道 (帝國學園)                                       |
-| スパイラルドロー (Spiral Draw)                     | 風      | 30     |          | 1            | 松風天馬                                              |
+| スパイラルドロー (Spiral Draw)<br/><b>螺旋攔截</b> | 風      | 30     |          | 1            | 松風天馬                                              |
 | デザートストーム (Desert Storm)                    | 風      | 40     |          | 1            | Bjorn(世界選拔改)                                      |
 | スピニングカット (Spinning Cut)                    | 風      | 50     | Block    | 1            | 栗松鐵平, 西垣守, 明天名智 (世宇子)                             |
-| ワンダートラップ (Wonder Trap)                     | 風      | 40     |          | 2            | 松風天馬                                              |
+| ワンダートラップ (Wonder Trap)<br/><b>奇妙陷阱</b> | 風      | 40     |          | 2            | 松風天馬                                              |
 | フローズンスティール (Frozen Steal)                  | 風      | 40     |          | 2            | 極川寒太郎, 倉掛可拉拉, 角路徹, 凍地愛, 凍地修兒, 荒谷紺子               |
 | ザ・タワー (The Tower)                          | 風      | 50     | Block    | 2            | 財前塔子                                              |
 | 真空魔 (Shinkuuma *Vac Attack*)               | 風      | 50     | Block    | 2            | 速水鶴正, 飛鷹征矢, 修羅, Okiddo(破壞者隊)                         |
@@ -2388,8 +2388,8 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | エアーバレット (Air Bullet)                       | 風      | 60     | Block    | 3            | 風丸一郎太, 一乃七助, 菲魯恩, 黒裂真命, 浪川蓮助, 隼総英聖, 鬼塚平太, 護巻徹郎 |
 | 真空魔 (Shinkuuma)                            | 風      | 20     | Block    | 3 (MIX)      | 扎納克 (極限融合與 曹操)                                 |
 | 古代の翼 (Kodai no Tsubasa)                    | 風      | 20     |          | 3 (MIX)      | 東武 (極限融合狀態)                                |
-| パーフェクト・タワー (Perfect Tower)                 | 風      | 40     |          | 3 \[合體(3人)\] | 財前塔子                                              |
-| ドラゴンストーム (Dragon Storm)                    | 風      | 70     |          | 化身 (Keshin)  | 龍崎皇兒, 真狩銀次郎                                       |
+| パーフェクト・タワー (Perfect Tower)                | 風      | 40     |          | 3 \[合體(3人)\] | 財前塔子                                              |
+| ドラゴンストーム (Dragon Storm)<br/><b>猛龍風暴</b> | 風      | 70     |          | 化身 (Keshin)  | 龍崎皇兒, 真狩銀次郎                                       |
 | ハンティングランス (Hunting Lance)                  | 風      | 70     |          | 化身 (Keshin)  | 東武                                                |
 
   
@@ -2464,7 +2464,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>克烏拉(奧米迦協議隊), 沃德(奧米迦協議隊), 梅達姆(奧米迦協議隊), 妮拉(奧米迦協議隊)</td>
 </tr>
 <tr class="even">
-<td>ザ・ミスト (The Mist <em>Mystifying Mist</em>)</td>
+<td>ザ・ミスト (The Mist <em>Mystifying Mist</em>)<br/><b>迷幻之霧</b></td>
 <td>林</td>
 <td>40</td>
 <td></td>
@@ -2489,7 +2489,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>San, 古布利斯, 梅斯, 梅達姆(奧米迦協議隊), 沃德(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
-<td>分身ディフェンス (Bushin Defence <em>Clone Defence</em>)</td>
+<td>分身ディフェンス (Bushin Defence <em>Clone Defence</em>)<br/><b>分身防禦</b></td>
 <td>林</td>
 <td>50</td>
 <td></td>
@@ -2513,7 +2513,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Belzebu(黑暗天使隊), Satanathos(黑暗天使隊)</td>
 </tr>
 <tr class="even">
-<td>ディープミスト (Deep Mist)</td>
+<td>ディープミスト (Deep Mist)<br/><b>深層濃霧</b></td>
 <td>林</td>
 <td>60</td>
 <td>Block</td>
@@ -2521,7 +2521,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>霧野蘭丸</td>
 </tr>
 <tr class="odd">
-<td>ハンターズネット (Hunter's Net)</td>
+<td>ハンターズネット (Hunter's Net)<br/><b>獵人之網</b></td>
 <td>林</td>
 <td>60</td>
 <td>Block</td>
@@ -2529,7 +2529,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>狩屋正樹, 多利露(天馬隊), 蛇野巻人 (零隊)</td>
 </tr>
 <tr class="even">
-<td>きらきらイリュージョン (Kirakira Illusion)</td>
+<td>きらきらイリュージョン (Kirakira Illusion)<br/><b>閃閃亮亮幻象</b></td>
 <td>林</td>
 <td>20</td>
 <td></td>
@@ -2537,7 +2537,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>菜花黄名子 (極限融合狀態)</td>
 </tr>
 <tr class="odd">
-<td>ディープジャングル (Deep Jungle)</td>
+<td>ディープジャングル (Deep Jungle)<br/><b></b></td>
 <td>林</td>
 <td>40</td>
 <td></td>
@@ -2553,7 +2553,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>悠木譲</td>
 </tr>
 <tr class="odd">
-<td>ヴァルキリーフラッグ (Valkyrie Flag)</td>
+<td>ヴァルキリーフラッグ (Valkyrie Flag)<br/><b>戰女神之旗</b></td>
 <td>林</td>
 <td>70</td>
 <td></td>
@@ -2561,11 +2561,11 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>霧野蘭丸</td>
 </tr>
 <tr class="even">
-<td>ディープミスト (Deep Mist)</td>
+<td>ディープミスト (Deep Mist)<br/><b>深層濃霧</b></td>
 <td>林</td>
 <td>70</td>
 <td>Block</td>
-<td>アームド (Armed)</td>
+<td>アームド (Armed)<br/>武裝</td>
 <td>霧野蘭丸</td>
 </tr>
 </tbody>
@@ -2578,24 +2578,24 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 |                                               |        |        |          |              |                                                          |
 | --------------------------------------------- | ------ | ------ | -------- | ------------ | -------------------------------------------------------- |
 | **阻截技**                                       | **元素** | **TP** | **Type** | **Level**    | **發動**                                     |
-| フォトンフラッシュ (Photon Flash *Photon Crash*)       | 火      | 30     |          | 1            | 在手實弓 (世宇子), Angelo (吟遊詩人)                                |
+| フォトンフラッシュ (Photon Flash *Photon Crash*)      | 火      | 30     |          | 1            | 在手實弓 (世宇子), Angelo (吟遊詩人)                                |
 | ダッシュトレイン (Dash Train)                         | 火      | 30     |          | 1            | 車田剛一                                                     |
-| フェイクボンバー (Fake Bomber/山寨炸彈)                   | 火      | 30     |          | 1            | 宍戶佐吉, 龜崎河童, Kito (小巨人隊), 虎濱甲子 (女生隊)                      |
-| フレイムダンス (Flame Dance)                         | 火      | 40     |          | 1            | 一之瀨一哉, 音村樂也, Maron(小巨人隊), Goushu (小巨人隊)                        |
+| フェイクボンバー (Fake Bomber) <b>山寨炸彈</b>        | 火      | 30     |          | 1            | 宍戶佐吉, 龜崎河童, Kito (小巨人隊), 虎濱甲子 (女生隊)                      |
+| フレイムダンス (Flame Dance)                          | 火      | 40     |          | 1            | 一之瀨一哉, 音村樂也, Maron(小巨人隊), Goushu (小巨人隊)                        |
 | スーパーしこふみ (Super Shikofumi *Super Sumo Stomp*) | 火      | 50     | Block    | 1            | 土方雷電                                                     |
-| イグナイトスティール (Ignite Steal)                     | 火      | 40     |          | 2            | 本場激, 薔薇園華                                                |
-| スクリュードライバー (Screwdriver)                      | 火      | 40     |          | 2            | 扎納克, 郭魯, 夜叉, 歐格 (扎納克領域隊)               |
-| ローリングスライド (Rolling Slide)                     | 火      | 40     |          | 2            | Lagarto(世界選拔改)                                           |
+| イグナイトスティール (Ignite Steal)                   | 火      | 40     |          | 2            | 本場激, 薔薇園華                                                |
+| スクリュードライバー (Screwdriver) <b>螺絲起子</b>    | 火      | 40     |          | 2            | 扎納克, 郭魯, 夜叉, 歐格 (扎納克領域隊)               |
+| ローリングスライド (Rolling Slide)                    | 火      | 40     |          | 2            | Lagarto(世界選拔改)                                           |
 | ボルケイノカット (Volcano Cut)                        | 火      | 50     | Block    | 2            | 土門飛鳥, Skid (小巨人隊), 達伊戈普卡 (王牙)                            |
 | さばきのてっつい (Sabaki no Tettsui *Divine Stamp*)   | 火      | 50     | Block    | 2            | 阿保露光, 部灰炎, 經目須商 (世宇子), 伊豆野由宇 (新日本隊), 丹提迪亞普羅 (吟遊詩人)       |
-| シューティングスター (Shooting Star)                    | 火      | 30     | Block    | 2 \[合體(2人)\] | 少林寺步, Shinti (小巨人隊)                                      |
-| ビッグシザーズ (Big Scissors)                        | 火      | 40     |          | 2 \[合體(2人)\] | 車田剛一, 井出乗数, Laven(破壞者隊)                                        |
-| 一夜城 (Ichiyajou)                               | 火      | 50     | Block    | 2 \[合體(3人)\] | 太助                                                       |
-| クレイジーサンライト (Crazy Sunlight)                   | 火      | 50     |          | 3            | 雨宮太陽, 夜叉 (扎納克領域隊), 佐喜幸夫, 江島一八, 鬼塚平太 (零隊) |
-| アスタリスクロック (Asterisk Rock)                     | 火      | 60     | Block    | 3            | 阿斯塔(破壞者隊), Dande (破壞者隊)                              |
-| もちもち黄粉餅 (Mochi Mochi Kinako Mochi)            | 火      | 60     | Block    | 3            | 菜花黄名子                                                    |
-| ラ・フラム (La Flamme)                             | 火      | 20     | Block    | 3 (MIX)      | 霧野蘭丸 (極限融合狀態)                                     |
-| もちもち黄粉餅 (Mochi Mochi Kinako Mochi)            | 火      | 70     | Block    | アームド (Armed) | 菜花黄名子                                                    |
+| シューティングスター (Shooting Star)                  | 火      | 30     | Block    | 2 \[合體(2人)\] | 少林寺步, Shinti (小巨人隊)                                      |
+| ビッグシザーズ (Big Scissors)                         | 火      | 40     |          | 2 \[合體(2人)\] | 車田剛一, 井出乗数, Laven(破壞者隊)                                        |
+| 一夜城 (Ichiyajou)                                    | 火      | 50     | Block    | 2 \[合體(3人)\] | 太助                                                       |
+| クレイジーサンライト (Crazy Sunlight)                 | 火      | 50     |          | 3            | 雨宮太陽, 夜叉 (扎納克領域隊), 佐喜幸夫, 江島一八, 鬼塚平太 (零隊) |
+| アスタリスクロック (Asterisk Rock)                    | 火      | 60     | Block    | 3            | 阿斯塔(破壞者隊), Dande (破壞者隊)                              |
+| もちもち黄粉餅 (Mochi Mochi Kinako Mochi)<br/><b>黏呼呼麻糬</b> | 火      | 60     | Block    | 3            | 菜花黄名子                                                    |
+| ラ・フラム (La Flamme)<br/><b>聖女烈火</b>            | 火      | 20     | Block    | 3 (MIX)      | 霧野蘭丸 (極限融合狀態)                                     |
+| もちもち黄粉餅 (Mochi Mochi Kinako Mochi)<br/><b>黏呼呼麻糬</b> | 火      | 70     | Block    | アームド (Armed)<br/>武裝 | 菜花黄名子                                                    |
 
   
   
@@ -2615,12 +2615,12 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | バーバリアンの盾 (Barbarian no Tate)           | 山      | 60     | Block    | 2            | Hebimoth (黑暗天使隊), Ottorino(吟遊詩人), Gattuso(吟遊詩人), 丹提迪亞普羅 (吟遊詩人), 班特卡利亞諾 (小巨人隊) |
 | ブロックサーカス (Block Circus *Circus Block*) | 山      | 40     |          | 2 \[合體(2人)\] | Marco(吟遊詩人), Giuseppe(吟遊詩人), Alessandro(吟遊詩人), Canon                          |
 | かっとびディフェンス (Kattobi Defence)           | 山      | 50     | Block    | 2 \[合體(2人)\] | 西園信助, Angelo (吟遊詩人)                                                           |
-| フラクタルハウス (Fractal House)               | 山      | 50     |          | 2 \[合體(2人)\] | 沃利(天馬隊), 疊胖(天馬隊), 史特羅(天馬隊), 斯邁爾(天馬隊), 奇莫郎(天馬隊)             |
+| フラクタルハウス (Fractal House)<br/><b>分形幾何大廈</b> | 山      | 50     |          | 2 \[合體(2人)\] | 沃利(天馬隊), 疊胖(天馬隊), 史特羅(天馬隊), 斯邁爾(天馬隊), 奇莫郎(天馬隊)             |
 | マジカルフラワー (Magical Flower)              | 山      | 50     |          | 3            | Chuuri(破壞者隊), Genius(破壞者隊), Kamomi(破壞者隊), Mokuren(破壞者隊), Maagaru (破壞者隊)                      |
-| アトランティスウォール (Atlantis Wall)            | 山      | 60     | Block    | 3            | 天城大地, 壁山塀吾郎                                                                   |
+| アトランティスウォール (Atlantis Wall)<br/><b>亞特蘭提斯之壁</b>  | 山      | 60     | Block    | 3            | 天城大地, 壁山塀吾郎                                                                   |
 | グランドクェイク (Ground Quake)                | 山      | 60     | Block    | 3            | 極川寒太郎, Walter (小巨人隊), 普波托蘭卡斯 (王牙)                                             |
 | ザ・マウンテン (The Mountain)                 | 山      | 60     | Block    | 3            | 壁山塀吾郎                                                                         |
-| ストロングタワー (Strong Tower)                | 山      | 70     |          | 化身 (Keshin)  | 海                                                                           |
+| ストロングタワー (Strong Tower)<br/><b>強力落雷高塔</b> | 山      | 70     |          | 化身 (Keshin)  | 海                                                                           |
 
   
   
@@ -2655,7 +2655,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | エレキトラップ (Electric Trap)                     | 風      | 40     | Catch    | 2            | 扎高美坦迪                       |
 | 正義の鉄拳 (Seigi no Tekken *Fist of Justice*)   | 風      | 40     | Punch 2  | 2            | 圓堂守, 木野秋 (女生隊)              |
 | 時空の壁 (Jikuu no Kabe *Temporal Wall*)        | 風      | 50     | Punch 2  | 3            | 根室君之                        |
-| シャイニングホール (Shining Hole/ **光之穴** )                    | 風      | 50     | Catch    | 3            | Lotus (破壞者隊)       |
+| シャイニングホール (Shining Hole) <b>光之穴</b> )                    | 風      | 50     | Catch    | 3            | Lotus (破壞者隊)       |
 | ハイボルテージ (High Voltage)                      | 風      | 50     | Punch 2  | 3 \[合體(3人)\] | 扎高美坦迪 (王牙)                  |
 
   
@@ -2705,7 +2705,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>杉森威</td>
 </tr>
 <tr class="odd">
-<td>ワームホール (Worm Hole)</td>
+<td>ワームホール (Worm Hole)<br/><b>蟲洞</b></td>
 <td>林</td>
 <td>30</td>
 <td>Catch</td>
@@ -2722,7 +2722,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="odd">
 <td>ドーンシャウト [キーパーコマンド03]<br />
-(Doon Shout [Keeper Command 03])</td>
+(Doon Shout [Keeper Command 03])<br/><b>晨光吶喊</b></td>
 <td>林</td>
 <td>40</td>
 <td>Catch</td>
@@ -2763,7 +2763,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="even">
 <td>ジャイロセービング[キーパーコマンド07]<br />
-(Gyro Saving [Keeper Command 07])</td>
+(Gyro Saving [Keeper Command 07])<br/><b>儲能陀螺</b></td>
 <td>林</td>
 <td>50</td>
 <td>Catch</td>
@@ -2771,7 +2771,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>紮諾(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
-<td>ディスティニークラウド (Destiny Cloud/ **命運闇雲** )</td>
+<td>ディスティニークラウド (Destiny Cloud) <b>命運闇雲</b></td>
 <td>林</td>
 <td>50</td>
 <td>Catch</td>
@@ -2779,7 +2779,7 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Lotus (破壞者隊)</td>
 </tr>
 <tr class="even">
-<td>ムゲン・ザ・ハンド (Mugen The Hand)</td>
+<td>ムゲン・ザ・ハンド (Mugen The Hand)<br/><b></b></td>
 <td>林</td>
 <td>50</td>
 <td>Catch</td>
@@ -2812,20 +2812,20 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 |                                            |        |        |          |             |                                                        |
 | ------------------------------------------ | ------ | ------ | -------- | ----------- | ------------------------------------------------------ |
 | **守門技**                                    | **元素** | **TP** | **Type** | **Level**   | **發動**                                   |
-| バーニングキャッチ (Burning Catch)                  | 火      | 30     | Catch    | 1           | 三國太一, 西園信助, 空野葵                                        |
+| バーニングキャッチ (Burning Catch)<br/><b>燃燒接球</b> | 火      | 30     | Catch    | 1           | 三國太一, 西園信助, 空野葵                                        |
 | パワースパイク (Power Spike)                      | 火      | 30     | Catch    | 1           | 瑪邱斯 (天馬隊), 兵頭司 (革命選拔), Viola (破壞者隊), 雅野麗一 |
 | パワーシールド (Power Shield)                     | 火      | 30     | Punch 1  | 1           | 源田幸次郎/源田幸次郎, Viola (破壞者隊)                     |
 | フルパワーシールド (Full Power Shield)              | 火      | 40     | Punch 1  | 2           | 源田幸次郎/源田幸次郎, Ottorino(吟遊詩人)                            |
 | シュートブレイク (Shoot Break)                     | 火      | 30     | Catch    | 2           | 千宮路大和 (第五院)                                            |
-| ドリルスマッシャー (Drill Smasher)                  | 火      | 40     | Punch 1  | 2           | Desarm/砂木沼治, 源田幸次郎/源田幸次郎                               |
+| ドリルスマッシャー (Drill Smasher)<br/><b>鑽頭毀滅者</b> | 火      | 40     | Punch 1  | 2           | Desarm/砂木沼治, 源田幸次郎/源田幸次郎                               |
 | ダブルロケット (Double Rocket)                    | 火      | 40     | Punch 1  | 2           | 杉森威                                                    |
 | バーンアウト (Burn Out)                          | 火      | 40     | Catch    | 2           | 大岩藏人, 瀬方隆一郎                                            |
-| ゴットハンドX (God Hand X)                       | 火      | 40     | Catch    | 2           | Rococo(小巨人隊), Cain (小巨人隊), 空野葵                               |
-| サンドカッター (Sand Cutter)                      | 火      | 40     | Catch    | 3           | 蘇坦                                                 |
+| ゴットハンドX (God Hand X)<br/><b>黃金神掌X</b>  | 火      | 40     | Catch    | 2           | Rococo(小巨人隊), Cain (小巨人隊), 空野葵                               |
+| サンドカッター (Sand Cutter)<br/><b>沙塵切割</b>     | 火      | 40     | Catch    | 3           | 蘇坦                                                 |
 | カウンタードライブ (Counter Drive)                  | 火      | 40     | Catch    | 3           | 雅野麗一                                                   |
 | バーンアウトV2 (Burn Out V2)                     | 火      | 50     | Catch    | 3           | 大岩藏人                                                   |
-| 無頼ハンド (Burai Hand)                         | 火      | 50     | Catch    | 3           | 三國太一, 空野葵, 兵頭司 (革命選拔)                                  |
-| ドリルスマッシャーV2 (Drill Smasher V2)             | 火      | 60     | Punch 1  | 3           | Desarm/砂木沼治, 瀬方隆一郎, 源田幸次郎/源田幸次郎                        |
+| 無頼ハンド (Burai Hand)<br/><b>無賴神掌</b>      | 火      | 50     | Catch    | 3           | 三國太一, 空野葵, 兵頭司 (革命選拔)                                  |
+| ドリルスマッシャーV2 (Drill Smasher V2)<br/><b>鑽頭毀滅者V2</b> | 火      | 60     | Punch 1  | 3           | Desarm/砂木沼治, 瀬方隆一郎, 源田幸次郎/源田幸次郎                        |
 | ビーストファング (Beast Fang)                      | 火      | 60     | Catch    | 3           | 源田幸次郎/源田幸次郎, 厚石茂人                                      |
 | タマシイ・ザ・ハンド (Tamashii The Hand *Soul Hand*) | 火      | 60     | Catch    | 3           | Rococo(小巨人隊), 多摩野五郎                                          |
 | キングファイア (King Fire)                        | 火      | 60     | Catch    | 化身 (Keshin) | 千宮路大和 (第五院)                                            |
@@ -2841,21 +2841,21 @@ guide in md</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | コロッセオガード (Colosseo Guard *Colosseum Guard*)          | 山      | 30     | Punch 1  | 2            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
 | ぶっとびパンチ (Buttobi Punch)                              | 山      | 30     | Punch 1  | 2            | 西園信助, 瑪邱斯 (天馬隊)                         |
 | マジン・ザ・ハンド (Majin The Hand)                           | 山      | 30     | Catch    | 2            | 圓堂守, 多摩野五郎                                  |
-| エクセレントブレスト (Excellent Breast)                        | 山      | 40     | Catch    | 2            | 瑪邱斯 (天馬隊), 梅達姆(奧米迦協議隊), Lotus (破壞者隊) |
+| エクセレントブレスト (Excellent Breast)<br/><b>極致胸膛</b>   | 山      | 40     | Catch    | 2            | 瑪邱斯 (天馬隊), 梅達姆(奧米迦協議隊), Lotus (破壞者隊) |
 | いかりのてっつい (Ikari no Tettsui *Hammer of Fury*)         | 山      | 40     | Catch    | 2            | 圓堂守                                         |
-| フェンス・オブ・ガイア (Fence of Gaia)                          | 山      | 40     | Punch 1  | 2            | 三國太一, 兵頭司 (革命選拔), Blasi (吟遊詩人)              |
+| フェンス・オブ・ガイア (Fence of Gaia)<br/><b>蓋亞之指</b>   | 山      | 40     | Punch 1  | 2            | 三國太一, 兵頭司 (革命選拔), Blasi (吟遊詩人)              |
 | コロッセオガード改 (Colosseo Guard Kai *Colosseum Guard Kai*) | 山      | 40     | Punch 1  | 3            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
 | サーペントファング (Serpent Fang)                             | 山      | 40     | Catch    | 3            | 蛇野巻人 (零隊), Laven(破壞者隊)                        |
-| エクセレントブレスト改 (Excellent Breast Kai)                   | 山      | 50     | Catch    | 3            | 瑪邱斯 (天馬隊), 梅達姆(奧米迦協議隊), Lotus (破壞者隊) |
+| エクセレントブレスト改 (Excellent Breast Kai)<br/><b>新˙極致胸膛</b>  | 山      | 50     | Catch    | 3            | 瑪邱斯 (天馬隊), 梅達姆(奧米迦協議隊), Lotus (破壞者隊) |
 | 真 マジン・ザ・ハンド (Shin Majin The Hand)                    | 山      | 50     | Catch    | 3            | 圓堂守, 多摩野五郎                                  |
 | ギガントウォール (Gigant Wall)                               | 山      | 50     | Catch    | 3            | 步星吞一 (世宇子), Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)    |
-| ゴッドハンドW (God Hand W)                                 | 山      | 50     | Catch    | 3            | 松風天馬                                        |
-| ゴッドハンドV (God Hand V)                                 | 山      | 50     | Catch    | 3            | 圓堂守, Rococo(小巨人隊)                                 |
+| ゴッドハンドW (God Hand W) <br/><b>黃金神掌W</b>           | 山      | 50     | Catch    | 3            | 松風天馬                                        |
+| ゴッドハンドV (God Hand V) <br/><b>黃金神掌V</b>           | 山      | 50     | Catch    | 3            | 圓堂守, Rococo(小巨人隊)                                 |
 | ゴッドキャッチ (God Catch)                                  | 山      | 60     | Catch    | 3            | 圓堂守                                         |
 | オメガ・ザ・ハンド (Omega The Hand)                           | 山      | 60     | Catch    | 3            | 圓堂守                                         |
 | グレイト・ザ・ハンド (Great The Hand)                          | 山      | 60     | Catch    | 3            | 圓堂守                                         |
 | 無限の壁 (Mugen no Kabe *Infinite Wall*)                 | 山      | 50     | Catch    | 3 \[合體(3人)\] | 源田幸次郎/源田幸次郎                                 |
 | 大国謳歌 (Taikoku Ouka)                                  | 山      | 20     | Catch    | 3 (MIX)      | 西園信助 (極限融合狀態)                        |
-| ギガンティックボム (Gigantic Bomb)                            | 山      | 60     | Catch    | 化身 (Keshin)  | 兵頭司 (革命選拔)                                  |
-| マジン・ザ・ハンド (Majin The Hand)                           | 山      | 60     | Catch    | 化身 (Keshin)  | 西園信助                                        |
-| ぶっとびパンチ (Buttobi Punch)                              | 山      | 60     | Punch 1  | アームド (Armed) | 西園信助                                        |
+| ギガンティックボム (Gigantic Bomb)                       | 山      | 60     | Catch    | 化身 (Keshin)  | 兵頭司 (革命選拔)                                  |
+| マジン・ザ・ハンド (Majin The Hand)<br/><b>魔神掌</b>    | 山      | 60     | Catch    | 化身 (Keshin)  | 西園信助                                        |
+| ぶっとびパンチ (Buttobi Punch)                              | 山      | 60     | Punch 1  | アームド (Armed)<br/>武裝 | 西園信助                                        |
