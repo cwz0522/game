@@ -2,7 +2,7 @@
 /Gouenji/豪炎寺修也/
 /Masato/豪炎寺真人/
 /Ogre/王牙/
-/Canon/圓堂加儂/
+/Canon/圓堂加農/
 /Endou/圓堂守/
 /Tsurugi Kyousuke/劍城京介/
 /Tsurugi Yuuichi/劍城優一/
@@ -57,7 +57,7 @@
 /Gojou/五條勝/
 /Narukami/成神健也/
 /Henmi/邊見渡/
-/Sakiyama/咲山修二/
+/Sakiyama/咲山修二/  「咲」古同「笑」
 /Doumen/洞面秀一郎/
 /Jimon/寺門大貴/
 /Apollo/阿保露光/    世宇子: 常用神名
@@ -156,7 +156,7 @@ Enrico Olivier (エンリコ・オリビエ)          			       吟遊詩人: MF
 Alessandro Rossa (アレサンドロ・ロッサ)      			       吟遊詩人: MF 14
 Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: MF 16
 
-/Hiroto/基山浩人/        Gran グラン    吉良浩人
+/Hiroto/基山\/吉良浩人/        Gran グラン    吉良浩人
 /Saru/薩魯艾凡/
 /Seto Midori/瀨戶水鳥/
 /Midori/瀨戶水鳥/
@@ -173,7 +173,7 @@ Gianluca Zanardi (ジャンルカ・ザナルディ)    			       吟遊詩人: 
 /Sousou/曹操/
 /King Arthur/亞瑟王/
 /Master Dragon/天王巨龍/
-/Torb/東武/				托普
+/Torb/托普/				 東武
 /Tochan/風神翼龍老爸/
 /Inaba Taian/稲葉大安/
 /Sorano Aoi/空野葵/
