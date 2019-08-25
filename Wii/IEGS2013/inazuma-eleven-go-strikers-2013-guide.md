@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td>ビッグ バン<br />
-(Big Bang)</td>
+(Big Bang)<br/><b>大霹靂</b></td>
 <td>基山/吉良浩人, 吹雪士郎 and 鬼道有人 (閃電日本隊)<br />
 絆100%</td>
 <td>基山/吉良浩人</td>
@@ -58,7 +58,7 @@
 <tr class="odd">
 <td>バタフライ ドリーム<br />
 (Butterfly Dream)<br />
-<em>Butterfly Trance</em></td>
+<em>Butterfly Trance</em><br/><b>夢蝶凌舞</b></td>
 <td>浦部莉香 and 財前塔子<br />
 絆50%</td>
 <td>浦部莉香, 財前塔子 or 御堂玲華</td>
@@ -78,7 +78,7 @@
 </tr>
 <tr class="odd">
 <td>クロスファイア<br />
-(Cross Fire)</td>
+(Cross Fire)<br/><b>聖十字火焰</b></td>
 <td>豪炎寺修也 (第二雷門) and 吹雪士郎 (閃電日本隊)<br />
 絆75%</td>
 <td>豪炎寺修也 or 吹雪士郎</td>
@@ -170,7 +170,7 @@
 </tr>
 <tr class="even">
 <td>ファイアブリザード<br />
-(Fire Blizzard)</td>
+(Fire Blizzard)<br/><b>烈火冰風暴</b></td>
 <td>炎 and 翔 (Chaos)<br />
 絆100%</td>
 <td>炎 (南雲晴矢) or 翔 (涼野風介)</td>
@@ -245,7 +245,7 @@
 </tr>
 <tr class="odd">
 <td>グランドファイア [Long]<br />
-(Grand Fire)</td>
+(Grand Fire)<br/><b>烈火巨炎</b></td>
 <td>豪炎寺修也, 宇都宮虎丸 and 基山/吉良浩人 (閃電日本隊)<br />
 絆75%</td>
 <td>豪炎寺修也</td>
@@ -456,7 +456,7 @@
 <tr class="odd">
 <td>スペースペンギン<br />
 (Space Penguin)<br />
-<em>Space Penguins</em></td>
+<em>Space Penguins</em><br/><b>太空企鵝</b></td>
 <td>Gran (基山/吉良浩人), 八神玲名 and 伊豆野由宇<br />
 絆75%</td>
 <td>八神玲名</td>
@@ -466,7 +466,7 @@
 </tr>
 <tr class="even">
 <td>スーパーノヴァ<br />
-(Supernova)</td>
+(Supernova)<br/><b>超新星</b></td>
 <td>Gran (基山/吉良浩人), 八神玲名 and 伊豆野由宇<br />
 絆100%</td>
 <td>Gran (基山/吉良浩人)</td>
@@ -508,7 +508,7 @@
 <tr class="even">
 <td>ザ･バース<br />
 (The Birth)<br />
-<em>The Dawn</em></td>
+<em>The Dawn</em><br/><b>生命起源</b></td>
 <td>吹雪士郎 and 基山/吉良浩人 (閃電日本隊)<br />
 絆100%</td>
 <td>吹雪士郎 or 基山/吉良浩人</td>
@@ -807,7 +807,7 @@
 <tr class="odd">
 <td>キラーフィールズ<br />
 (Killer Fields)<br />
-<em>Field of Force</em></td>
+<em>Field of Force</em><br/><b>球場殺戮者</b></td>
 <td>鬼道有人 and 不動明王 (閃電日本隊)<br />
 絆50%</td>
 <td>鬼道有人 or 不動明王</td>
@@ -953,7 +953,7 @@
 </tr>
 <tr class="even">
 <td>パーフェクトタワー<br />
-(Perfect Tower)</td>
+(Perfect Tower)<br/><b>完美落雷高塔</b></td>
 <td>財前塔子, 木暮夕彌 and 綱海條介 (第二雷門)<br />
 絆50%</td>
 <td>財前塔子</td>
@@ -1014,7 +1014,7 @@
 </tr>
 <tr class="even">
 <td>デュアルスマッシュ<br />
-(Dual Smash)</td>
+(Dual Smash)<br/><b>雙人狙擊</b></td>
 <td>杉森威 and 影野仁 (暗黑帝王隊)<br />
 絆50%</td>
 <td>杉森威</td>
@@ -1144,7 +1144,7 @@
 **薩魯艾凡**: 選入 菲魯恩, 雨宮太陽, 菜花黄名子, 托普 and 扎納克  
 **杉森威/Feldt (Brainwashing)**: 選入他 (暗黑帝王隊)的版本  
 **西垣守/Night (Kirkwood: Kidokawa Seishuu 木戸川清修)**: 選入他 (暗黑帝王隊)的版本  
-**闇野カゲト (雷門)**: 選入他 (暗黑帝王隊)的版本  
+**闇野影斗 (雷門)**: 選入他 (暗黑帝王隊)的版本  
 **不動明王 (真帝國學園/Royal Redux)**: 選入 不動明王 (閃電日本隊)  
 **源田幸次郎 (真帝國學園/Royal Redux)**: 選入 源田幸次郎/King (帝國學園/Royal) and (新日本隊)  
 **佐久間次郎 (真帝國學園/Royal Redux)**: 選入 佐久間次郎 (帝國學園/Royal) and (閃電日本隊)  
