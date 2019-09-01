@@ -701,7 +701,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>染岡龍吾</td>
 </tr>
 <tr class="even">
-<td>シェルビットバースト (Shellbit Burst)</td>
+<td>シェルビットバースト (Shellbit Burst)<br/><b>甲殼爆射</b></td>
 <td>林</td>
 <td>50</td>
 <td></td>
@@ -1667,7 +1667,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>扎納克, 阿斯塔(破壞者隊)</td>
 </tr>
 <tr class="odd">
-<td>モータルスマッシュ (Mortal Smash)</td>
+<td>モータルスマッシュ (Mortal Smash)<br/><b>致死扣殺</b></td>
 <td>山</td>
 <td>80</td>
 <td></td>
@@ -2322,7 +2322,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td><strong>發動</strong></td>
 </tr>
 <tr class="even">
-<td>デコイ･リリース (Decoy Release)</td>
+<td>デコイ･リリース (Decoy Release)<br/><b>誘餌出擊</b></td>
 <td>無</td>
 <td>40</td>
 <td>3</td>
@@ -2537,7 +2537,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>菜花黄名子 (極限融合狀態)</td>
 </tr>
 <tr class="odd">
-<td>ディープジャングル (Deep Jungle)<br/><b></b></td>
+<td>ディープジャングル (Deep Jungle)<br/><b>深淵叢林</b></td>
 <td>林</td>
 <td>40</td>
 <td></td>
