@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td>ビッグ バン<br />
-(Big Bang)<br/><b>大霹靂</b></td>
+(Big Bang)<br/><b>大霹靂/大重擊</b></td>
 <td>基山/吉良浩人, 吹雪士郎 and 鬼道有人 (閃電日本隊)<br />
 絆100%</td>
 <td>基山/吉良浩人</td>
@@ -322,7 +322,7 @@
 </tr>
 <tr class="even">
 <td>ジェットストリーム [Long]<br />
-(Jet Stream)</td>
+(Jet Stream)<br/><b>噴射氣旋</b></td>
 <td>圓堂守, 豪炎寺修也 and 宇都宮虎丸 (閃電日本隊)<br />
 絆100%</td>
 <td>圓堂守 or 不動明王</td>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="odd">
 <td>プライムレジェンド<br />
-(Prime Legend)</td>
+(Prime Legend)<br/><b>領袖傳說</b></td>
 <td>豪炎寺修也 and 鬼道有人 (第一雷門)<br />
 絆100%</td>
 <td>豪炎寺修也 or 鬼道有人</td>
@@ -508,7 +508,7 @@
 <tr class="even">
 <td>ザ･バース<br />
 (The Birth)<br />
-<em>The Dawn</em><br/><b>生命起源</b></td>
+<em>The Dawn</em><br/><b>誕生/生命起源</b></td>
 <td>吹雪士郎 and 基山/吉良浩人 (閃電日本隊)<br />
 絆100%</td>
 <td>吹雪士郎 or 基山/吉良浩人</td>
@@ -518,7 +518,7 @@
 </tr>
 <tr class="odd">
 <td>ヅ・アース<br />
-(The Earth)</td>
+(The Earth)<br/><b>地球之歌</b></td>
 <td>圓堂守 (第二雷門), 豪炎寺修也 (第二雷門) and 吹雪士郎 (閃電日本隊)<br />
 絆100%</td>
 <td>圓堂守 or 雷門夏未</td>
@@ -528,7 +528,7 @@
 </tr>
 <tr class="even">
 <td>ザ・ハリケーン<br />
-(The Hurricane)</td>
+(The Hurricane)<br/><b>極寒颶風</b></td>
 <td>風丸一郎太 and 吹雪士郎 (閃電日本隊)<br />
 絆75%</td>
 <td>風丸一郎太, 吹雪士郎 or 宮坂了</td>
@@ -538,7 +538,7 @@
 </tr>
 <tr class="odd">
 <td>ザ・フェニックス<br />
-(The Phoenix)</td>
+(The Phoenix)<br/><b>鳳凰展翅</b></td>
 <td>一之瀨一哉, 圓堂守 and 土門飛鳥<br />
 (第一雷門)<br />
 絆75%</td>
@@ -569,7 +569,7 @@
 </tr>
 <tr class="even">
 <td>トライペガサス<br />
-(Tri Pegasus)</td>
+(Tri Pegasus)<br/><b>天馬三重奏</b></td>
 <td>一之瀨一哉, 圓堂守 and 土門飛鳥<br />
 (第一雷門)<br />
 絆50%</td>
@@ -583,7 +583,7 @@
 (Triangle Z)</td>
 <td>砂木沼治, 瀬方隆一郎 and 伊豆野由宇 (新日本隊)<br />
 絆75%</td>
-<td>砂木沼治 (Desarm) or 武方努</td>
+<td>砂木沼治/迪薩姆 or 武方努</td>
 <td>選2人) 瀬方隆一郎, 伊豆野由宇, 武方努 and 砂木沼治</td>
 <td>火</td>
 <td>30</td>
@@ -718,7 +718,7 @@
 </tr>
 <tr class="even">
 <td>マキシマムファイア [Chain]<br />
-(Maximum Fire)</td>
+(Maximum Fire)<br/><b>傳奇火焰/極限烈火</b></td>
 <td>豪炎寺修也 (第一雷門)<br />
 覺醒3</td>
 <td>豪炎寺修也</td>
@@ -1024,7 +1024,7 @@
 </tr>
 <tr class="odd">
 <td>ハイボルテージ [Punch 2]<br />
-(High Voltage)</td>
+(High Voltage)<br/><b>高壓電擊</b></td>
 <td>扎高美坦迪, 凱波托蘭卡斯 and 普波托蘭卡斯 (王牙)<br />
 絆50%</td>
 <td>扎高美坦迪</td>
@@ -1075,7 +1075,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;">ゴッドキャッチ<br />
-(God Catch)</td>
+(God Catch)<br/><b>雷神截殺</b></td>
 <td style="text-align: center;">圓堂守 (閃電日本隊)<br />
 覺醒3</td>
 <td style="text-align: center;">圓堂守</td>
