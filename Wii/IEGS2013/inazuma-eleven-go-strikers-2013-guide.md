@@ -975,7 +975,7 @@
 (Shooting Star)</td>
 <td>少林寺步 and 宍戶佐吉 (暗黑帝王隊)<br />
 絆50%</td>
-<td>少林寺步 or Shintei (小巨人隊)</td>
+<td>少林寺步 or Shinti (小巨人隊)</td>
 <td>宍戶佐吉, 若無則任一個一般球員</td>
 <td>火</td>
 <td>50</td>

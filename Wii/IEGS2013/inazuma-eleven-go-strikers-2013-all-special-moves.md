@@ -1048,7 +1048,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Choi Chang Soo(世界選拔改)</td>
 </tr>
 <tr class="even">
-<td>流星ブレード (Ryuusei Blade <em>Meteor Blade</em>)<<br/><b>流星之刃</b>/td>
+<td>流星ブレード (Ryuusei Blade <em>Meteor Blade</em>)<br/><b>流星之刃</b></td>
 <td>火</td>
 <td>50</td>
 <td>Block</td>
@@ -1965,7 +1965,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 </tr>
 <tr class="even">
 <td>オーバードライブ [オフェンスコマンドK01]<br />
-(Overdrive [Offence Command K01])<br/><b>重型水矛</b></td>
+(Overdrive [Offence Command K01])<br/><b>超速驅動</b></td>
 <td>風</td>
 <td>60</td>
 <td>化身 (Keshin)</td>
