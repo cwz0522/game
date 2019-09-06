@@ -82,7 +82,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>松野空介, Enrico(吟遊詩人)</td>
 </tr>
 <tr class="even">
-<td>ツナミブースト (Tsunami Boost)</td>
+<td>ツナミブースト (Tsunami Boost)<br/><b>超級海嘯</b></td>
 <td>風</td>
 <td>20</td>
 <td>Long</td>
@@ -163,7 +163,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>南澤篤志, 湾田七雄人</td>
 </tr>
 <tr class="even">
-<td>ディバインアロー (Divine Arrow <em>Divine Arrows</em>)<br />
+<td>ディバインアロー (Divine Arrow <em>Divine Arrows</em>)<br/><b>神聖飛箭</b>
 </td>
 <td>風</td>
 <td>40</td>
@@ -246,7 +246,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>迪薩姆/砂木沼治, 下鶴改 (新日本隊)</td>
 </tr>
 <tr class="even">
-<td>ノーザンインパクト (Northern Impact)</td>
+<td>ノーザンインパクト (Northern Impact)<br/><b>極地衝擊</b></td>
 <td>風</td>
 <td>60</td>
 <td>Chain</td>
@@ -311,7 +311,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>半田真一, 松野空介</td>
 </tr>
 <tr class="even">
-<td>サンダービースト (Thunder Beast)</td>
+<td>サンダービースト (Thunder Beast)<br/><b>迅雷猛獸</b></td>
 <td>風</td>
 <td>40</td>
 <td></td>
@@ -668,7 +668,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>浦部莉香, 雷門夏未, 堀道子 (女生隊)</td>
 </tr>
 <tr class="even">
-<td>ワイバーンクラッシュ (Wyvern Crash)</td>
+<td>ワイバーンクラッシュ (Wyvern Crash)<br/><b>翼龍怒吼</b></td>
 <td>林</td>
 <td>40</td>
 <td></td>
@@ -693,7 +693,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>伽瑪(奧米迦協議隊)</td>
 </tr>
 <tr class="odd">
-<td>ドラゴンスレイヤー (Dragon Slayer)</td>
+<td>ドラゴンスレイヤー (Dragon Slayer)<br/><b>猛龍殺手</b></td>
 <td>林</td>
 <td>50</td>
 <td>Chain</td>
@@ -1160,7 +1160,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>劍城京介 (極限融合狀態)</td>
 </tr>
 <tr class="even">
-<td>ツインブースト (Twin Boost)</td>
+<td>ツインブースト (Twin Boost)<br/><b>雙重噴射</b></td>
 <td>火</td>
 <td>30</td>
 <td></td>
@@ -1168,7 +1168,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>鬼道有人, 佐久間次郎, 一之瀨一哉</td>
 </tr>
 <tr class="odd">
-<td>ドラゴントルネード (Dragon Tornado)</td>
+<td>ドラゴントルネード (Dragon Tornado)<br/><b>龍型龍捲風/青龍咆嘯</b></td>
 <td>火</td>
 <td>30</td>
 <td></td>
@@ -1256,7 +1256,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>風丸一郎太, 栗松鐵平, 宍戶佐吉, Gianluca(吟遊詩人), 拉斐葉傑涅拉尼 (吟遊詩人), Enrico(吟遊詩人)</td>
 </tr>
 <tr class="even">
-<td>グランドファイア (Grand Fire)</td>
+<td>グランドファイア (Grand Fire)<br/><b>大地烈炎</b></td>
 <td>火</td>
 <td>30</td>
 <td>Long</td>
@@ -1450,7 +1450,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>羅剎</td>
 </tr>
 <tr class="even">
-<td>フローラルデスペアー (Floral Despair)</td>
+<td>フローラルデスペアー (Floral Despair)<br/><b>絕望闇華</b></td>
 <td>山</td>
 <td>50</td>
 <td></td>
@@ -1562,7 +1562,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>財前塔子, 浦部莉香, 御堂玲華 (女生隊)</td>
 </tr>
 <tr class="even">
-<td>ユニコーンブースト (Unicorn Boost)</td>
+<td>ユニコーンブースト (Unicorn Boost)<br/><b>獨角獸推進</b></td>
 <td>山</td>
 <td>40</td>
 <td></td>
@@ -1915,7 +1915,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>一乃七助, 雪村豹牙, 隼総英聖, 瑞莎(奧米迦協議隊), 木瀧常緒</td>
 </tr>
 <tr class="odd">
-<td>ダッシュストーム (Dash Storm)</td>
+<td>ダッシュストーム (Dash Storm)<br/><b>毀滅風暴</b></td>
 <td>風</td>
 <td>40</td>
 <td>2</td>
@@ -2094,7 +2094,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>神童拓人, 山菜茜, Angelo(吟遊詩人), Fideo/費迪歐 (吟遊詩人)</td>
 </tr>
 <tr class="even">
-<td>キラーフィールズ (Killer Fields <em>Field of Force</em>)<br/><b>球場殺戮者</b></td>
+<td>キラーフィールズ (Killer Fields <em>Field of Force</em>)<br/><b>殺手領域</b></td>
 <td>林</td>
 <td>50</td>
 <td>3 [合體(2人)]</td>
@@ -2201,7 +2201,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>龜崎河童, Dylan(世界選拔改), 久井RuRu</td>
 </tr>
 <tr class="odd">
-<td>ライトニングアクセル (Lightning Accel <em>Lightning Sprint</em>)</td>
+<td>ライトニングアクセル (Lightning Accel <em>Lightning Sprint</em>)<br/><b>閃電加速</b></td>
 <td>火</td>
 <td>40</td>
 <td>2</td>
@@ -2381,7 +2381,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | フローズンスティール (Frozen Steal)<br/><b>冰凍抄截</b> | 風      | 40     |          | 2            | 極川寒太郎, 倉掛可拉拉, 角路徹, 凍地愛, 凍地修兒, 荒谷紺子               |
 | ザ・タワー (The Tower)<br/><b>落雷高塔</b>    | 風      | 50     | Block    | 2            | 財前塔子                                              |
 | 真空魔 (Shinkuuma *Vac Attack*)               | 風      | 50     | Block    | 2            | 速水鶴正, 飛鷹征矢, 修羅, Okiddo(破壞者隊)                         |
-| スノーエンジェル (Snow Angel)                      | 風      | 50     |          | 2            | 吹雪士郎, Winel(黑暗天使隊), 久遠冬花                          |
+| スノーエンジェル (Snow Angel)<br/><b>雪之天使</b> | 風      | 50     |          | 2            | 吹雪士郎, Winel(黑暗天使隊), 久遠冬花                          |
 | 旋風陣 (Senpuujin *Whirlwind Force*)          | 風      | 50     | Block    | 2            | 木暮夕彌, 稲葉大安, McCall (小巨人隊), 曼特(天馬隊), 辛吉米               |
 | サルガッソー (Sargasso)                          | 風      | 40     |          | 2 \[合體(2人)\] | 艾那姆(奧米迦協議隊), 龍崎皇兒, 井出乗数, 多利露(天馬隊), 史特羅(天馬隊), 多利姆(奧米迦協議隊)            |
 | ゴー・トゥ・ヘブン (Go to Heaven *Heaven's Ascent*) | 風      | 60     |          | 3            | Nenel(黑暗天使隊), Elfel(黑暗天使隊)                        |
@@ -2581,10 +2581,10 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | フォトンフラッシュ (Photon Flash *Photon Crash*)      | 火      | 30     |          | 1            | 在手實弓 (世宇子), Angelo (吟遊詩人)                                |
 | ダッシュトレイン (Dash Train)<br/><b>衝刺列車</b>     | 火      | 30     |          | 1            | 車田剛一                                                     |
 | フェイクボンバー (Fake Bomber)<br/><b>山寨炸彈</b>    | 火      | 30     |          | 1            | 宍戶佐吉, 龜崎河童, Kito (小巨人隊), 虎濱甲子 (女生隊)                      |
-| フレイムダンス (Flame Dance)                          | 火      | 40     |          | 1            | 一之瀨一哉, 音村樂也, Maron(小巨人隊), Goushu (小巨人隊)                        |
+| フレイムダンス (Flame Dance)<br/><b>火燄之舞</b>      | 火      | 40     |          | 1            | 一之瀨一哉, 音村樂也, Maron(小巨人隊), Goushu (小巨人隊)                        |
 | スーパーしこふみ (Super Shikofumi *Super Sumo Stomp*) | 火      | 50     | Block    | 1            | 土方雷電                                                     |
 | イグナイトスティール (Ignite Steal)<br/><b>盜火之賊</b> | 火      | 40     |          | 2            | 本場激, 薔薇園華                                                |
-| スクリュードライバー (Screwdriver) <b>螺絲起子</b>    | 火      | 40     |          | 2            | 扎納克, 郭魯, 夜叉, 歐格 (扎納克領域隊)               |
+| スクリュードライバー (Screwdriver) <br/><b>螺絲起子</b> | 火      | 40     |          | 2            | 扎納克, 郭魯, 夜叉, 歐格 (扎納克領域隊)               |
 | ローリングスライド (Rolling Slide)                    | 火      | 40     |          | 2            | Lagarto(世界選拔改)                                           |
 | ボルケイノカット (Volcano Cut)                        | 火      | 50     | Block    | 2            | 土門飛鳥, Skid (小巨人隊), 達伊戈普卡 (王牙)                            |
 | さばきのてっつい (Sabaki no Tettsui *Divine Stamp*)   | 火      | 50     | Block    | 2            | 阿保露光, 部灰炎, 經目須商 (世宇子), 伊豆野由宇 (新日本隊), 丹提迪亞普羅 (吟遊詩人)       |
@@ -2607,7 +2607,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | アースクエイク (Earthquake)<br/><b>地球之歌震</b>  | 山      | 40     |          | 1            | 大野傳助 (帝國學園), 牧谷寛, 石平半蔵 (新日本隊), Blasi (吟遊詩人)                                   |
 | グラビテイション (Gravitation)                 | 山      | 50     | Block    | 1            | 蟹目出郎, 紀伊布美子, 近畿希望, Desuta(黑暗天使隊), 伊卡史塔克斯, 三島三太夫 (王牙)                          |
 | パワーチャージ (Power Charge)                 | 山      | 40     |          | 1            | 荒須亂 (世宇子), Ottorino(吟遊詩人), 達伊戈普卡, 傑尼斯金基斯, 多拉黑丘塔 (王牙)                          |
-| ザ・ウォール (The Wall)                      | 山      | 50     | Block    | 1            | 壁山塀吾郎, Walter (小巨人隊), 歐格, Mokuren(破壞者隊)                                           |
+| ザ・ウォール (The Wall)<br/><b>大岩壁</b>     | 山      | 50     | Block    | 1            | 壁山塀吾郎, Walter (小巨人隊), 歐格, Mokuren(破壞者隊)                                           |
 | ビバ！万里の長城 (Viva\! Banri no Choujou)     | 山      | 50     | Block    | 1            | 天城大地, Walter (小巨人隊)                                                           |
 | メガクェイク (Mega Quake)                    | 山      | 40     |          | 2            | 手魚激 (世宇子)                                                                     |
 | ヘビーベイビー (Heavy Baby *Heavy Mettle*)    | 山      | 50     | Block    | 2            | Coyote(世界選拔改), 丹提迪亞普羅 (吟遊詩人)                                                  |
@@ -2779,7 +2779,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 <td>Lotus (破壞者隊)</td>
 </tr>
 <tr class="even">
-<td>ムゲン・ザ・ハンド (Mugen The Hand)<br/><b></b></td>
+<td>ムゲン・ザ・ハンド (Mugen The Hand)<br/><b>無限之手</b></td>
 <td>林</td>
 <td>50</td>
 <td>Catch</td>
@@ -2838,7 +2838,7 @@ md 版本</span>](inazuma-eleven-go-strikers-2013-guide.md).
 | ---------------------------------------------------- | ------ | ------ | -------- | ------------ | ------------------------------------------- |
 | **守門技**                                              | **元素** | **TP** | **Type** | **Level**    | **發動**                        |
 | ゴッドハンド (God Hand)<br/><b>黃金神掌</b>             | 山      | 20     | Catch    | 1            | 圓堂守, 木野秋, 西園信助, 多摩野五郎, Rococo(小巨人隊)               |
-| コロッセオガード (Colosseo Guard *Colosseum Guard*)          | 山      | 30     | Punch 1  | 2            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
+| コロッセオガード (Colosseo Guard *Colosseum Guard*)<br/><b>競技場守衛</b>  | 山      | 30     | Punch 1  | 2            | Blasi(吟遊詩人), 達尼艾列桑古迪斯 (吟遊詩人)                |
 | ぶっとびパンチ (Buttobi Punch)                              | 山      | 30     | Punch 1  | 2            | 西園信助, 瑪邱斯 (天馬隊)                         |
 | マジン・ザ・ハンド (Majin The Hand)<br/><b>魔神的右手</b>   | 山      | 30     | Catch    | 2            | 圓堂守, 多摩野五郎                                  |
 | エクセレントブレスト (Excellent Breast)<br/><b>極致胸膛</b> | 山      | 40     | Catch    | 2            | 瑪邱斯 (天馬隊), 梅達姆(奧米迦協議隊), Lotus (破壞者隊) |

@@ -1192,6 +1192,22 @@
 
 </div>
 
+# 特殊物品
+
+|     品名            |       説明                   |                        入手方法
+|---------------------|------------------------------|------------------------------------------------------------------
+|     エンディングの書|結束物品                      |完成大蓬車模式所有關卡
+|     シュウのミサンガ|讓羈絆(友好度)容易上升        |在大蓬車模式中的新生雷門編打贏(零隊)，隊伍中要有天馬(新生雷門)、劍城京介、神童拓人
+|     フランの花束    |讓覺醒值容易上升              |在大蓬車模式中的新生雷門編打贏(破壞者隊)
+
+![](items.png)
+
+[其它狀態回復用品或是隊徽、制服(日文)](https://w.atwiki.jp/inazumagost2013/sp/pages/43.html)
+
+[其它狀態回復用品或是隊徽、制服(翻成英文)](https://translate.google.com/translate?sl=ja&hl=en&tl=enW&u=https://w.atwiki.jp/inazumagost2013/sp/pages/43.html)
+
+[其它狀態回復用品或是隊徽、制服(翻成中文)](https://translate.google.com/translate?sl=ja&hl=zh_TW&tl=zh_TWW&u=https://w.atwiki.jp/inazumagost2013/sp/pages/43.html)
+
 # 小技巧
 1. 必殺技的技能槽有Lv1(在文中為Level 1的簡稱)，Lv2, Lv3, SP (合體技/化身/化身武裝)
 2. 每個技能槽有相對應的TP值，若現有的TP少於Lv3所需的，即使SP需更少的TP，也沒辦法使用該招式。 [因攢必殺技時是依序進行的，Lv1-> Lv2-> Lv3-> SP]
