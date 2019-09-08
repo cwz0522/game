@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td>ドラゴントルネード<br />
-(Dragon Tornado)</td>
+(Dragon Tornado)<br/><b>龍型龍捲風/青龍咆嘯</b></td>
 <td>染岡龍吾 and 豪炎寺修也<br />
 (第一雷門)<br />
 絆50%</td>
@@ -218,7 +218,7 @@
 (Fire Tornado Triple Crusher Armed)<br/> <b>武裝形態: 烈焰龍捲風TC</b> <br />
 </td>
 <td>松風天馬 (天馬隊), 劍城京介 and 雨宮太陽<br />
-絆100%, everyone with 最高覺醒值</td>
+絆100%, 每個人都最高覺醒值</td>
 <td>松風天馬, 劍城京介, 雨宮太陽, 菜花黄名子 or 白龍</td>
 <td>劍城京介, 雨宮太陽, 菜花黄名子, 白龍 or 松風天馬</td>
 <td>火</td>
@@ -226,7 +226,7 @@
 </tr>
 <tr class="odd">
 <td>ガイアブレイク<br />
-(Gaia Break)</td>
+(Gaia Break)<br/><b>彗星撞擊</b></td>
 <td>不需解鎖</td>
 <td>武藤論, 皇マキ, 瀬方隆一郎, 厚石茂人 or 雷傑 (綠川龍二)</td>
 <td>皇マキ, 瀬方隆一郎, 厚石茂人, 雷傑 (綠川龍二) or 武藤論</td>
@@ -255,7 +255,7 @@
 </tr>
 <tr class="even">
 <td>グレートブラスター<br />
-(Great Blaster)</td>
+(Great Blaster)<br/><b>壯烈衝擊波</b></td>
 <td>劍城京介 and 白龍<br />
 絆100%</td>
 <td>劍城京介, 白龍 or 劍城優一</td>
@@ -265,7 +265,7 @@
 </tr>
 <tr class="odd">
 <td>グレートブラスター アームド<br />
-(Great Blaster Armed)</td>
+(Great Blaster Armed)<br/><b>武裝: 壯烈衝擊波</b></td>
 <td>劍城京介 and 白龍<br />
 絆100%, both with 覺醒3</td>
 <td>劍城京介, 白龍 or 劍城優一</td>
@@ -407,7 +407,7 @@
 <td>オメガアタック アームド<br />
 (Omega Attack Armed)</td>
 <td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) and 伽瑪(奧米迦協議隊)<br />
-絆100%, everyone with 覺醒3</td>
+絆100%, 每個人都覺醒3</td>
 <td>阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) or 伽瑪(奧米迦協議隊)</td>
 <td>選2人) 阿爾法(奧米迦協議隊), 貝塔(奧米迦協議隊) or 伽瑪(奧米迦協議隊)</td>
 <td>無</td>
@@ -436,8 +436,8 @@
 <tr class="odd">
 <td>最強イレブン波動<br />
 (Saikyou Eleven Hadou)<br/> <b>最強十一人波動</b></td>
-<td>松風天馬 (新生雷門) must have 50% 絆with 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 托普, 菜花黄名子, 雨宮太陽, 錦龍馬 and 扎納克. Everyone must have his/her mixi-max unlocked.</td>
-<td>松風天馬 (與 亞瑟王 極限融合)</td>
+<td>松風天馬 (新生雷門) 與這十人有50%絆: 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 托普, 菜花黄名子, 雨宮太陽, 錦龍馬, 扎納克，並且這11人都要解鎖極限融合</td>
+<td>松風天馬 (發動時要與 亞瑟王 極限融合，而另兩個代表配合的不用進入極限融合狀態)</td>
 <td>選2人) 神童拓人, 劍城京介, 菲魯恩, 西園信助, 霧野蘭丸, 托普, 菜花黄名子, 雨宮太陽, 錦龍馬 and 扎納克</td>
 <td>風</td>
 <td>20</td>
@@ -497,7 +497,7 @@
 <tr class="odd">
 <td>タツマキオトシ<br />
 (Tatsumaki Otoshi)<br />
-<em>Whirlwind Drop</em></td>
+<em>Whirlwind Drop</em><br/><b>旋風墜擊</b></td>
 <td>風丸一郎太 and 壁山塀吾郎 (閃電日本隊)<br />
 絆50%</td>
 <td>風丸一郎太 or 壁山塀吾郎</td>
@@ -549,7 +549,7 @@
 </tr>
 <tr class="even">
 <td>サンダービースト<br />
-(Thunder Beast)</td>
+(Thunder Beast)<br/><b>迅雷猛獸</b></td>
 <td>土方雷電 and 吹雪士郎 (閃電日本隊)<br />
 絆75%</td>
 <td>土方雷電 or 吹雪士郎</td>
@@ -630,7 +630,7 @@
 </tr>
 <tr class="even">
 <td>ユニコーンブースト<br />
-(Unicorn Boost)</td>
+(Unicorn Boost)<br/><b>獨角獸推進</b></td>
 <td>Mark(世界選拔改) and Dylan(世界選拔改)<br />
 絆50%</td>
 <td>Mark(世界選拔改) or Dylan(世界選拔改)</td>
@@ -641,7 +641,7 @@
 <tr class="odd">
 <td>ユニバースブラスト<br />
 (Universe Blast)<br />
-<em>Cosmic Blast</em></td>
+<em>Cosmic Blast</em><br/><b>宇宙炸裂衝擊波</b></td>
 <td>不需解鎖</td>
 <td>雷傑 (綠川龍二), 三浦大夢 or 七風理夢</td>
 <td>三浦大夢, 七風理夢 or 雷傑 (綠川龍二)</td>
@@ -660,7 +660,7 @@
 </tr>
 <tr class="odd">
 <td>ゼロマグナム<br />
-(Zero Magnum)</td>
+(Zero Magnum)<br/><b>麥格農零式</b></td>
 <td>白龍 and 修 (零隊)<br />
 絆75%</td>
 <td>白龍 or 修</td>
@@ -925,7 +925,7 @@
 </tr>
 <tr class="odd">
 <td>フラクタルハウス<br />
-(Fractal House)</td>
+(Fractal House)<br/><b>分形幾何大廈</b></td>
 <td>不需解鎖</td>
 <td>沃利(天馬隊), 疊胖(天馬隊), 史特羅(天馬隊), 斯邁爾(天馬隊) or 奇莫郎(天馬隊)</td>
 <td>選2人) 沃利(天馬隊), 疊胖(天馬隊), 史特羅(天馬隊), 斯邁爾(天馬隊) and 奇莫郎(天馬隊)</td>
@@ -1188,7 +1188,8 @@
 >
 > 有覺醒3與戰勝隊伍條件的，不用同時成立，先後都有達成即可。
 >
-> 有兩階段融合對象的角色，如天馬，是否可以不解鎖修，而直接解鎖亞瑟王？
+> Q: 有兩階段融合對象的角色，如天馬，是否可以不解鎖修，而直接解鎖亞瑟王？
+> **A: 可以的。**
 
 </div>
 
