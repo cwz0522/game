@@ -334,6 +334,7 @@ Dylan Keith		ディラン・キース
 /1st Raimon/第一雷門/
 /2nd Raimon/第二雷門/
 /Shinsei Raimon/新生雷門/
+/(Chaos)/(混沌紀元隊)/
 /(Fire Dragon)/(火焰神龍隊)/
 /(Tenmas)/(天馬隊)/
 /(Inazuma Japan)/(閃電日本隊)/
@@ -357,6 +358,7 @@ Dylan Keith		ディラン・キース
 /(Fifth Sectors)/(第五院)/     (フィフスセクターズ)
 /(Zero)/(零隊)/
 /(Destructchers)/(破壞者隊)/
+
 
 https://inazuma-eleven.fandom.com/wiki/Fifth_Sectors
 

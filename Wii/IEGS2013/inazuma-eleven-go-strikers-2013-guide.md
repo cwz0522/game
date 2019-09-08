@@ -181,7 +181,7 @@
 <tr class="even">
 <td>ファイアブリザード<br />
 (Fire Blizzard)<br/><b>烈火冰風暴</b></td>
-<td>炎 and 翔 (Chaos)<br />
+<td>炎 and 翔 (混沌紀元隊)<br />
 絆100%</td>
 <td>炎 (南雲晴矢) or 翔 (涼野風介)</td>
 <td>翔 (涼野風介) or 炎 (南雲晴矢)</td>
