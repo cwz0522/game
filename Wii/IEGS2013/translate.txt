@@ -280,6 +280,7 @@ Destructchers (デストラクチャーズ)	破壞者隊
 			女生隊
 
 /Aki Kino/木野秋/
+/Kino/木野秋/
 /Koi/土洲戀/
 /Fuyuka/久遠冬花/
 /Matoro/真都路珠香/
